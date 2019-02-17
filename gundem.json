@@ -74647,6 +74647,128 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 7,
+            "totalCount": 407,
+            "uploadDate": "16.02.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/02/2019_07_gundem.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=9W3mITgEkM8",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-07",
+            "rangeFirstDate": "11.02.2019",
+            "rangeLastDate": "16.02.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/7 (11 - 16 Şubat 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "AKN ile ilgili son gelişmeler. BTK’ya yeni tarife teklifi sunuldu iddiasını Türk Telekom yalanladı.",
+                    "contentLink": [
+                        "https://www.sozcu.com.tr/2019/ekonomi/saka-degil-gercek-internet-yavasliyordu-artik-kesilecek-3536606/",
+                        "https://medya.turktelekom.com.tr/turk-telekom-hakkindaki-iddialara-yonelik-duzeltme-6/"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, Türkiye’de ilk mağazasını İzmir’de açtı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/huawei-deneyim-magazasi-acildi-2369287-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Unreal Engine, DX12 Raytracing teknolojisini destekleyecek.",
+                    "contentLink": [
+                        "https://www.extremetech.com/computing/285701-unreal-engine-adds-support-for-dx12-raytracing"
+                    ]
+                },
+                {
+                    "contentText": "Mixer’e Türkçe desteği eklendi.",
+                    "contentLink": [
+                        "https://twitter.com/WatchMixer/status/1095412223680413696"
+                    ]
+                },
+                {
+                    "contentText": "TEKNOFEST 2019, Eylül ayında gerçekleşecek.",
+                    "contentLink": [
+                        "http://www.oyunfest.com/teknofest-2019-heyecani-basliyor-tarih-belli-oldu.html"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Netflix benzeri bir hizmeti 25 Mart etkinliğinde duyurabilir.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/13/18223880/apple-tv-video-subscription-service-netflix-competitor-unveiled-march-event"
+                    ]
+                },
+                {
+                    "contentText": "Spotify Podcast işinde büyüme yolunda adımlar atıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/6/18213462/spotify-podcasts-gimlet-anchor-acquisition"
+                    ]
+                },
+                {
+                    "contentText": "Netflix, Bandersnatch filminde yaptığınız tüm seçimleri kaydediyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/13/18223071/netflix-bandersnatch-gdpr-request-choice-data"
+                    ]
+                },
+                {
+                    "contentText": "Google, Android’teki kritik bir açığı kapadı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/02/hack-android-with-image.html"
+                    ]
+                },
+                {
+                    "contentText": "8 karakterli şifreler, 8 adet 2080Ti ile 2.5 saatte kırılıyor.",
+                    "contentLink": [
+                        "https://threadreaderapp.com/thread/1096046635593928704.html"
+                    ]
+                },
+                {
+                    "contentText": "Türk yazılımcı Melih Sevim Apple’ın iCloud güvenlik açığını buldu.",
+                    "contentLink": [
+                        "https://forum.donanimhaber.com/apple-icloud-da-buldugum-acik-ardindan-basima-gelenler-guncellendi--137065430"
+                    ]
+                },
+                {
+                    "contentText": "Reddit, Çinli Tencent firmasından 150 Milyon $ yatırım aldı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/11/18216134/reddit-tencent-investment-deal-memes-amount-winnie-the-pooh-tank-man-china"
+                    ]
+                },
+                {
+                    "contentText": "Instagramdaki sorun, bazı hesapların milyonlarca takipçi yitirmesine neden oluyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/13/18222457/instagram-follower-drop-sweep-glitch-inauthentic-accounts"
+                    ]
+                },
+                {
+                    "contentText": "Hacker saldırısı sonucu VFEmail firması tüm verilerini kaybetti.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/02/catastrophic-hack-on-email-provider-destroys-almost-two-decades-of-data/"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan, TikTok’u yasaklamaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/13/18223590/tiktok-india-ban-legislation-government-teens"
+                    ]
+                },
+                {
+                    "contentText": "Oxford Üniversitesi’nin yeni araştırması, oyunlarla gerçek hayattaki şiddet arasında bağlantı olmadığını gösteriyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/new-oxford-university-study-find-no-link-between-games-and-violent-behavior"
+                    ]
+                },
+                {
+                    "contentText": "Crackdown 3, Jump Force, Far Cry New Dawn ve Metro Exodus çıktı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "2018 yılını rekorla kapayan Activision, çalışanlarının %8 kadarını işten çıkarttı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/12/18222484/activision-blizzard-layoffs-cuts-jobs-record-results-2018"
+                    ]
+                }
+            ]
         }
     ]
 }
