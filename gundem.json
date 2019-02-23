@@ -74769,6 +74769,143 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 8,
+            "totalCount": 408,
+            "uploadDate": "22.02.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/02/2019_08_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-08",
+            "rangeFirstDate": "18.02.2019",
+            "rangeLastDate": "23.02.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/8 (18 - 23 Şubat 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Samsung Galaxy S10 etkinliği yapıldı",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Bixby butonuna resmen başka özellik atanabilecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/21/18235405/samsung-galaxy-phones-bixby-button-remapping-customization-feature"
+                    ]
+                },
+                {
+                    "contentText": "MWC 2019 başlıyor",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Kitap ve dergilere KDV istisnası geldi.",
+                    "contentLink": [
+                        "https://teknoseyir.com/durum/1041499"
+                    ]
+                },
+                {
+                    "contentText": "Peak Games’in olaylı reklamı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/peak-games-reklami-durduruldu-2378239-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "iOS cihazlara eklenen Whatsapp Touch ID desteği hatalı çıktı.",
+                    "contentLink": [
+                        "https://fossbytes.com/whatsapp-ios-bug-allows-anyone-to-bypass-touch-id-face-id/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook Onavo VPN servisini kapattı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/22/18235908/facebook-onavo-vpn-privacy-service-data-collection"
+                    ]
+                },
+                {
+                    "contentText": "Andoid cihazlarda yeni tehdit Drainerbot.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/02/google-play-apps-with-10-million-installs-drains-batteries-jacks-up-data-charges/"
+                    ]
+                },
+                {
+                    "contentText": "Drupal’deki açık milyonlarca siteyi tehdit ediyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/02/millions-of-websites-threatened-by-highly-critical-code-execution-bug-in-drupal/"
+                    ]
+                },
+                {
+                    "contentText": "YouTube’un başı bu defa çocuk istismarı ile dertte.",
+                    "contentLink": [
+                        "https://www.wired.co.uk/article/youtube-pedophile-videos-advertising"
+                    ]
+                },
+                {
+                    "contentText": "YouTube, ‘düz dünya’ fikrinin yayılmasında önemli rol oynuyor.",
+                    "contentLink": [
+                        "https://www.theguardian.com/science/2019/feb/17/study-blames-youtube-for-rise-in-number-of-flat-earthers"
+                    ]
+                },
+                {
+                    "contentText": "WinRAR yazılımında 19 yıldır bulunan bir açık saptandı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/02/winrar-malware-exploit.html"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Chrome için Web Actvities uzantısını çıkardı.",
+                    "contentLink": [
+                        "https://www.xda-developers.com/microsoft-web-activities-chrome-extension-sync-browsing-timeline/"
+                    ]
+                },
+                {
+                    "contentText": "Google, GDC 2019’da oyun konulu bir duyuru yapacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/19/18231474/google-gaming-keynote-gdc-2019"
+                    ]
+                },
+                {
+                    "contentText": "Steam, video işinden çıkıyor.",
+                    "contentLink": [
+                        "https://www.gameinformer.com/2019/02/20/steam-to-remove-video-section-from-store"
+                    ]
+                },
+                {
+                    "contentText": "Ekran parlaklığını maksimumda kullanan kadının gözlerinde hasar oluştu.",
+                    "contentLink": [
+                        "https://www.thesun.co.uk/news/8463463/woman-claims-mobile-phone-burned-500-holes-in-eyes-after-maximum-brightness-two-years-taiwan/"
+                    ]
+                },
+                {
+                    "contentText": "Nike’ın kendi kendini bağlayan ayakkabısı kullanıcıları zor durumda bıraktı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/02/my-left-shoe-wont-even-reboot-faulty-app-bricks-nike-smart-sneakers/"
+                    ]
+                },
+                {
+                    "contentText": "Boğaziçi Üniversitesi Bilişim Kulübü Compec TechSummit'19 Etkinliği  1-3 Mart tarihlerinde gerçekleşecek.",
+                    "contentLink": [
+                        "https://bountechsummit.com/"
+                    ]
+                },
+                {
+                    "contentText": "Gebze Üniversitesinde Bilim Ve Teknoloji Günleri.",
+                    "contentLink": [
+                        "http://www.bilimveteknolojigunleri.com/"
+                    ]
+                },
+                {
+                    "contentText": "Best İstanbul Mühendislik yarışması 12- 13 Nisan.",
+                    "contentLink": [
+                        "https://itumuhendislikyarismasi.org/"
+                    ]
+                },
+                {
+                    "contentText": "1,2,3 Mart 2019’da Muğla Sıtkı Koçman Üniversitesi Atatürk Kültür Merkezi",
+                    "contentLink": [
+                        "http://www.bilmok.org.tr/tr"
+                    ]
+                }
+            ]
         }
     ]
 }
