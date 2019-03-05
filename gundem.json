@@ -74906,6 +74906,142 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 9,
+            "totalCount": 409,
+            "uploadDate": "02.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/2019_09_8yas_gundem.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=2W-H2S7qH6A",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-09",
+            "rangeFirstDate": "25.02.2019",
+            "rangeLastDate": "02.03.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/9 (25 Şubat - 2 Mart 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Samsung Unpacked Etkinliği ABD’de gerçekleşti.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "MWC 2019 genel",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "USB 3.2 standartı akılları daha da karıştıracak.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/usb-3.0-usb-3.1-becomes-usb-3.2,38699.html"
+                    ]
+                },
+                {
+                    "contentText": "1TB kapasiteli microSD kartları duyuruldu.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/western-digital-and-micron-go-big-worlds-first-1tb-microsd-cards"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, OBS ile işbirliği yaparak yayıncıların işini kolaylaştırıyor. (GTX 1660 çıktı)",
+                    "contentLink": [
+                        "https://www.windowscentral.com/nvidia-partners-obs-quality-performance-game-streamers",
+                        "https://www.anandtech.com/show/13973/nvidia-gtx-1660-ti-review-feat-evga-xc-gaming"
+                    ]
+                },
+                {
+                    "contentText": "Swatch, Samsung’u dava ediyor.",
+                    "contentLink": [
+                        "https://uk.reuters.com/article/us-swatch-samsung-copyright/swatch-says-samsungs-smart-watch-faces-breached-its-trademark-idUKKCN1QE29D"
+                    ]
+                },
+                {
+                    "contentText": "Yurt dışından postayla gelen ürünlere yeni düzenleme yolda.",
+                    "contentLink": [
+                        "https://t24.com.tr/haber/albayrak-kayitli-ekonomiye-gecisi-cok-daha-etkili-uygulayacagiz,810053?fbclid=IwAR1lyQqpcppPg7xMjHz6Dq4gI8KcgHXo2qM9LO1HQTWCvlbSNwJ0oFPOm0Y"
+                    ]
+                },
+                {
+                    "contentText": "Bilgisayara taksit sayısı 12 aya çıktı.",
+                    "contentLink": [
+                        "https://www.bddk.org.tr/Duyurular/Basin-Aciklamasi/698"
+                    ]
+                },
+                {
+                    "contentText": "Netflix, korsan kullanımdan şikayetçi.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/02/27/netflix-may-be-losing-192m-per-month-from-piracy-cord-cutting-study-claims/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı YouTube Kids içeriklerinde intihar direktifleri olduğu ortaya çıktı.",
+                    "contentLink": [
+                        "https://arstechnica.com/science/2019/02/youtube-kids-cartoons-include-tips-for-committing-suicide-docs-warn/"
+                    ]
+                },
+                {
+                    "contentText": "YouTube, hediye çekilişi yapan kanalların peşine düştü.",
+                    "contentLink": [
+                        "https://9to5google.com/2019/02/26/youtube-giveaways-external-link-banning/"
+                    ]
+                },
+                {
+                    "contentText": "Google .dev alan adını duyurdu.",
+                    "contentLink": [
+                        "https://www.blog.google/technology/developers/hello-dev/"
+                    ]
+                },
+                {
+                    "contentText": "Google: Spectre türü açıkları yazılımla tam olarak kapamak mümkün değil.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/02/google-software-is-never-going-to-be-able-to-fix-spectre-type-bugs/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft ve Facebook’a ait denizaltı kablosundan saniyede 26.2 Terabit veri aktarımı başarıldı. (3.275 Terabyte)",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/2/28/18244357/microsoft-facebook-marea-cable-16qam-20-percent-speed-boost"
+                    ]
+                },
+                {
+                    "contentText": "Android, FIDO2 sistemine destek sağlayarak şifre hatırlama eziyetini azaltacak.",
+                    "contentLink": [
+                        "https://www.wired.com/story/android-passwordless-login-fido2/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni güvenlik açığı Thunderclap, Thunderbolt teknolojisinden yararlanarak belleğe erişiyor.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/02/thunderbolt-peripheral-dma-attacks.html"
+                    ]
+                },
+                {
+                    "contentText": "Hosting firmalarından kiralanan sunucular, önceki kiracıları tarafından hacklenmiş olabilir.",
+                    "contentLink": [
+                        "https://www.wired.com/story/dark-metal-cloud-computers-invisible-malware/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft çalışanları, ABD ordusuna Holo Lens geliştirmekten rahatsız. Satya Nadella aynen devam ediyoruz dedi.",
+                    "contentLink": [
+                        "https://www.wired.com/story/microsoft-ceo-defends-army-contract-augmented-reality/"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk’ın başı yine attığı bir tweet nedeniyle dertte.",
+                    "contentLink": [
+                        "https://arstechnica.com/cars/2019/02/elon-musk-is-in-trouble-with-the-sec-over-his-tweets-again/"
+                    ]
+                },
+                {
+                    "contentText": "Alien, 40. Yılında 4K Remastered olarak piyasaya çıkacak.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/02/ridley-scotts-alien-will-finally-be-released-in-4k-hdr-for-its-40th-anniversary/"
+                    ]
+                },
+                {
+                    "contentText": "TS 8 Yaşında",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
