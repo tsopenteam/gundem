@@ -75042,6 +75042,121 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 10,
+            "totalCount": 410,
+            "uploadDate": "08.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/gundem_2019_10.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-10",
+            "rangeFirstDate": "04.03.2019",
+            "rangeLastDate": "09.03.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/10 (4 - 9 Mart 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Posta ile gelen ürünlere vergi. ",
+                    "contentLink": [
+                        "https://vergiyedair.com/2019/03/05/gumruk-sunum-ucretine-hazir-olun/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, Thunderbolt teknolojisini lisans gerektirmeden kullanıma açtı, Thunderbolt 3 artık USB4 olarak anılacak.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/03/thunderbolt-3-becomes-usb4-as-intels-interconnect-goes-royalty-free/?fbclid=IwAR1mdIz6kSxx3osXOA6E-yaz6Nqf4y9VGfshen_g1y-DQ3E1cKY2IKLx604"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Hesap Makinesi uygulamasının kaynak kodlarını açtı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-open-sources-windows-calculator"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Band ve Health uygulamalarını 31 Mayısta sonlandırıyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Microsoft’un son yaması Spectre performans sorununu çözüyor.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3356822/recent-windows-10-patch-brings-good-bad-performance-news-for-pc-gamers.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Gorilla Glass üreticisi Corning, katlanabilir cam üzerine çalışıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/5/18251328/apple-corning-foldable-display-gorilla-glass-bendable-smartphone"
+                    ]
+                },
+                {
+                    "contentText": "Avrupa’da kurulan AI şirketlerin %40’ı yapay zekayla ile alakasız çıktı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/5/18251326/ai-startups-europe-fake-40-percent-mmc-report"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, ABD’yi dava ediyor.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/03/06/huawei-is-suing-the-us-government/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, kişisel haklara saygı duyulmayan ülkelere veri merkezi kurmayacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/6/18253608/facebook-zuckerberg-letter-user-data-security-china-ban-apple-privacy#"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Macbook Pro ekranlarını sessizce güncelledi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/5/18251264/macbook-pro-2018-flexgate-fix-display-cable-2mm-longer"
+                    ]
+                },
+                {
+                    "contentText": "Yeşil Dedektör uygulamasına sızıp, ihbar edilen mekanlara önceden haber ilettiler.",
+                    "contentLink": [
+                        "http://www.patronlardunyasi.com/haber/Yesil-Dedektor-e-sizdilar-ihbar-listelerini-mekanlara-sattilar/217430"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Xbox One oyunlarını PC’ye getirmeyi planlıyor olabilir.",
+                    "contentLink": [
+                        "https://www.guru3d.com/news_story/microsoft_is_planning_to_run_xbox_one_games_on_your_windows_pc.html"
+                    ]
+                },
+                {
+                    "contentText": "Diablo, orijinal haliyle GoG’da satışa sunuldu.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/03/original-diablo-is-now-on-sale-for-10-drm-free-but-not-on-blizzards-app/"
+                    ]
+                },
+                {
+                    "contentText": "Apex Legends 50 milyon oyuncuya erişerek Fortnite’ın rekorunu geçti.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/65064/apex-legends-hits-50-million-players-faster-fortnite/"
+                    ]
+                },
+                {
+                    "contentText": "Anthem, PS4’leri bozmaya başlayınca BioWare açıklama yaptı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/6/18254041/bioware-confirms-anthem-is-crashing-ps4-fix-patch"
+                    ]
+                },
+                {
+                    "contentText": "Sony, PS Vita üretimini resmen sonlandırdı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/2/18247864/sony-playstation-vita-officially-stopped-producing-rip"
+                    ]
+                },
+                {
+                    "contentText": "Sony Remote Play özelliği iOS’a geldi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/7/18254514/ps4-remote-play-ios-firmware-6-50-iphone-ipad-game-streaming"
+                    ]
+                }
+            ]
         }
     ]
 }
