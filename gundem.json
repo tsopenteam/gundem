@@ -75157,6 +75157,140 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 11,
+            "totalCount": 411,
+            "uploadDate": "15.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/2019_11_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-11",
+            "rangeFirstDate": "11.03.2019",
+            "rangeLastDate": "16.03.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/11 (11 - 16 Mart 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Canon ve Fuji Deneyim merkezi açtı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Microsoft ve Vodafone yapay zeka konusunda iş birliğine gitti.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/ekonomi/microsoft-ve-vodafone-is-birliginde-yapay-zeka-turkce-ogrendi/1419237"
+                    ]
+                },
+                {
+                    "contentText": "World Wide Web 30 yaşında.",
+                    "contentLink": [
+                        "https://webfoundation.org/2019/03/web-birthday-30/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, Instagram ve Whatsapp’a erişim sorunları yaşandı.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/03/13/facebook-instagram-and-messenger-are-down-for-some-users/"
+                    ]
+                },
+                {
+                    "contentText": "Kablosuz kulaklıkların insan sağlığına zarar verip vermediğinin araştırılması isteniyor.",
+                    "contentLink": [
+                        "https://www.dailymail.co.uk/health/article-6796679/Are-AirPods-dangerous-250-scientists-warn-be.html"
+                    ]
+                },
+                {
+                    "contentText": "ABD şimdi de Almanya’nın Huawei’yi engellemesini istiyor.",
+                    "contentLink": [
+                        "https://edition.cnn.com/2019/03/11/politics/us-germany-huawei-letter/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, Android kullanmamız engellenirse B planı hazır.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/03/14/huawei-has-built-an-android-alternative-in-case-us-tensions-increase/"
+                    ]
+                },
+                {
+                    "contentText": "Spotify, Apple’ı dava ediyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/13/18263453/spotify-apple-app-store-antitrust-complaint-ec-30-percent-cut-unfair"
+                    ]
+                },
+                {
+                    "contentText": "Windows’a telefon ekranı yansıtma özelliği geliyor.",
+                    "contentLink": [
+                        "https://blogs.windows.com/windowsexperience/2019/03/12/announcing-windows-10-insider-preview-build-18356/"
+                    ]
+                },
+                {
+                    "contentText": "Dosya göndermek, için yeni alternatif Firefox Send",
+                    "contentLink": [
+                        "https://blog.mozilla.org/blog/2019/03/12/introducing-firefox-send-providing-free-file-transfers-while-keeping-your-personal-information-private/"
+                    ]
+                },
+                {
+                    "contentText": "Açık kaynak web sunucusu NGINX satıldı.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/03/11/f5-acquires-nginx-for-670m-to-move-into-open-source-multi-cloud-services/"
+                    ]
+                },
+                {
+                    "contentText": "Qualcomm, telefonlarda bu sene 100 MP kamera çözünürlüğü göreceğiz diyor.",
+                    "contentLink": [
+                        "https://www.gsmarena.com/qualcomm_sp_says_phones_with_64mp_and_even_100mp_cameras_are_coming-news-36036.php"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA GeForce GTX 1660 çıktı.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14071/nvidia-gtx-1660-review-feat-evga-xc-gaming"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA 3D Vision desteğini ve eski laptop GPU’larına desteği kesiyor.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/nvidia-is-ending-driver-support-for-3d-vision-and-older-laptop-gpus/",
+                        "https://nvidia.custhelp.com/app/answers/detail/a_id/4780"
+                    ]
+                },
+                {
+                    "contentText": "GPS’ler 6 Nisan’da sorun yaşayabilir.",
+                    "contentLink": [
+                        "https://sputniknews.com/science/201903101073094724-western-gps-network-y2k-moment/"
+                    ]
+                },
+                {
+                    "contentText": "Meclise Apple’ın telefonları yavaşlatma konusu üzerine soru önergesi verildi.",
+                    "contentLink": [
+                        "https://www.donanimhaber.com/Apple-in-iPhone-lari-yavaslatmasi-TBMM-gundeminde--108683"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, Türkiye’de sattığı televizyonların %55’inin montajını Türkiye’de yapıyor.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/ekonomi/samsungdan-turkiyede-uretim-hamlesi,kAUNOj6kTk2eYLqm5l6f2A"
+                    ]
+                },
+                {
+                    "contentText": "Windows 7’ye DirectX 12 desteği geldi. Şimdilik her oyun faydalanamıyor.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/microsoft-finally-ports-directx-12-to-windows-7-but-only-for-certain-games/"
+                    ]
+                },
+                {
+                    "contentText": "Halo: The Master Chief Collection PC sürümü duyuruldu.",
+                    "contentLink": [
+                        "https://youtu.be/88VBun17AMI"
+                    ]
+                },
+                {
+                    "contentText": "PUBG’nin yaratıcısı Brendan Greene, yeni projelere yöneldiğini açıkladı.",
+                    "contentLink": [
+                        "https://www.eurogamer.net/articles/2019-03-13-brendan-playerunknown-greene-moves-on-from-pubg?fbclid=IwAR10R1kizRYwmHvUoIVzU9mPidtE_KhsHVmHjYcvrPCLuFBbl6o_7IitUw8"
+                    ]
+                }
+            ]
         }
     ]
 }
