@@ -75291,6 +75291,190 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 12,
+            "totalCount": 412,
+            "uploadDate": "22.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/2019_12_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-12",
+            "rangeFirstDate": "18.03.2019",
+            "rangeLastDate": "23.03.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/12 (18 - 23 Mart 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "TOGED ile ‘Bu Yaz Oyun Yaz’ staj programı başlıyor.",
+                    "contentLink": [
+                        "http://www.toged.org/bu-yaz-oyun-yaz/"
+                    ]
+                },
+                {
+                    "contentText": "MySpace, sunucu taşıma işlemi sırasında üç yıl öncesine ait verileri ‘kaybetti’.",
+                    "contentLink": [
+                        "https://sputniknews.com/society/201903191073352594-myspace-loses-users-music-photos/"
+                    ]
+                },
+                {
+                    "contentText": "Gearbest hacklendi.",
+                    "contentLink": [
+                        "https://www.xda-developers.com/gearbest-database-security-breach-accounts-addresses-orders-payment-unsecured/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’un milyonlarca kullanıcının şifresini şifresiz text dosyalarında tuttuğu ortaya çıktı.",
+                    "contentLink": [
+                        "https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/"
+                    ]
+                },
+                {
+                    "contentText": "Firefox artık otomatik video ve ses oynatımına engel oluyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/03/19/firefox-now-automatically-blocks-autoplaying-audio-and-video/"
+                    ]
+                },
+                {
+                    "contentText": "Apple ile hukuk savaşında Qualcomm önemli bir zafer kazandı.",
+                    "contentLink": [
+                        "https://www.cnet.com/news/apple-qualcomm-patent-infringement-verdict/"
+                    ]
+                },
+                {
+                    "contentText": "Google, para harcamayan kullanıcılara daha çok reklam gösterecek.",
+                    "contentLink": [
+                        "https://www.chip.com.tr/haber/googla-admob-odeme-egilimlerini-dikkate-alacak_81239.html"
+                    ]
+                },
+                {
+                    "contentText": "Amazon da reklam işine giriyor.",
+                    "contentLink": [
+                        "https://www.bloomberg.com/news/articles/2019-03-21/amazon-said-to-launch-mobile-ads-in-threat-to-google-facebook"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’dan içerik üreticileri için yeni sürücüler:  ‘Creator Ready Drivers’",
+                    "contentLink": [
+                        "https://blogs.nvidia.com/blog/2019/03/20/rtx-creator-ready-drivers-supercharge-apps/?ncid=so-twi-rs-79151"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, GTX serisine de RayTracing getirecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/18/18271836/nvidia-raytracing-gtx-rtx-older-gpu-support"
+                    ]
+                },
+                {
+                    "contentText": "CryTek, NVIDIA RTX kartları haricinde de çalışan  Ray Tracing demosu yaptı.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/think-you-need-rtx-for-ray-tracing-this-cryengine-demo-convinced-me-otherwise/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, 9. Nesil H serisi işlemcilerini ve yeni grafik yönetim uygulamasını duyurdu.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/intel-9th-generation-h-series-graphics-command-center,38877.html",
+                        "https://www.tomshardware.com/news/intel-9th-gen-h-series-cpu-specs,38623.html"
+                    ]
+                },
+                {
+                    "contentText": "DirectX’e Variable Rate Shading sistemi ekleniyor.",
+                    "contentLink": [
+                        "https://www.neowin.net/news/directx-12-now-supports-variable-rate-shading/"
+                    ]
+                },
+                {
+                    "contentText": "AMD: Silikon temelli işlemciler 3nm üretim teknolojisine kadar devam edecek.",
+                    "contentLink": [
+                        "https://www.pcgamesn.com/amd/stuck-on-silicon-past-3nm-7-10-years"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, ön kameraları ekranın altına gizleyecek.",
+                    "contentLink": [
+                        "https://www.extremetech.com/mobile/287695-samsung-is-developing-cameras-hidden-under-phone-display"
+                    ]
+                },
+                {
+                    "contentText": "Instagram’a uygulama içinden ödeme seçeneği geliyor.",
+                    "contentLink": [
+                        "https://www.androidpolice.com/2019/03/19/instagram-checkout-lets-you-buy-stuff-without-having-to-leave-the-app/"
+                    ]
+                },
+                {
+                    "contentText": "Adobe Shockwave, 9 Nisan’da sonlanıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/11/18260282/adobe-shockwave-discontinued-date-april-html5-canvas-webgl"
+                    ]
+                },
+                {
+                    "contentText": "Bilişim ve Teknoloji Hukuku, doçentlik alanı olarak kabul edildi.",
+                    "contentLink": [
+                        "https://twitter.com/MBediiKaya/status/1107899423370166274"
+                    ]
+                },
+                {
+                    "contentText": "Wikipedia, Avrupa’nın planladığı yeni telif hakkı uygulamalarını protesto etti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/21/18275462/eu-copyright-directive-protest-wikipedia-twitch-pornhub-final-vote"
+                    ]
+                },
+                {
+                    "contentText": "Ulusal Hackaton etkinliği",
+                    "contentLink": [
+                        "http://ulusalhackathon.com/"
+                    ]
+                },
+                {
+                    "contentText": "Google’dan bulut bazlı oyun hizmeti Stadia.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14105/google-announces-stadia-a-game-streaming-service"
+                    ]
+                },
+                {
+                    "contentText": "Detroit Become Human, Heavy Rain, Beyond Two Souls PC’ye geliyor.",
+                    "contentLink": [
+                        "https://www.polygon.com/2019/3/20/18274142/detroit-become-human-heavy-rain-epic-games-store-pc-exclusive"
+                    ]
+                },
+                {
+                    "contentText": "Steam arayüzü güncellenecek.",
+                    "contentLink": [
+                        "https://www.neowin.net/news/valve-unveils-the-steam-library-overhaul-and-a-new-events-page"
+                    ]
+                },
+                {
+                    "contentText": "Xbox Live, tüm platformlarda kullanılabilecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/14/18265214/microsoft-xbox-live-ios-android-games-support-features"
+                    ]
+                },
+                {
+                    "contentText": "Optik sürücüsü olmayan Xbox One modeli için tarih 7 Mayıs olabilir.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/21/18275531/microsoft-xbox-one-s-all-digital-edition-disc-less-console-may-7-release-date?fbclid=IwAR2gr8LSOBofQ9jrSZl1457UJltqdT_3YKyHGMv8xr6pNO1jVDxYtdmfpzo"
+                    ]
+                },
+                {
+                    "contentText": "Call of Duty Mobile tanıtıldı.",
+                    "contentLink": [
+                        "https://www.callofduty.com/mobile"
+                    ]
+                },
+                {
+                    "contentText": "Kullanıcıların tepkisi sonucunda Capcom, Türkiyeyi de Capcom Pro Tour turnuvasına ekledi.",
+                    "contentLink": [
+                        "https://twitter.com/levelupseries/status/1108442036946952192"
+                    ]
+                },
+                {
+                    "contentText": "Oculus Rift S çıkıyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/03/20/the-oculus-rift-s-is-indeed-real-and-arrives-in-spring-for-399/"
+                    ]
+                }
+            ]
         }
     ]
 }
