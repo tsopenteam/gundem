@@ -75475,6 +75475,153 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 13,
+            "totalCount": 413,
+            "uploadDate": "29.03.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/03/2019_13_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-13",
+            "rangeFirstDate": "25.03.2019",
+            "rangeLastDate": "30.03.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/13 (25 - 30 Mart 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Huawei P30 serisi etkinliği",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Xiaomi Türkiye etkinliği",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Apple etkinliği",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/25/18277461/apple-event-2019-tv-plus-arcade-credit-card-streaming-news-oprah-recap-biggest-announcements"
+                    ]
+                },
+                {
+                    "contentText": "Apple News Plus",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Apple Card",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/25/18277417/apple-pay-credit-card-announcement-goldman-sachs-event-2019"
+                    ]
+                },
+                {
+                    "contentText": "Apple Arcade",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/25/18280589/apple-arcade-gaming-subscription-release-date-pricing-features"
+                    ]
+                },
+                {
+                    "contentText": "Apple TV Channels",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/25/18281010/apple-tv-app-streaming-service-features-shows-movies-announcement-event-2019"
+                    ]
+                },
+                {
+                    "contentText": "Apple TV Plus",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/25/18280920/apple-tv-streaming-service-announcement-price-date-launch-event-2019"
+                    ]
+                },
+                {
+                    "contentText": "Apple, sonu gelmeyen klavye sorunları için özür diledi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/27/18284042/apple-macbook-keyboard-apology-issues-bad-design"
+                    ]
+                },
+                {
+                    "contentText": "Düşen Apple satışları Samsung’u vuruyor.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/03/26/samsung-earnings-warning/"
+                    ]
+                },
+                {
+                    "contentText": "Turkcell, TV Plus’ın isim hakkı bizde dedi.",
+                    "contentLink": [
+                        "https://pazarlamasyon.com/turkcell-turkiyede-tvin-isim-hakki-bizde/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, 9. Nesil işlemcilerinin yeni sürümünü hazırlıyor. Intel, Compute Card’ı sonlandırdı.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14128/intel-readies-new-stepping-of-9th-gen-core-processors",
+                        "https://www.pcworld.com/article/3379121/intel-kills-the-compute-card-a-small-form-factor-modular-computing-product-that-didnt-stick.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Kullanıcıları kandıran Office Depot, 35 Milyon $ cezaya mahkum edildi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/28/18285727/office-depot-ftc-fine-repairs-fake-malware-reports"
+                    ]
+                },
+                {
+                    "contentText": "ASUS’un güncelleme sistemi malware dağıttı. Sorunlu yazılım güncellendi.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/over-a-million-asus-laptops-could-have-been-hacked",
+                        "https://www.theverge.com/2019/3/26/18283039/asus-just-patched-the-shadowhammer-malware-that-was-masquerading-as-a-security-update"
+                    ]
+                },
+                {
+                    "contentText": "İngiltere, araştırmasının sonunda Huawei’nin altyapısının güven vermediğini açıkladı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/03/uk-cyber-security-officials-report-huaweis-security-practices-are-a-mess/"
+                    ]
+                },
+                {
+                    "contentText": "HMD, Nokia 7’nin kullanıcı bilgilerini Çin’e yolladığını kabul etti.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/03/hmd-admits-the-nokia-7-plus-was-sending-personal-data-to-china/"
+                    ]
+                },
+                {
+                    "contentText": "UC Browser’ın önemli bir açığı bulundu.",
+                    "contentLink": [
+                        "https://www.bleepingcomputer.com/news/security/uc-browser-for-android-desktop-exposes-500-million-users-to-mitm-attacks/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook ve Google’ı dolandıran Litvanyalı yargı karşısında.",
+                    "contentLink": [
+                        "https://diply.com/c/money-laundering-theft-facebook-google"
+                    ]
+                },
+                {
+                    "contentText": "Avrupa Parlamentosu, telif hakları mevzuatını oyladı ve onayladı.",
+                    "contentLink": [
+                        "https://www.dw.com/tr/apden-telif-haklar%C4%B1-reformuna-ye%C5%9Fil-%C4%B1%C5%9F%C4%B1k/a-48068829"
+                    ]
+                },
+                {
+                    "contentText": "Google AMP for Email özelliğini duyurdu.",
+                    "contentLink": [
+                        "https://cloud.google.com/blog/products/application-development/amp-for-email-developer-preview"
+                    ]
+                },
+                {
+                    "contentText": "Firefox Lockbox Android’e de çıktı.",
+                    "contentLink": [
+                        "https://blog.mozilla.org/blog/2019/03/26/firefox-lockbox-now-on-android-keeping-your-passwords-safe/"
+                    ]
+                },
+                {
+                    "contentText": "Sekiro Shadows Die Twice çıktı",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Microsoft, Minecraft oyunlarının yaratıcısı Notch ismini oyunlardan kaldırdı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/minecraft-removes-references-controversial-creator-notch-latest-build"
+                    ]
+                }
+            ]
         }
     ]
 }
