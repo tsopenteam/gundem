@@ -75622,6 +75622,200 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 14,
+            "totalCount": 414,
+            "uploadDate": "06.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/2019_14_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-14",
+            "rangeFirstDate": "01.04.2019",
+            "rangeLastDate": "06.04.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/14 (1 - 6 Nisan 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Microsoft kitap mağazasını kapattı. Satın alanlara iade yapılacak.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/microsoft-kills-off-the-book-store-you-probably-didnt-know-it-had/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Windows güncelleme sistemini değiştiriyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/microsoft-going-to-extreme-lengths-to-ensure-may-update-avoids-mistakes-of-1809/"
+                    ]
+                },
+                {
+                    "contentText": "Toshiba ismi tarih oluyor,  PC ürünlerinin adı artık Dynabook.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14168/dynabook-the-new-name-of-toshibas-pcs"
+                    ]
+                },
+                {
+                    "contentText": "Facebook uygulamalarının topladığı bilgiler internete yayılmış durumda.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/technology-47812470"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’un bazı yeni kullanıcı kayıtlarında email şifresini talep ettiği ortaya çıktı.",
+                    "contentLink": [
+                        "https://www.thedailybeast.com/beyond-sketchy-facebook-demanding-some-new-users-email-passwords"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, kurucusu Mark Zuckerberg’in bazı mesajlarını “yanlışlıkla” sildi.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/facebook-old-posts-mark-zuckerberg-disappeared-2019-3"
+                    ]
+                },
+                {
+                    "contentText": "Instagram, kullanıcının hesabını izinsizce İngiliz kraliyet ailesine verdi.",
+                    "contentLink": [
+                        "https://mashable.com/article/instagram-handle-taken-royal-family/"
+                    ]
+                },
+                {
+                    "contentText": "Apache Web sunucusu yazılımda önemli bir açık bulunup kapatıldı.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/apache-web-server-bug-grants-root-access-on-shared-hosting-environments/"
+                    ]
+                },
+                {
+                    "contentText": "Xiaomi telefonlarında bir dizi güvenlik açığı.",
+                    "contentLink": [
+                        "https://www.cnet.com/news/xiaomis-phones-had-a-security-flaw-preinstalled-on-millions-of-devices/",
+                        "https://thehackernews.com/2019/04/xiaomi-browser-vulnerability.html"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Airpower ürününü iptal etti.",
+                    "contentLink": [
+                        "https://www.macrumors.com/2019/03/29/apple-officially-cancels-airpower/"
+                    ]
+                },
+                {
+                    "contentText": "MIT, Huawei ve ZTE ile ilişkisini kestiğini duyurdu.",
+                    "contentLink": [
+                        "https://t.co/QekIE4qwnR"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, ikinci deneyim mağazasını İstanbul’da açtı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Ünlü WordPress tema sitesi Pipdig, kullanıcılarının sunucularını DDoS atakları için kullanmış.",
+                    "contentLink": [
+                        "https://www.jemjabella.co.uk/2019/security-alert-pipdig-insecure-ddosing-competitors/"
+                    ]
+                },
+                {
+                    "contentText": "Amerikalı senatör, veri sızdıran firmaların yöneticilerinin cezalandırılmasını teklif etti.",
+                    "contentLink": [
+                        "https://webrazzi.com/2019/04/04/elizabeth-warren-veri-caldiran-teknoloji-sirketlerin-ceolarina-hapis-cezasi-istedi"
+                    ]
+                },
+                {
+                    "contentText": "Netflix, sadece mobil cihazlarda kullanılabilen bir paketi Türkiye’de de kullanıma sundu.",
+                    "contentLink": [
+                        "https://www.teknolojioku.com/guncel/netflix-mobil-abonelik-paketi-turkiyede-5ca62210c0d1c523af0de253"
+                    ]
+                },
+                {
+                    "contentText": "Intel Xeon ailesini güncelledi. 56 çekirdeğe kadar içeren Xeon Platinum 9200 modelleri duyuruldu.",
+                    "contentLink": [
+                        "https://arstechnica.com/?p=1485223",
+                        "https://www.techspot.com/news/79481-intel-announces-xeon-platinum-9200-series-cpus-up.html"
+                    ]
+                },
+                {
+                    "contentText": "GMail, 15 yaşında.",
+                    "contentLink": [
+                        "https://blog.google/products/gmail/hitting-send-on-the-next-15-years-of-gmail/"
+                    ]
+                },
+                {
+                    "contentText": "Raspberry Pi resmi klavye ve faresi duyuruldu.",
+                    "contentLink": [
+                        "https://www.raspberrypi.org/blog/official-raspberry-pi-keyboard-mouse/"
+                    ]
+                },
+                {
+                    "contentText": "HardOCP yayına hayatına son verdi.",
+                    "contentLink": [
+                        "https://www.hardocp.com/news/2019/03/31/final_bottom_line/"
+                    ]
+                },
+                {
+                    "contentText": "Humble Bundle kurucuları, görevlerini bıraktı.",
+                    "contentLink": [
+                        "http://gamasutra.com/view/news/339962/Humble_Bundle_cofounders_step_down_because_were_more_startup_kinda_guys.php"
+                    ]
+                },
+                {
+                    "contentText": "Windows Phone için Instagram, Facebook ve Messenger uygulamaları 30 Nisan’da sonlanıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/instagram-windows-phone-retire-april-30",
+                        "https://www.windowscentral.com/facebook-and-messenger-apps-windows-phone-retiring-april-30"
+                    ]
+                },
+                {
+                    "contentText": "Hacettepe Üniversitesi Programlama Yarışması Finali 6 Nisan’da.",
+                    "contentLink": [
+                        "http://huprog.acmhacettepe.com/"
+                    ]
+                },
+                {
+                    "contentText": "PlayIT Dijital oyun zirvesi",
+                    "contentLink": [
+                        "https://playit.compec.org/"
+                    ]
+                },
+                {
+                    "contentText": "Borderlands 3 de Epic mağazasından çıkacak.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/04/borderlands-3-is-the-next-big-epic-game-store-exclusive/"
+                    ]
+                },
+                {
+                    "contentText": "Fiziksel oyun satışlarının azalması Gamestop mağazalarını zarar ettirdi.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/04/gamestop-posts-massive-loss-as-pre-owned-game-sales-plummet/"
+                    ]
+                },
+                {
+                    "contentText": "Valve’ın VR gözlüğü Mayıs ayında geliyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/03/valve-index-is-the-game-makers-brand-new-vr-headset-slated-for-may-2019/"
+                    ]
+                },
+                {
+                    "contentText": "Remastered sürümü çıkan Assassin’s Creed III, Steam ve uPlay mağazalarından kaldırıldı.",
+                    "contentLink": [
+                        "https://store.steampowered.com/app/208480/Assassins_Creed_III/"
+                    ]
+                },
+                {
+                    "contentText": "Sega Genesis Mini, sonbaharda çıkıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/3/30/18288193/sega-genesis-mega-drive-mini-retro-console-september-19-2019"
+                    ]
+                },
+                {
+                    "contentText": "Call of Duty: Black Ops 4 Blackout oyun modu Nisan ayında bedava",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3386556/call-of-duty-black-ops-4s-battle-royale-mode-blackout-is-free-to-play-throughout-april.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Xbox mağazasına da zam geldi.",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
