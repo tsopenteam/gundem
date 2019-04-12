@@ -75816,6 +75816,149 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 15,
+            "totalCount": 415,
+            "uploadDate": "12.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/gundem15_2019.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-15",
+            "rangeFirstDate": "08.04.2019",
+            "rangeLastDate": "13.04.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/15 (8 - 13 Nisan 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Turkcell yapay zekalı asistan işine giriyor.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/sirkethaberleri/bilisim/turkcell-teknoloji-zirvesi/649608"
+                    ]
+                },
+                {
+                    "contentText": "Firefox’a ‘fingerprinting’ ve mining’e karşı koruma tedbirleri geliyor.",
+                    "contentLink": [
+                        "https://blog.mozilla.org/futurereleases/2019/04/09/protections-against-fingerprinting-and-cryptocurrency-mining-available-in-firefox-nightly-and-beta/"
+                    ]
+                },
+                {
+                    "contentText": "Malware, tomografi sonuçlarını değiştirebiliyor.",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/technology/2019/04/03/hospital-viruses-fake-cancerous-nodes-ct-scans-created-by-malware-trick-radiologists/?noredirect=on&utm_term=.fdd29da18223#click=https://t.co/F2yu2ybYYG"
+                    ]
+                },
+                {
+                    "contentText": "Samsung A80 ve A70 duyuruldu.",
+                    "contentLink": [
+                        "https://www.samsung.com/in/microsite/galaxya/a70/",
+                        "https://www.theverge.com/circuitbreaker/2019/4/10/18304378/samsungs-galaxy-a80-release-date-specs-price-features"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, GTX serisine de Ray Tracing getiren sürücüyü çıkardı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/11/18305084/nvidia-driver-ray-tracing-gtx-gpu-graphics-card"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft’un Chromium tabanlı Edge tarayıcısını deneyebiliyoruz.",
+                    "contentLink": [
+                        "https://www.microsoftedgeinsider.com/en-us/"
+                    ]
+                },
+                {
+                    "contentText": "Windows 10 kullanıcıları USB diskleri “güvenli çıkartmadan” sistemden sökebilecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/8/18300734/microsoft-safely-remove-eject-usb-flash-drive-not-needed-windows-10"
+                    ]
+                },
+                {
+                    "contentText": "Apple, iTunes’u küçük parçalara bölebilir.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/10/18304685/itunes-dying-apple-music-video-podcasts-separate-apps-macos-10-15?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter"
+                    ]
+                },
+                {
+                    "contentText": "Netflix, AirPlay desteğini sonlandırdı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/netflix-ends-airplay-support-on-ios-in-an-ongoing-souring-of-its-apple-relationship/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, 400Gbit aktarım hızında ağ bağlantılarını olası kılacak teknolojileri sergiledi.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/intel-silicon-photonics-transceiver-400g,39028.html"
+                    ]
+                },
+                {
+                    "contentText": "MySpace’in kaybolduğunu iddia ettiği arşivin 1.3TB kadarı kurtarıldı.",
+                    "contentLink": [
+                        "https://thequietus.com/articles/26302-myspace-lost-archive-found"
+                    ]
+                },
+                {
+                    "contentText": "IP kameralardaki güvenlik açıkları bitmek bilmiyor.",
+                    "contentLink": [
+                        "https://www.itproportal.com/features/vulnerabilities-in-smart-ip-cameras-expose-users-to-privacy-security-risks/"
+                    ]
+                },
+                {
+                    "contentText": "WPA3 güvenlik sisteminde belirlenen açıklar şifreleri sızdırıyor.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/04/wpa3-hack-wifi-password.html"
+                    ]
+                },
+                {
+                    "contentText": "Google, telefonunuzu güvenlik anahtarı olarak kullanmanıza izin verecek.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3388678/you-can-now-use-your-android-phone-as-a-security-dongle-for-two-factor-authentication.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Çin, Bitcoin madenciliğini yasaklama kararı aldı.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2019/04/chinese-government-proposes-ban-on-bitcoin-mining/"
+                    ]
+                },
+                {
+                    "contentText": "Youtube, Bandersnatch tarzı içerikler yapma hazırlığında.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/youtube-to-develop-interactive-content-like-netflixs-bandersnatch/"
+                    ]
+                },
+                {
+                    "contentText": "Google+, Google Currents oldu.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/google-is-back-meet-the-enterprise-focused-google-currents/"
+                    ]
+                },
+                {
+                    "contentText": "DVD ve Blu-Ray satışları ciddi düşüşte.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/dvd-and-blu-ray-sales-nearly-halved-over-five-years-mpaa-report-says/"
+                    ]
+                },
+                {
+                    "contentText": "Sony, çevrim içi kimlik değiştirme sistemini başlattı. PSN kullanıcıları artık kullanıcı adını değiştirebilecek.",
+                    "contentLink": [
+                        "https://www.playstation.com/tr-tr/get-help/help-library/my-account/access-and-details/change-online-id-games/",
+                        "https://www.theverge.com/2019/4/10/18304487/psn-name-change-playstation-price-plus"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Xbox Live Gold ve Gamepass’i birleştirecek.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/04/game-pass-ultimate-and-game-pass-for-pc-rumored-to-be-coming-soon/"
+                    ]
+                },
+                {
+                    "contentText": "Nepal’de PUBG yasaklandı.",
+                    "contentLink": [
+                        "https://www.greenmangaming.com/newsroom/2019/04/12/nepal-bans-pubg-over-childrens-aggression/"
+                    ]
+                }
+            ]
         }
     ]
 }
