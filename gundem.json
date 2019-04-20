@@ -75959,6 +75959,106 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 16,
+            "totalCount": 416,
+            "uploadDate": "19.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/gundem16_2019.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-16",
+            "rangeFirstDate": "15.04.2019",
+            "rangeLastDate": "20.04.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/16 (15 - 20 Nisan 2019)",
+            "explanationPodcast": "TeknoSeyir, geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "Samsung Galaxy Fold etkinliği. Yurt dışındaki örneklerde sorunlar ortaya çıktı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/04/bendgate-2-0-samsungs-2000-foldable-phone-is-already-breaking/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon Türkiye aynı gün teslimata başlıyor.",
+                    "contentLink": [
+                        "http://www.tknlj.com/amazon-ben-yavas-da-olsa-orijinal-ayarlarima-donuyorum-dedi/"
+                    ]
+                },
+                {
+                    "contentText": "Türkiye Interneti 26 yaşında.",
+                    "contentLink": [
+                        "https://www.tbid.org.tr/blog-tr/22-internet-haftasi-etkinligi/"
+                    ]
+                },
+                {
+                    "contentText": "Intel telefonlarda 5G modem işinden çıkıyor.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/04/16/5g-intel-iphone-qualcomm/"
+                    ]
+                },
+                {
+                    "contentText": "Apple ve Qualcomm, anlaşarak karşılıklı davalarından vazgeçtiler.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/16/18410985/apple-qualcomm-settle-royalty-dispute-patent-licensing-terms-high-fees"
+                    ]
+                },
+                {
+                    "contentText": "Apple, 4.7 inch iPhone 8’i yenileyip piyasaya sürecek.",
+                    "contentLink": [
+                        "https://www.macrumors.com/2019/04/17/apple-launch-new-4-7-inch-iphone-8-2020/"
+                    ]
+                },
+                {
+                    "contentText": "SanDisk, ağır kullanıma özel MicroSD kartlarını duyurdu.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/sandisk-high-endurance-microsd-cards"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, hackerlerin bazı Outlook.com kullanıcılarının emaillerine eriştiğini duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/15/18311112/microsoft-outlook-web-email-hack-response-comment",
+                        "https://arstechnica.com/gadgets/2019/04/hackers-could-read-non-corporate-outlook-comhotmail-for-six-months/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, 1.5 milyon kişinin kontakt bilgisini sehven almış.",
+                    "contentLink": [
+                        "https://gizmodo.com/facebook-asked-some-users-for-their-email-passwords-th-1834129792"
+                    ]
+                },
+                {
+                    "contentText": "İran’ın kullandığı siber saldırı araçları ortaya çıktı.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/"
+                    ]
+                },
+                {
+                    "contentText": "Playstation 5’in bazı özellikleri açıklandı.",
+                    "contentLink": [
+                        "https://www.extremetech.com/gaming/289616-sony-playstation-5-ray-tracing-ssd-8-core-amd-ryzen-3"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, ücretsiz Forza Street oyununu PC’de kullanıma sundu.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/free-play-forza-street-launches-pc"
+                    ]
+                },
+                {
+                    "contentText": "Assassin’s Creed Unity, yanan Notre Dame Katedrali’nin restorasyonunda kullanılacak.",
+                    "contentLink": [
+                        "https://www.theguardian.com/games/2019/apr/17/assassins-creed-creators-pledge-500000-notre-dame-restoration"
+                    ]
+                },
+                {
+                    "contentText": "OpenAI bot, Dota2’de insanları yendi.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/04/openai-bot-crushes-dota-2-champions-and-now-anyone-can-play-against-it/"
+                    ]
+                }
+            ]
         }
     ]
 }
