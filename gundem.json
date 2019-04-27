@@ -76059,6 +76059,156 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 17,
+            "totalCount": 417,
+            "uploadDate": "27.04.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/04/gundem17_2019.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-17",
+            "rangeFirstDate": "22.04.2019",
+            "rangeLastDate": "27.04.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/17 (22 - 27 Nisan 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Türkiye Inovasyon Haftası etkinlikleri 3-4 Mayıs tarihlerinde gerçekleşecek.",
+                    "contentLink": [
+                        "https://www.turkiyeinovasyonhaftasi.com/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, Fold’un piyasaya çıkışını erteledi.",
+                    "contentLink": [
+                        "https://www.sammobile.com/2019/04/22/breaking-samsung-officially-delays-global-galaxy-fold-launch/amp/"
+                    ]
+                },
+                {
+                    "contentText": "iFixit sitesi Galaxy Fold’u parçalarına ayırdı ama daha sonra Samsung’un isteği üzerine yayından kaldırdı. (Ars Technica haberinde detay fotoları bulunuyor)",
+                    "contentLink": [
+                        "https://web.archive.org/web/20190425075411/https://www.ifixit.com/Teardown/Samsung+Galaxy+Fold+Teardown/122600",
+                        "https://ifixit.org/blog/16189/about-our-galaxy-fold-teardown/#s236841",
+                        "https://arstechnica.com/gadgets/2019/04/samsungs-galaxy-fold-gets-torn-down-ifixit-theorizes-why-its-so-fragile/"
+                    ]
+                },
+                {
+                    "contentText": "IoT cihazlar için Mozilla WebThings duyuruldu.",
+                    "contentLink": [
+                        "https://hacks.mozilla.org/2019/04/introducing-mozilla-webthings/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, GTX 1650 ekran kartını piyasaya sürdü.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14255/nvidia-launches-geforce-gtx-1650-budget-turing-for-149-available-today"
+                    ]
+                },
+                {
+                    "contentText": "Intel, tüm kategorilerde 9. Nesil işlemcileri piyasaya sürdü.",
+                    "contentLink": [
+                        "https://www.pcper.com/news/Processors/Intel-Expands-9th-Gen-Desktop-Lineup-25-New-SKUs-Including-Celeron-Pentium-Gold"
+                    ]
+                },
+                {
+                    "contentText": "Instagram beğeni sayısını saklama yoluna gidebilir.",
+                    "contentLink": [
+                        "https://9to5mac.com/2019/04/18/instagram-hide-likes-feature/"
+                    ]
+                },
+                {
+                    "contentText": "YotaPhone’un firması iflas etti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/19/18508418/yota-devices-bankrupt-yotaphone"
+                    ]
+                },
+                {
+                    "contentText": "Avusturya’nın yeni teklifi ile yorum yazmak için gerçek isim ve adres verilmesi gerekecek.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/04/21/austria-draft-law-would-require-real-names-for-internet-comments/"
+                    ]
+                },
+                {
+                    "contentText": "İngiltere, Huawei’nin 5G şebekesinin kritik noktalarında yer almasını istemiyor.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/04/24/5g-uk-huawei/"
+                    ]
+                },
+                {
+                    "contentText": "Huawei P30 Pro’da Ay fotoğrafında yapay zeka hilesi yapıyor.",
+                    "contentLink": [
+                        "https://www.phonearena.com/news/Is-the-Moon-Mode-on-the-Huawei-P-30-Pro-faking-parts-of-photographs_id115554"
+                    ]
+                },
+                {
+                    "contentText": "Huawei dizüstü bilgisayarlarda yüklü gelen yazılımda güvenlik açığı belirlendi.",
+                    "contentLink": [
+                        "https://www.zerohedge.com/news/2019-04-23/microsoft-discovers-huawei-driver-allowing-backdoor-hack-laptops"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, şimdiye kadar çarptırıldığı en büyük cezaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/24/18514805/facebook-q1-2019-earnings-ftc-record-fine-privacy-violations-3-billion"
+                    ]
+                },
+                {
+                    "contentText": "Yasakları aşan 0wikipedia adresi kapanıyor ama alternatif isimler kullanıma sunulmakta.",
+                    "contentLink": [
+                        "https://www.bundlehaber.com/detay/47abd39d-f1ae-49cf-8e91-d4f15bf05792?l=1"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, yarıiletken alanında büyümeyi planlıyor.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14268/samsung-to-invest-115-billion-in-foundry-chip-businesses-by-2030"
+                    ]
+                },
+                {
+                    "contentText": "LG, telefonlarını Kore’de üretmeyecek.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14272/lg-to-close-korean-phone-manufacturing-plants-relying-on-cheaper-overseas-factories"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, 1 Trilyon $ pazar değerine erişen bilişim firmaları arasına girdi.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-crosses-1-trillion-market-cap-after-impressive-q3-results"
+                    ]
+                },
+                {
+                    "contentText": "Windows 10 Mayıs 2019 güncellemesi şimdiden sorunlarla anılmaya başlandı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/windows-10-may-2019-update-blocked-pcs-usb-drives-and-sd-cards"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Windows 10’a gelecek olan “Sets” özelliğinden vazgeçti. Geleceği tehlikede olan Paint ise şimdilik güvende.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/04/22/microsoft--axes-windows-10-sets/",
+                        "https://www.windowscentral.com/microsoft-paint-here-stay-windows-10"
+                    ]
+                },
+                {
+                    "contentText": "Whatsapp’dan ekran görüntüsü alınamayacak.",
+                    "contentLink": [
+                        "https://www.independent.co.uk/life-style/gadgets-and-tech/news/whatsapp-screenshot-chat-private-update-ios-android-feature-a8882116.html"
+                    ]
+                },
+                {
+                    "contentText": "Days Gone çıktı.",
+                    "contentLink": [
+                        "https://www.playstation.com/tr-tr/games/days-gone-ps4/"
+                    ]
+                },
+                {
+                    "contentText": "Nintendo, Mario Bros oyununun amatörlerce geliştirilen Commodore 64 sürümünü engelledi.",
+                    "contentLink": [
+                        "https://www.eurogamer.net/articles/2019-04-23-nintendo-takes-down-mario-bros-c64-port-which-took-fan-seven-years-to-make"
+                    ]
+                }
+            ]
         }
     ]
 }
