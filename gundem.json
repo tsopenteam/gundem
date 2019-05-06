@@ -76209,6 +76209,194 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 18,
+            "totalCount": 418,
+            "uploadDate": "04.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/haftalik_gundem_2019_18.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=CoeA7LsL1bU",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-18",
+            "rangeFirstDate": "29.04.2019",
+            "rangeLastDate": "04.05.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/18 (29 Nisan - 4 Mayıs 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Cep telefonlarına ÖTV zammı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-cep-te-otv-orani-yukseldi-2448142-teknoloji",
+                        "https://teknoseyir.com/blog/telefonlara-uygulanacak-yeni-otv-zam-ayarlamasi-sonrasi-telefon-fiyatlari"
+                    ]
+                },
+                {
+                    "contentText": "Facebook F8 toplantısını gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/30/18524068/facebook-f8-2019-keynote-highlights-summary-news-feed-messenger-instagram-oculus"
+                    ]
+                },
+                {
+                    "contentText": "Arkadaşların gönderileri yerine gruplar öne çıkacak",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Sosyal aktiviteleri bulmak kolaylaşacak",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Instagram arayüzü değişiyor ve foto ve video dışındaki içerikleri üretmek kolaylaşıyor",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Like sayısının kaldırılması Canada’dan başlayacak",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Facebook messenger güncellenecek daha az yer kaplayacak ve kullanışlı olacak",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Oculus Quest ve Oculus Rift S ön siparişe açıldı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Facebook’un ‘arkadaşlık’ uygulaması 14 ülkeye daha geliyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Whatsapp, Instagram ve Facebook mesajları kendi aralarında gönderilebilecek.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/04/30/facebook-will-let-users-chat-across-messenger-instagram-and-wha/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, AMD’den bir ismi daha transfer etti.",
+                    "contentLink": [
+                        "https://www.forbes.com/sites/marcochiappetta/2019/04/29/as-intel-inches-closer-to-discrete-gpu-release-it-hires-another-top-amd-graphics-executive/#434094325cfa"
+                    ]
+                },
+                {
+                    "contentText": "Bluetooth destekli kapı kilidi Latch, kiracının hareketlerini ev sahibine bildiriyor.",
+                    "contentLink": [
+                        "https://onezero.medium.com/americas-favorite-door-locking-app-has-a-data-privacy-problem-f19169a8ab2e"
+                    ]
+                },
+                {
+                    "contentText": "Google, biriktirdiği bilgileri silebilmemiz için otomatik bir sistem getirecek.",
+                    "contentLink": [
+                        "https://www.buzzfeednews.com/article/pranavdixit/google-will-soon-let-you-automatically-scrub-your-location"
+                    ]
+                },
+                {
+                    "contentText": "Docker Hub, 190.000 kullanıcının bilgisini kaptırdı.",
+                    "contentLink": [
+                        "https://www.zdnet.com/google-amp/article/docker-hub-hack-exposed-data-of-190000-users/"
+                    ]
+                },
+                {
+                    "contentText": "Apache Software Foundation, GitHub’a katıldı.",
+                    "contentLink": [
+                        "https://github.blog/2019-04-29-apache-joins-github-community/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung dik konuma getirilebilen TV yaptı.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/04/29/samsung-the-sero-vertical-tv/"
+                    ]
+                },
+                {
+                    "contentText": "Nubia, telefona fan koyan ilk firma oldu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/29/18522625/nubia-red-magic-3-gaming-phone-release-date-cooling-price-specs-features"
+                    ]
+                },
+                {
+                    "contentText": "Energizer’ın dev pilli telefon projesi başarısızlıkla sonuçlandı.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/79870-energizer-18000mah-phone-ends-crowdfunding-campaign-99-short.html"
+                    ]
+                },
+                {
+                    "contentText": "Micron, 15TB kapasiteli SSD modellerini Avrupada da satışa sundu. 2700 dolar civarı. 14TB HDD 500 dolar civarı",
+                    "contentLink": [
+                        "https://www.techradar.com/news/microns-new-15tb-ssd-is-almost-affordable"
+                    ]
+                },
+                {
+                    "contentText": "Telefonla onay yerine Whatsapp onayı kullanılabilecek.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/04/30/developers-can-now-verify-mobile-app-users-over-whatsapp-instead-of-sms/"
+                    ]
+                },
+                {
+                    "contentText": "Verizon, Tumblr’a alıcı arıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/2/18527177/verizon-seeking-tumblr-sale-rumor-blogging"
+                    ]
+                },
+                {
+                    "contentText": "Spotify, müziklerin yanında Podcast de önerecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/1/18525550/spotify-playlist-daily-drive-algorithm-recommendation"
+                    ]
+                },
+                {
+                    "contentText": "Spotify, 100 milyon ücretli aboneye erişen ilk servis oldu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/29/18522297/spotify-100-million-users-apple-music-podcasting-free-users-advertising-voice-speakers"
+                    ]
+                },
+                {
+                    "contentText": "Netflix, ses yayınlama sistemini değiştiriyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/1/18525492/netflix-high-quality-audio-bitrate-scaling-kbps-dolby-atmos-5-1"
+                    ]
+                },
+                {
+                    "contentText": "Adobe, fotoğrafçılık uygulamalarının fiyatını yükseltmeyi test ediyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/2/18526985/adobe-creative-cloud-lightroom-photoshop-plan-price-hike"
+                    ]
+                },
+                {
+                    "contentText": "Patreon, komisyonlarına zam yapacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/1/18524511/patreon-pricing-tier-change-rollout-may-7-new-creators"
+                    ]
+                },
+                {
+                    "contentText": "ASUS, 30. Yılını hediyeli bir kampanya ile kutluyor.",
+                    "contentLink": [
+                        "https://www.asus.com/event/30th-anniversary/30-years-together/tr"
+                    ]
+                },
+                {
+                    "contentText": "AMD, 50. Yılı şerefine özel paketler ve oyun hediyeleri duyurdu.",
+                    "contentLink": [
+                        "http://www.amd.com/AMD50"
+                    ]
+                },
+                {
+                    "contentText": "İztech Game Summit eSpor etkinliği 11 Mayıs tarihinde gerçekleşecek.",
+                    "contentLink": [
+                        "https://docs.google.com/forms/d/e/1FAIpQLSe4Ur8vGWnDFTN8mWvlkdib6vTQP3dkjo9hYeJxZYFgS341qQ/viewform"
+                    ]
+                },
+                {
+                    "contentText": "Epic Games, Rocket League’in yapımcısı Psyonix’i satın aldı.",
+                    "contentLink": [
+                        "https://www.rocketleague.com/news/psyonix-is-joining-the-epic-family-/"
+                    ]
+                },
+                {
+                    "contentText": "Retro oyunlar için stream servisi Antstream.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/05/the-streaming-service-that-wants-to-save-the-retro-gaming-biz-from-piracy/"
+                    ]
+                }
+            ]
         }
     ]
 }
