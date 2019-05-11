@@ -76397,6 +76397,267 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 19,
+            "totalCount": 419,
+            "uploadDate": "10.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/gundem_2019_19.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-19",
+            "rangeFirstDate": "06.05.2019",
+            "rangeLastDate": "11.05.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/19 (6 - 11 Mayıs 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Yerli etkinlikler, Samsung ve Acer",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Google I/O 2019",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Android Q Beta 3 çıktı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/7/18531198/google-io-summary-keynote-news-highlights-recap-2019"
+                    ]
+                },
+                {
+                    "contentText": "Live Caption özelliği",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Android güvenlik güncellemeleri mağazadan yapılacak.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Duplex biraz geri plana kaydı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Android TV mağazası güncelleniyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/8/18537003/android-tv-play-store-redesign-google-io-2019-sign-up-subscription-pin"
+                    ]
+                },
+                {
+                    "contentText": "Yeni asistan 10 kat hızlı olacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/7/18535637/google-assistant-voice-new-faster-search-alarm-update-io-2019"
+                    ]
+                },
+                {
+                    "contentText": "Sesli komut sistemi engelliler için özel olarak geliştiriliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/7/18535674/google-project-euphonia-live-relay-speech-recognition-disabilities-impairments-io-2019"
+                    ]
+                },
+                {
+                    "contentText": "Pixel 3A ve 3A XL çıktı.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/5/7/18535745/google-pixel-3a-3-spec-comparison-price-camera-screen-hardware-io-2019"
+                    ]
+                },
+                {
+                    "contentText": "Google da katlanabilir ekran üzerinde çalışıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/7/18535863/google-pixel-foldable-phone-prototype-samsung-galaxy-fold-io-2019"
+                    ]
+                },
+                {
+                    "contentText": "Google Home, Google Nest oldu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/7/18529318/google-nest-hub-max-smart-display-camera-price-features-specs-release-hands-on-io-2019"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Build19",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Windows terminali yenileniyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/05/06/windows-gets-a-new-terminal/"
+                    ]
+                },
+                {
+                    "contentText": "Windows, Linux çekirdeği ile gelecek.",
+                    "contentLink": [
+                        "https://devblogs.microsoft.com/commandline/announcing-wsl-2/"
+                    ]
+                },
+                {
+                    "contentText": "Edge, macOS’a da gelecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/6/18528881/microsoft-edge-macos-mac-browser-teaser-build-2019"
+                    ]
+                },
+                {
+                    "contentText": "Edge, Internet Explorer uyumlu siteleri açabilecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/6/18527875/microsoft-chromium-edge-new-features-build-2019"
+                    ]
+                },
+                {
+                    "contentText": "Güvenlik için Edge, üç adımlı ayar imkanı sunacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/6/18527875/microsoft-chromium-edge-new-features-build-2019"
+                    ]
+                },
+                {
+                    "contentText": "Cortana iş dünyası için daha faydalı hale gelecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/6/18530220/microsoft-cortana-conversational-updates-build-2019"
+                    ]
+                },
+                {
+                    "contentText": "Fluid Framework.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/6/18530191/microsoft-fluid-framework-productive-collaborative-web-technology-build-2019"
+                    ]
+                },
+                {
+                    "contentText": "TR. Alan adı yönetimi ODTÜ’den BTK’ya geçti.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/bilim-teknoloji/odtunun-tr-alan-adi-yonetim-yetkisi-btkye-devredildi/1473554"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’a Türkiye’den ceza.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-turkiye-den-facebook-a-ceza-2459434-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, PowerToys yazılım araçlarını geri getiriyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/8/18536773/microsoft-windows-10-powertoys-apps-open-source-github-release"
+                    ]
+                },
+                {
+                    "contentText": "Dünyanın en hızlı bilgisayarı, AMD işbirliğiyle kurulacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/7/18535078/worlds-fastest-exascale-supercomputer-frontier-amd-cray-doe-oak-ridge-national-laboratory"
+                    ]
+                },
+                {
+                    "contentText": "Binance hacklendi, 40 milyon dolar değerinde Bitcoin çalındı.",
+                    "contentLink": [
+                        "https://www.wired.com/story/hack-binance-cryptocurrency-exchange/"
+                    ]
+                },
+                {
+                    "contentText": "Github kullanıcılarının projelerini çalan hacker, fidye istiyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/6/18531222/hacker-data-theft-ransom-stolen-git-code-bitcoin"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, telefonlar için 64 Megapiksel çözünürlüklü görüntü algılayıcı duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/8/18537699/samsung-64-megapixel-phone-camera-sensor-announced?fbclid=IwAR2r8Nmvkl1AV-KLP9RsDtblF01-E2lb9sI5VxFVQmfkH8YgeTolm59r8aQ"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, Galaxy Fold için satış tarihini kısa sürede kesinleştiremezse siparişleri iptal edecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/5/7/18535075/samsung-galaxy-fold-cancel-orders-may-31-indefinite-delay-preorders"
+                    ]
+                },
+                {
+                    "contentText": "Seagate 16TB disklerini satışa sundu, 18TB diskler yolda. SSD’ler Haziran ayında satışta.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14297/seagate-starts-shipments-of-16-tb-hard-drives-preps-18-tb-smr-hdds"
+                    ]
+                },
+                {
+                    "contentText": "Sabit disk satışları bu yıl %50 düşebilir.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14298/shipments-of-pc-hdds-predicted-to-halve-in-2019"
+                    ]
+                },
+                {
+                    "contentText": "Whatsapp, Windows Phone ve eski Android sürümlerine desteğini kesiyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/whatsapp-drop-support-windows-phones-december-31"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Mac satışlarındaki düşüş için Intel’i suçladı.",
+                    "contentLink": [
+                        "https://apple.slashdot.org/story/19/05/03/142236/apples-tim-cook-and-luca-maestri-on-intel"
+                    ]
+                },
+                {
+                    "contentText": "Europol, Dark Web pazarlarından ikisini operasyon ile kapattı.",
+                    "contentLink": [
+                        "https://www.securitymagazine.com/articles/90212-europol-takes-down-dark-web-marketplaces-that-sold-illegal-data"
+                    ]
+                },
+                {
+                    "contentText": "Üç büyük antivirüs firmasına sızan hacker’lar, elde ettikleri erişimi pazarlama aşamasında.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/05/hackers-breached-3-us-antivirus-companies-researchers-reveal/"
+                    ]
+                },
+                {
+                    "contentText": "P&G Gençlik 100 Yaşında Projesi, gençleri ödüllü bir etkinliğe davet ediyor.",
+                    "contentLink": [
+                        "http://www.banabak.com/"
+                    ]
+                },
+                {
+                    "contentText": "Mount&Blade II: Bannerlord, Gamescom’da katılımcılar için ilk kez oynanabilir olacak.",
+                    "contentLink": [
+                        "https://steamcommunity.com/games/261550/announcements/detail/1602629624657105514?fbclid=IwAR1_UhNCXINHtir_GtZsIw4XH7uV-B-6gF4O_fo9vRHodDc3UdiYDpUb7tA"
+                    ]
+                },
+                {
+                    "contentText": "Ghost Recon Breakpoint geliyor.",
+                    "contentLink": [
+                        "https://www.ign.com/articles/2019/05/09/ghost-recon-breakpoint-revealed-and-dated"
+                    ]
+                },
+                {
+                    "contentText": "Blizzard, mobil oyunlara ağırlık vereceğini açıkladı.",
+                    "contentLink": [
+                        "http://www.ladbible.com/technology/gaming-activision-blizzard-is-doubling-down-on-mobile-games-20190503?source=gamingbible&fbclid=IwAR0E57ICiNGfMNVhFYJKRFB76MVNCZQysn-bZF6W6yi6Xir0DPmYqNvOxR4"
+                    ]
+                },
+                {
+                    "contentText": "Electronic Arts: Oyunları yayınlamada eski yöntemler artık işlemiyor.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/electronic-arts-says-the-old-way-of-releasing-games-doesnt-work-anymore/"
+                    ]
+                },
+                {
+                    "contentText": "GameLoft oyunlarına Xbox Live desteği eklenecek.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/asphalt-9-legends-and-other-gameloft-games-getting-xbox-live-integration"
+                    ]
+                },
+                {
+                    "contentText": "Ubisoft ‘silent key’ uygulaması ile ürün anahtarını kaldıracak.",
+                    "contentLink": [
+                        "https://www.pcgamesn.com/ubisoft-silent-key-activation?fbclid=IwAR2v5inOLiGk0RcYU8B4K6icVUonBn37-dXe_SFWbJ-18cCXOduBM2lcCT8"
+                    ]
+                },
+                {
+                    "contentText": "Blood: Fresh Supply çıktı.",
+                    "contentLink": [
+                        "http://www.indieretronews.com/2019/05/blood-fresh-supply-blood-remaster-has.html?fbclid=IwAR3MFogX3tpsW7ms1t8oaYKgeSF4BcgMKbliKXr5hY6ehtpzD9Vk_ItDdDg&m=1"
+                    ]
+                },
+                {
+                    "contentText": "ETS 2 Road to the Black Sea ile kısmen de olsa Türkiye de ekleniyor.",
+                    "contentLink": [
+                        "https://blog.scssoft.com/"
+                    ]
+                }
+            ]
         }
     ]
 }
