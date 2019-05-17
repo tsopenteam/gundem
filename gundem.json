@@ -76658,6 +76658,144 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 20,
+            "totalCount": 420,
+            "uploadDate": "17.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/2019_20_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-20",
+            "rangeFirstDate": "13.05.2019",
+            "rangeLastDate": "18.05.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/20 (13 - 18 Mayıs 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Gümrük vergi muafiyeti kaldırıldı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Cep telefonları için pasaport kayıt aralığı üç yıla çıktı. Ayrıca başkasının pasaportuna telefon yazdırılamayacak.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Türk Milli Klavye Takımı, Dünya Şampiyonu oldu.",
+                    "contentLink": [
+                        "https://www.technopat.net/2019/05/13/turk-milli-klavye-takimi-dunya-sampiyonu-oldu"
+                    ]
+                },
+                {
+                    "contentText": "İstanbul Büyükşehir Belediyesi’nin fiberde tek söz sahibi olmasına Rekabet Kurumu engeli.",
+                    "contentLink": [
+                        "https://www.donanimhaber.com/iBB-nin-fiberi-tekellestirme-calismalarina-Rekabet-Kurumu-dur-dedi--110865"
+                    ]
+                },
+                {
+                    "contentText": "Intel işlemcilerini etkileyen yeni sorun Zombieland. Apple ürünlerini güncelledi. Windows ve Linux yamaları da çıktı.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/intel-cpus-impacted-by-new-zombieload-side-channel-attack/",
+                        "https://support.apple.com/en-us/HT210107"
+                    ]
+                },
+                {
+                    "contentText": "ABD Başkanı Trump, acil durum bildirisi yayınlayarak bilgi sistemlerinde tehdit olarak görülen firma ve ülkelerin ürünlerinin kullanılmasını yasakladı.",
+                    "contentLink": [
+                        "https://www.scmp.com/news/china/politics/article/3010396/donald-trump-signs-executive-order-laying-ground-us-ban-chinas"
+                    ]
+                },
+                {
+                    "contentText": "Huawei: Bu yasak nedeniyle ABD, 5G’de geri kalacak.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/05/16/huawei-us-5g-block-after-trump-executive-order.html"
+                    ]
+                },
+                {
+                    "contentText": "Avrupa, Trump’ın yasağını dikkate almayacak.",
+                    "contentLink": [
+                        "https://www.dw.com/en/eu-leaders-we-wont-follow-trumps-huawei-ban/a-48768000"
+                    ]
+                },
+                {
+                    "contentText": "Google, ilk Pixel telefon modelleri için açılan davayı anlaşmayla çözecek.",
+                    "contentLink": [
+                        "https://www.extremetech.com/mobile/291465-google-settles-pixel-class-action-lawsuit-will-pay-owners-up-to-500"
+                    ]
+                },
+                {
+                    "contentText": "Facebook yine kandırıldı.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/05/10/facebook-rankwave-lawsuit/"
+                    ]
+                },
+                {
+                    "contentText": "“Turkcell hacklendi, müşteri bilgileri çalındı” iddiası ortaya atıldı ama iddia olarak kaldı.",
+                    "contentLink": [
+                        "https://twitter.com/unix_root/status/1128681603192856576"
+                    ]
+                },
+                {
+                    "contentText": "Instagram, mesaj uygulaması Direct’i sonlandırıyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/05/16/rip-instagram-direct-app/"
+                    ]
+                },
+                {
+                    "contentText": "Çevre odaklı bir yerli girişim: Ecording",
+                    "contentLink": [
+                        "https://www.ecording.org/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, Wikipedia’yı komple yasakladı.",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/business/2019/05/15/china-bans-wikipedia-all-languages/?utm_term=.ed1023531f75"
+                    ]
+                },
+                {
+                    "contentText": "5G işinin kazananı TSMC oldu.",
+                    "contentLink": [
+                        "https://www.fudzilla.com/news/mobile/48711-tsmc-is-5g-winner"
+                    ]
+                },
+                {
+                    "contentText": "Epic Store’da indirimler başladı.",
+                    "contentLink": [
+                        "https://www.epicgames.com/store/tr/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft ve Sony, bulut tabanlı bir oyun platformu için anlaştı.",
+                    "contentLink": [
+                        "https://kotaku.com/microsoft-and-sony-announce-vague-cloud-gaming-partners-1834821006"
+                    ]
+                },
+                {
+                    "contentText": "Red Dead Redemption 2, neredeyse tüm satışını ilk 3 günde gerçekleştirmiş.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/65918/red-dead-redemption-2-sales-peter-launch-surge/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Rage 2 çıktı.",
+                    "contentLink": [
+                        "https://store.steampowered.com/app/548570/RAGE_2/"
+                    ]
+                },
+                {
+                    "contentText": "Ubisoft, Steep’in PC sürümünü ücretsiz sunuyor.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/65961/claim-free-copy-ubisofts-steep-uplay-until-22nd/index.html"
+                    ]
+                },
+                {
+                    "contentText": "WoW Classic, 27 Ağustosta kullanıcılarla buluşuyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/05/wow-classic-announces-testing-schedule-full-launch-on-august-27/?fbclid=IwAR0dJl38LOpByWx-hxiEyPyjOKnNcgFRDy-8mm3slvPok4oPEeyl4pT6mBE"
+                    ]
+                }
+            ]
         }
     ]
 }
