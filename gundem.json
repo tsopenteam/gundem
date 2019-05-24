@@ -76796,6 +76796,176 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 21,
+            "totalCount": 421,
+            "uploadDate": "24.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/gundem_2019_21.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-21",
+            "rangeFirstDate": "20.05.2019",
+            "rangeLastDate": "25.05.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/21 (20 - 25 Mayıs 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Huawei’nin yasağı ile ilgili gelişmeler.",
+                    "contentLink": [
+                        "https://www.xda-developers.com/google-revoke-huawei-android-ban-blacklist/"
+                    ]
+                },
+                {
+                    "contentText": "ABD yasakları geçici olarak hafifletti.",
+                    "contentLink": [
+                        "https://www.bbc.com/turkce/haberler-dunya-48345662"
+                    ]
+                },
+                {
+                    "contentText": "ARM da Huawei ile ilişkilerini kesiyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/technology-48363772"
+                    ]
+                },
+                {
+                    "contentText": "Panasonic ve Microsoft da listeye eklendi.",
+                    "contentLink": [
+                        "https://www.ft.com/content/cdb45f1c-7cf4-11e9-81d2-f785092ab560",
+                        "https://www.windowscentral.com/huawei-matebook-x-pro-pulled-microsoft-store-trade-tensions-rise"
+                    ]
+                },
+                {
+                    "contentText": "SD-Card birliği de Huawei’yi dışladı.",
+                    "contentLink": [
+                        "https://www.slashgear.com/huawei-can-no-longer-make-phones-with-sd-card-slots-23577871/"
+                    ]
+                },
+                {
+                    "contentText": "Çin’in olası hamleleri konuşuluyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/23/18637071/rare-earth-china-production-america-demand-trade-war-tariffs"
+                    ]
+                },
+                {
+                    "contentText": "Huawei kendi işletim sisteminin bu sene içinde Çin için hazır olacağını duyurdu.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/05/23/huawei-our-own-operating-system-could-be-ready-this-year.html"
+                    ]
+                },
+                {
+                    "contentText": "ABD, tekel davasında Qualcomm’u suçlu buldu.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14377/united-states-rules-qualcomm-in-violation-of-antitrust-laws-qualcomm-to-appeal"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Windows güncellemesinde, bilinen sorunlar listelendi.",
+                    "contentLink": [
+                        "https://www.ghacks.net/2019/05/22/all-existing-issues-with-windows-10-version-1903-may-2019-update/"
+                    ]
+                },
+                {
+                    "contentText": "Linksys routerları yıllardır bilgi sızdırıyor iddiası.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/05/33-linksys-router-models-leak-full-historic-record-of-every-device-ever-connected/"
+                    ]
+                },
+                {
+                    "contentText": "Spotify ‘Car Thing’i duyurdu.",
+                    "contentLink": [
+                        "https://www.extremetech.com/electronics/291584-spotify-announces-car-thing-voice-assistant-that-you-cant-buy"
+                    ]
+                },
+                {
+                    "contentText": "Google, JumpVR platformunu kapatıyor.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/05/18/google-shut-down-jump-vr/"
+                    ]
+                },
+                {
+                    "contentText": "Google, enterprise kullanıcılarının bir kısmının şifresini gizlemeden saklamış.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/05/21/google-g-suite-passwords-plaintext/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook milyonlarca şifreyi gizlemeden saklamış.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/4/18/18485599/facebook-instagram-passwords-plain-text-millions-users"
+                    ]
+                },
+                {
+                    "contentText": "Yaklaşık 50 milyon Instagram kullanıcısının bilgileri, Internete açık şekilde saklanmış.",
+                    "contentLink": [
+                        "https://www.digitaltrends.com/social-media/millions-of-instagram-influencers-reportedly-had-private-data-exposed/"
+                    ]
+                },
+                {
+                    "contentText": "Telefon sensörlerinden kullanıcı takibinin mümkün olduğunu gösteren çalışma.",
+                    "contentLink": [
+                        "https://www.zdnet.com/google-amp/article/android-and-ios-devices-impacted-by-new-sensor-calibration-attack/"
+                    ]
+                },
+                {
+                    "contentText": "WhatsApp’a gelecek sene reklam geliyor.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/whatsapp-ads-to-appear-in-app-from-2020"
+                    ]
+                },
+                {
+                    "contentText": "Güney Kore’de devlet kurumları Linux’e geçecek.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/05/19/south-korea-linux-switch/"
+                    ]
+                },
+                {
+                    "contentText": "Teamviewer, 2016’da hacklenmiş.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/05/teamviewer-software-hacked.html"
+                    ]
+                },
+                {
+                    "contentText": "Wikimedia Vakfı Türkiye’yi AİHM’ye verdi.",
+                    "contentLink": [
+                        "https://www.bbc.com/turkce/haberler-dunya-48380473"
+                    ]
+                },
+                {
+                    "contentText": "Windows’un yeni belası BlueKeep.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/05/why-a-windows-flaw-patched-nine-days-ago-is-still-spooking-the-internet/"
+                    ]
+                },
+                {
+                    "contentText": "San Francisco, yüz tanıma sistemlerinin kullanımını yasakladı.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/technology-48276660"
+                    ]
+                },
+                {
+                    "contentText": "Humble Bundle, Kingdom Come Deliverance oyununun satışını iptal etti ve para iadesi yaptı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "PUBG Lite çıktı.",
+                    "contentLink": [
+                        "https://lite.pubg.com/tr/download/"
+                    ]
+                },
+                {
+                    "contentText": "Pac-Man 39 yaşında.",
+                    "contentLink": [
+                        "https://www.wikiwand.com/en/Pac-Man"
+                    ]
+                },
+                {
+                    "contentText": "GoG Galaxy 2.0, tüm oyun servislerini tek uygulamada toplamayı amaçlıyor.",
+                    "contentLink": [
+                        "https://www.gogalaxy.com/en/"
+                    ]
+                }
+            ]
         }
     ]
 }
