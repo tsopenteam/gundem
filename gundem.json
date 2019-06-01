@@ -76966,6 +76966,206 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 22,
+            "totalCount": 422,
+            "uploadDate": "31.05.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/05/gundem_2019_22.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-22",
+            "rangeFirstDate": "27.05.2019",
+            "rangeLastDate": "01.06.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/22 (27 Mayıs - 1 Haziran 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Computex Haberleri",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "AMD Ryzen 3000 serisi duyuruldu. 7 Temmuz’da satışta.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14407/amd-ryzen-3000-announced-five-cpus-12-cores-for-499-up-to-46-ghz-pcie-40-coming-77"
+                    ]
+                },
+                {
+                    "contentText": "AMD Navi GPU’lu RX 5700 ekran kartları duyuruldu.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14412/amd-teases-first-navi-gpu-products-rx-5700-series-in-july-25-improved-perf"
+                    ]
+                },
+                {
+                    "contentText": "AMD X570 yonga seti duyuruldu.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14406/amd-reveals-the-x570-chipset-pcie-4-is-here"
+                    ]
+                },
+                {
+                    "contentText": "Intel’den yeni X serisi işlemciler.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14429/intel-to-launch-new-xseries-cpus-this-fall"
+                    ]
+                },
+                {
+                    "contentText": "Intel’in mobil 10nm işlemcilerinin özellikleri belli oluyor.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14436/intel-10th-gen-10nm-ice-lake-cpus"
+                    ]
+                },
+                {
+                    "contentText": "Intel’den Project Athena.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/28/18642213/intel-project-athena-specification-year-1"
+                    ]
+                },
+                {
+                    "contentText": "Intel, Optane bellekleri güncelliyor.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14437/intel-announces-optane-memory-m15-3d-xpoint-on-m2-pcie-30-x4"
+                    ]
+                },
+                {
+                    "contentText": "Intel, Compute Card’ı, NUC olarak yeniden diriltecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/28/18643379/intel-nuc-compute-element-announcement-modular-upgrade-kiosk-laptop"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, laptoplar için ‘Studio Branding Program’ını duyurdu.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14418/nvidia-launches-studio-branding-program-high-performance-content-creation-laptops"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, Mobil Quadro RTX kartlarını duyurdu.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14421/nvidia-releases-quadro-rtx-quadro-t-and-quadro-p620p520-gpus-for-notebooks"
+                    ]
+                },
+                {
+                    "contentText": "Asus’tan çift ekranlı bir laptop daha: Zenbook Pro Duo",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/27/18641211/asus-zenbook-pro-duo-announced-specs-computex-2019"
+                    ]
+                },
+                {
+                    "contentText": "Asus Screenpad özelliğini Zenbook ve Vivobooklara yayıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/27/18641224/asus-screenpad-2-vivobooks-zenbooks-computex-2019"
+                    ]
+                },
+                {
+                    "contentText": "Asus Zenfone 6 30.yıl özel sürümü çıkıyor.",
+                    "contentLink": [
+                        "https://gadgets.ndtv.com/mobiles/news/asus-zenfone-6-edition-30-price-launch-specifications-computex-2019-2043566"
+                    ]
+                },
+                {
+                    "contentText": "Corsair’dan PCIe 4.0 destekli SSD.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14416/corsair-announces-mp600-nvme-ssd-with-pcie-40"
+                    ]
+                },
+                {
+                    "contentText": "Gigabyte PCIe 4.0 M2 adaptör ile 4 SSD çalıştıracak.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14440/gigabyte-shows-pcie-40-x16-fourway-m2-pcie-addin-card"
+                    ]
+                },
+                {
+                    "contentText": "HyperX, klavyelerinde kendi switchlerini kullanmaya başlayacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/28/18642120/hyperx-alloy-origins-custom-switches-gaming-keyboard"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, ABD yasağının anayasaya uygunluğunu dava konusu yaptı.",
+                    "contentLink": [
+                        "https://www.abc.net.au/news/2019-05-29/huawei-court-challenge-constitution-us-trump-administration/11160782"
+                    ]
+                },
+                {
+                    "contentText": "Huawei yasağına uyan bazı kurum ve kuruluşlar geri adım atmaya başladı.",
+                    "contentLink": [
+                        "https://www.androidpit.com/huawei-is-coming-back-these-companies-have-already-removed-the-ban"
+                    ]
+                },
+                {
+                    "contentText": "Internet sansürü hafifleyebilir.",
+                    "contentLink": [
+                        "https://www.haberler.com/erdogan-bir-internet-sitesinin-tamamina-degil-12100976-haberi/"
+                    ]
+                },
+                {
+                    "contentText": "Uber XL servisi Türkiye’de son buluyor.",
+                    "contentLink": [
+                        "http://www.cumhuriyet.com.tr/haber/turkiye/1419990/UBER_XL_servisi_Turkiye_de_bitti.html"
+                    ]
+                },
+                {
+                    "contentText": "Firefox, screenshot özelliğini kısıtlıyor.",
+                    "contentLink": [
+                        "https://blog.mozilla.org/futurereleases/2019/01/24/clarifying-the-future-of-firefox-screenshots/"
+                    ]
+                },
+                {
+                    "contentText": "Logitech: Üretimi Çin’den çekersek fiyatları arttırırız.",
+                    "contentLink": [
+                        "https://www.cnbc.com/video/2019/05/29/logitech-ceo-well-move-operations-and-raise-prices-to-offset-tariffs.html"
+                    ]
+                },
+                {
+                    "contentText": "YouTube Gaming uygulaması sonlanıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/5/27/18641413/youtube-gaming-standalone-app-shutdown-may-30th?fbclid=IwAR1SfCwdwxguk_IBi1MGt10luPOwAX6iKY5PDPvE_DvU5aeJv0iaXOYqcdI"
+                    ]
+                },
+                {
+                    "contentText": "Joomla hacklendi.",
+                    "contentLink": [
+                        "https://community.joomla.org/blogs/leadership/jed-server-security-incident-report.html"
+                    ]
+                },
+                {
+                    "contentText": "Canva hacklendi.",
+                    "contentLink": [
+                        "https://www.hackread.com/online-graphic-design-tool-canva-hacked/"
+                    ]
+                },
+                {
+                    "contentText": "iPhone uygulamalarının, kullanıcı takibi için kullandıkları verilerin analizi üzerine bir çalışma.",
+                    "contentLink": [
+                        "https://forums.macrumors.com/threads/apps-are-using-background-app-refresh-to-send-data-to-tracking-companies.2183025/"
+                    ]
+                },
+                {
+                    "contentText": "Death Stranding’in videosu yayınlandı ve çıkış tarihi belli oldu. Türkçe altyazı",
+                    "contentLink": [
+                        "https://www.techradar.com/news/death-stranding-release-date-news-and-rumors"
+                    ]
+                },
+                {
+                    "contentText": "Call of Duty: Modern Warfare 25 Ekim’de çıkıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/call-duty-modern-warfare-features-cross-play-and-no-season-pass"
+                    ]
+                },
+                {
+                    "contentText": "Quake II’nin raytracing destekli sürümü 6 Haziran’da çıkacak. NVIDIA RTX destekli Quake 2’yi bedava dağıtacak.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/quake-ii-getting-rtx-ray-tracing-june-6-and-it-looks-awesome",
+                        "https://www.theverge.com/2019/5/28/18642279/quake-ii-rtx-demo-release-date-hands-on"
+                    ]
+                },
+                {
+                    "contentText": "Xbox Game Pass, PC’ye geliyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/xbox-game-pass-expands-pc-packs-over-100-windows-10-titles"
+                    ]
+                }
+            ]
         }
     ]
 }
