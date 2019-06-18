@@ -77166,6 +77166,110 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 23,
+            "totalCount": 423,
+            "uploadDate": "07.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/23_2019_gundem.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=23GCdkx9r-Y",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-23",
+            "rangeFirstDate": "03.06.2019",
+            "rangeLastDate": "08.06.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/23 (3 - 8 Haziran 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "Samsung ve AMD grafik alanında iş birliğine gidiyor.",
+                    "contentLink": [
+                        "https://www.amd.com/en/press-releases/2019-06-03-amd-and-samsung-announce-strategic-partnership-ultra-low-power-high",
+                        "https://www.theverge.com/circuitbreaker/2019/6/4/18651894/amd-radeon-samsung-graphics-soc-chipset-exynos-smartphones"
+                    ]
+                },
+                {
+                    "contentText": "Apple WWDC 2019 etkinliği gerçekleşti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/3/18644510/apple-wwdc-2019-recap-top-news-ios-13-mac-pro-os-catalina-xdr-ipados-announcements-summary-updates"
+                    ]
+                },
+                {
+                    "contentText": "Rusya, 5G şebekesini Huawei ile kuracağını açıkladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/6/18655239/huawei-russia-5g-network-mts-china-xi-jinping-vladimir-putin-deal"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, denizaltı bağlantı işinden çıkıyor, telefon üretimini düşürüyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/3/18650220/huawei-undersea-cable-business-sale-trump-ban-smartphone-production"
+                    ]
+                },
+                {
+                    "contentText": "Facebook uygulamaları Huawei telefonlarda yüklü gelmeyecek.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Firefox’un şifre depolama sisteminin adı Lockwise oldu.",
+                    "contentLink": [
+                        "https://lockwise.firefox.com/"
+                    ]
+                },
+                {
+                    "contentText": "Bazı Android telefonlar, fabrikada ‘arka kapı’ ile üretilmiş.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/06/google-confirms-2017-supply-chain-attack-that-sneaked-backdoor-on-android-devices/"
+                    ]
+                },
+                {
+                    "contentText": "Polonyalı Bitcoin borsası, kullanıcıların coinleri ile kaçtı.",
+                    "contentLink": [
+                        "https://koinbulteni.com/polonyadaki-borsa-musteri-paralariyla-kacti-44900-44900.html"
+                    ]
+                },
+                {
+                    "contentText": "Oppo, ön kamerayı ekranın altına taşıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/6/3/18650130/first-under-display-camera-oppo"
+                    ]
+                },
+                {
+                    "contentText": "Xiaomi de ön kamerayı gizleyen telefonunu gösterdi.",
+                    "contentLink": [
+                        "https://twitter.com/Xiaomi/status/1135447561202937857"
+                    ]
+                },
+                {
+                    "contentText": "E3 başlıyor.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/e3-2019"
+                    ]
+                },
+                {
+                    "contentText": "Google Stadia hizmetinin detayları açıklandı.",
+                    "contentLink": [
+                        "http://fragtist.com/haber/google-stadia-kasim-ayinda-14-ulkede-cikiyor/"
+                    ]
+                },
+                {
+                    "contentText": "Baldur’s Gate 3 geliyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/06/baldurs-gate-iii-is-finally-official-coming-to-pc-and-stadia/"
+                    ]
+                },
+                {
+                    "contentText": "Destiny 2 kısmen free to play oluyor ve cross platform özelliğine kavuşuyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/06/destiny-2-will-become-free-to-play-later-this-year-fully-cross-platform/"
+                    ]
+                },
+                {
+                    "contentText": "Blizzard, iki yıldır geliştirdiği bir oyunu, Overwatch 2 ve Diablo 4 uğruna iptal etti.",
+                    "contentLink": [
+                        "https://www.gamespot.com/g00/articles/blizzard-cancels-new-game-that-was-in-development-/1100-6467418/?i10c.ua=1&i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8%3d&i10c.dv=17"
+                    ]
+                }
+            ]
         }
     ]
 }
