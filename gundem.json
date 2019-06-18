@@ -77270,6 +77270,169 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 24,
+            "totalCount": 424,
+            "uploadDate": "15.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/2019_24_gundem.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=UxmuO6vx2ls",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-24",
+            "rangeFirstDate": "10.06.2019",
+            "rangeLastDate": "15.06.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/24 (10 - 15 Haziran 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Kredi kartı taksit sayısı yine arttı.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/ekonomi/son-dakikabddkdan-kredi-karti-taksitlendirme-sureleri-ve-asgari-odeme-limiti-i,CPczRx_aGkW-CPeknB9pnw"
+                    ]
+                },
+                {
+                    "contentText": "Televizyonlardan ek gümrük vergisi kalktı.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/ekonomi/televizyondaek-gumruk-vergisi-kaldirildi,11cVpnj2GEeHWnWSjdoDjw"
+                    ]
+                },
+                {
+                    "contentText": "AMD, Radeon RX 5700 XT çıkıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/06/amd-launches-navi-as-the-449-radeon-rx-5700-xt/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, bu defa Xbox ekibinden John Sell’i ekran kartı bölümüne kattı.",
+                    "contentLink": [
+                        "https://hothardware.com/news/intel-microsoft-project-scarlett-amd-john-sell-graphics"
+                    ]
+                },
+                {
+                    "contentText": "Spotify, Podcast ve müzik kütüphanelerini ayırdı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/13/18663314/spotify-library-premium-user-update-podcast-music"
+                    ]
+                },
+                {
+                    "contentText": "Google Drive ve Photos uygulamaları 10 Temmuz’dan sonra senkronize olmayacak.",
+                    "contentLink": [
+                        "https://gsuiteupdates.googleblog.com/2019/06/google-photos-drive-sync-stopping.html"
+                    ]
+                },
+                {
+                    "contentText": "Dropbox’a önemli güncelleme geldi.",
+                    "contentLink": [
+                        "https://9to5mac.com/2019/06/11/dropbox-update-new-desktop-app/"
+                    ]
+                },
+                {
+                    "contentText": "LG, 1ms tazeleme hızına sahip ilk IPS monitörü sergiledi.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/lg-launches-worlds-first-1ms-ips-gaming-monitor"
+                    ]
+                },
+                {
+                    "contentText": "Google, Pixel 4’ün fotoğrafını yayınladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/6/12/18663347/google-pixel-4-details-everything-we-know-teaser-image"
+                    ]
+                },
+                {
+                    "contentText": "Samsung Note 10 ile ilgili görseller de çıkmaya başladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/12/18662730/samsung-galaxy-note-10-photos-renders-features-screen-headphone-jack"
+                    ]
+                },
+                {
+                    "contentText": "Nintendo, Google ve Foxconn’un Çin dışı üretim hamlesi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/12/18662508/nintendo-switch-new-models-china-manufacturing-trade-war"
+                    ]
+                },
+                {
+                    "contentText": "Huawei yeni Matebook lansmanını süresiz erteledi.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/06/huawei-cancels-matebook-laptop-launch-because-of-us-export-ban/"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, katlanabilir telefonu Mate X’in piyasaya çıkışını erteledi.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/06/14/huawei-will-delay-mate-x-foldable-phone-launch-until-september.html"
+                    ]
+                },
+                {
+                    "contentText": "Huawei sorunu nedeniyle, RAM fiyatlarının %25 düşmesi bekleniyor.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/80411-huawei-ban-could-see-dram-prices-fall-extra.html"
+                    ]
+                },
+                {
+                    "contentText": "Opera, oyun tarayıcısı çıkarıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/11/18659842/opera-gx-gaming-browser-released-cpu-ram-limits"
+                    ]
+                },
+                {
+                    "contentText": "Windows’a yeni iCloud uygulaması geldi.",
+                    "contentLink": [
+                        "https://blogs.windows.com/windowsexperience/2019/06/11/apples-all-new-icloud-for-windows-app-now-available-in-the-microsoft-store/#XOllFoidCyFItESB.97"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Intel’in modem bölümü ile ilgileniyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/06/apple-is-in-talks-to-buy-intels-germany-based-modem-business-report-claims/"
+                    ]
+                },
+                {
+                    "contentText": "Sistem RAM’inden bilgi çalan saldırı Rambleed.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/06/rambleed-dram-attack.html"
+                    ]
+                },
+                {
+                    "contentText": "Kullanıcılarını takip eden uygulama nedeniyle La Liga’ya ceza verildi.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/06/11/la-liga-fined-250k-for-using-its-app-to-catch-illegal-soccer-streams/"
+                    ]
+                },
+                {
+                    "contentText": "Internet devlerinin vergi kaçırması zorlaşacak.",
+                    "contentLink": [
+                        "https://www.techinside.com/g-20-internet-devlerine-vergi-duzenlemesi-getiriyor/"
+                    ]
+                },
+                {
+                    "contentText": "E3 2019 gerçekleşti.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Microsoft, Xbox için geriye uyumluluk girişimini sonlandırdı.",
+                    "contentLink": [
+                        "https://kotaku.com/microsoft-ends-xbox-backward-compatibility-efforts-with-1835391786"
+                    ]
+                },
+                {
+                    "contentText": "Konami PC Engine Turbografx-16 mini geliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/11/18662198/turbografx-16-mini-console-announced-konami"
+                    ]
+                },
+                {
+                    "contentText": "Sega Genesis Mini çıkıyor.",
+                    "contentLink": [
+                        "https://www.ign.com/articles/2019/06/05/sega-genesis-mini-release-date-preorder-games"
+                    ]
+                },
+                {
+                    "contentText": "Commandos 2 ve Praetorians HD remastered duyuruldu.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/commandos-2-and-praetorians-hd-remasters-announced/"
+                    ]
+                }
+            ]
         }
     ]
 }
