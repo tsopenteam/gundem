@@ -77433,6 +77433,106 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 25,
+            "totalCount": 425,
+            "uploadDate": "21.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/2019_gundem25.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=cH6e7bzkMN0",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-25",
+            "rangeFirstDate": "17.06.2019",
+            "rangeLastDate": "22.06.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/25 (17 - 22 Haziran 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Apple, 2015 Macbook Pro bataryalarını geri çağırıyor.",
+                    "contentLink": [
+                        "https://support.apple.com/tr-tr/15-inch-macbook-pro-battery-recall"
+                    ]
+                },
+                {
+                    "contentText": "Linux çekirdeğinde önemli bir açık bulundu.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/netflix-to-linux-users-patch-sack-panic-kernel-bug-now-to-stop-remote-attacks/",
+                        "https://access.redhat.com/security/vulnerabilities/tcpsack"
+                    ]
+                },
+                {
+                    "contentText": "E devlet uygulamasının adı değişiyor.",
+                    "contentLink": [
+                        "https://t24.com.tr/haber/e-devlet-uygulamasinin-adi-degisiyor,826354"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’tan kripto para ‘libra’ Eleştiriler de geldi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/20/18693521/facebook-libra-cryptocurrency-calibra-explainer-how-does-work-features",
+                        "https://edition.cnn.com/2019/06/19/tech/facebook-libra-cryptocurrency-regulations/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, klavyelere office tuşu koymayı düşünüyor.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3403329/microsoft-floats-the-concept-of-a-dedicated-office-key-in-a-closed-survey.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Google, tablet üretmeyecek.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3403674/google-pixel-slate-pixel-c-tablet-no-more.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Twitter, yer etiketlerini kaldırıyor.",
+                    "contentLink": [
+                        "https://www.techinside.com/twitter-lokasyon-etiketlerini-kaldiriyor/"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, Android Q güncellemesi alacak telefonlarının listesini yayınladı.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14572/huawei-clarifies-android-update-situation"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, 2019 satış rakamlarını açıkladı ve Nova serisi yeni telefonlarını duyurdu.",
+                    "contentLink": [
+                        "https://www.thurrott.com/mobile/208877/huawei-sold-100-million-smartphones-this-year-through-may",
+                        "https://www.thurrott.com/hardware/208872/huawei-launches-three-new-nova-phones"
+                    ]
+                },
+                {
+                    "contentText": "PCI Express 6.0 duyuruldu, teknik özellikleri 2021 yılında kesinleşecek.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14559/pci-express-bandwidth-to-be-doubled-again-pcie-60-announced-spec-to-land-in-2021"
+                    ]
+                },
+                {
+                    "contentText": "Özgür yazılım yaz kampı Temmuz’da başlıyor.",
+                    "contentLink": [
+                        "https://kamp.linux.org.tr/2019/yaz/"
+                    ]
+                },
+                {
+                    "contentText": "Sensible Soccer dönüyor.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=H28-BxXl_00&fbclid=IwAR0paGp-N5xajFvpMliNXxGXqOAaYR62TXsY1mkSDwVEIB8GZ6taXLChYVc"
+                    ]
+                },
+                {
+                    "contentText": "Kick Off 30 yaşında.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Star Wars Jedi: Fallen Order’a Disney müdahalesi.",
+                    "contentLink": [
+                        "https://gamerant.com/star-wars-jedi-fallen-order-dismemberment-violence-disney/"
+                    ]
+                }
+            ]
         }
     ]
 }
