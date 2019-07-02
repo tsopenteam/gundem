@@ -77533,6 +77533,161 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 26,
+            "totalCount": 426,
+            "uploadDate": "28.06.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/06/2019_26_gundem1.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=aglhZGlZbFM",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-26",
+            "rangeFirstDate": "24.06.2019",
+            "rangeLastDate": "29.06.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/26 (24 - 29 Haziran 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "BKM Express kapanıyor.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-haberi-bkm-express-kapaniyor-2497966-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "BMW, Türkiye’de ConnectedDrive hizmetini sonlandırdı.",
+                    "contentLink": [
+                        "https://www.bmw.com.tr/tr/topics/offers-and-services/connecteddrive-for-users/connecteddrive-bilgilendirme.html"
+                    ]
+                },
+                {
+                    "contentText": "En çok kullanılan 20 pin kodu.",
+                    "contentLink": [
+                        "https://blog.eset.ie/2019/06/20/youd-better-change-your-birthday-hackers-may-know-your-pin/"
+                    ]
+                },
+                {
+                    "contentText": "Steam, Ubuntu desteğini sonlandırıyor. Ubuntu, 32-bit desteğini sürdürecek.",
+                    "contentLink": [
+                        "https://www.omgubuntu.co.uk/2019/06/steam-announces-that-its-dropping-support-for-ubuntu",
+                        "https://www.engadget.com/2019/06/24/canonical-ubuntu-linux-32-bit-support/"
+                    ]
+                },
+                {
+                    "contentText": "Windows 10’un yeni terminali, mağazadan indirilebiliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/22/18701365/microsoft-windows-terminal-10-download-store-features"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, güvenlik nedeniyle bazı servislerin kurum içinde kullanılmasını yasakladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/22/18713270/microsoft-slack-ban-aws-google-docs-prohibited-list-details"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft: “Huawei ürünlerini desteklemeye ve güncellemeye devam edeceğiz”",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-confirms-huawei-laptops-will-continue-be-upgraded-and-supported"
+                    ]
+                },
+                {
+                    "contentText": "Windows Phone, Whatsapp’ı kaybediyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/whatsapp-windows-phone-might-be-dropped-microsoft-store-after-july-1"
+                    ]
+                },
+                {
+                    "contentText": "Turkcell, yalan haberleri engelleme / haber doğrulama konusunda bir patent için başvurdu.",
+                    "contentLink": [
+                        "https://btdunyasi.net/yalan-yanlis-haberlere-turkcell-dur-diyecek/"
+                    ]
+                },
+                {
+                    "contentText": "Foxconn kurucusu, Apple’ın Tayvan’da üretim yapması gerektiğini söyledi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/6/21/18700647/foxconn-terry-gou-apple-iphone-china-taiwan-production"
+                    ]
+                },
+                {
+                    "contentText": "Foxconn kurucusu Terry Gou, yöneticilikten ayrılıyor ve Tayvan’a başkan adayı oluyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/06/20/terry-gou-resigns-as-foxconns-chairman-to-run-for-president-of-taiwan/"
+                    ]
+                },
+                {
+                    "contentText": "ABD, Çin’e %25’lik ek bir vergi koyma düşüncesinde, Apple, Trump vergilerinden sıyrılmak için diplomasi yapıyor. Konsol üreticileri de aynı isteği belirtti.",
+                    "contentLink": [
+                        "https://www.politico.com/story/2019/06/20/apple-iphone-trump-tariffs-1529282",
+                        "https://arstechnica.com/gaming/2019/06/console-makers-warn-trumps-trade-war-could-increase-hardware-prices-25/"
+                    ]
+                },
+                {
+                    "contentText": "Apple, işlemci geliştirilmesi konusunda uzman bir ismi kadrosuna kattı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/06/apple-bolsters-its-chip-team-by-hiring-architect-who-worked-at-arm-intel-amd/"
+                    ]
+                },
+                {
+                    "contentText": "Apple’ın baş tasarımcısı Jony Ive, Apple’dan ayrılıyor.",
+                    "contentLink": [
+                        "https://www.androidauthority.com/jony-ive-leaves-apple-1003557/"
+                    ]
+                },
+                {
+                    "contentText": "ABD, yasakladığı Çin firmalarına yenilerini ekledi. Birinin ucu AMD’ye de dokundu.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3404464/the-us-blacklists-five-chinese-supercomputer-firms-including-amd-joint-venture-thatic.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Intel ve Micron yasağa rağmen Huawei’ye ürün satmayı sürdürüyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/us-chipmakers-are-using-legal-loophole-get-around-trumps-huawei-ban"
+                    ]
+                },
+                {
+                    "contentText": "Philips, Hue sistemini güncelledi ve ‘hub’ ihtiyacını ortadan kaldırdı.",
+                    "contentLink": [
+                        "https://www.techhive.com/article/3405636/new-philips-hue-smart-bulbs-don-t-need-the-hue-bridge.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Display Port 2.0 geliyor.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3405444/displayport-20-launches-promising-8k-video-support-by-late-2020.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "The C64 yenileniyor.",
+                    "contentLink": [
+                        "https://retrogames.biz/the-c64"
+                    ]
+                },
+                {
+                    "contentText": "Steam Yaz İndirimleri başladı.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3405199/steam-summer-sale-2019-kicks-off.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Google Stadia oyunları, konsol oyunlarıyla aynı fiyat olacak.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/google-stadia-games-will-cost-same-other-consoles-despite-ownership-concerns"
+                    ]
+                },
+                {
+                    "contentText": "Twitch’de abonelere özel yayınlar yapılabilecek.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/twitch-announces-subscriber-only-streams"
+                    ]
+                },
+                {
+                    "contentText": "Prince of Persia, 30 yaşında.",
+                    "contentLink": [
+                        "https://www.facebook.com/notes/jordan-mechner/a-30th-anniversary-note-to-prince-of-persia-fans/10156495220101295/"
+                    ]
+                }
+            ]
         }
     ]
 }
