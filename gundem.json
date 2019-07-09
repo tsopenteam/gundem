@@ -77688,6 +77688,115 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 27,
+            "totalCount": 427,
+            "uploadDate": "05.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/2019_27_plus_ne_guzel.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=edznDuAN1C8",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-27",
+            "rangeFirstDate": "01.07.2019",
+            "rangeLastDate": "06.07.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/27 (1 - 6 Temmuz 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Turksat/Uydunet kullanıcıları birçok siteye giremiyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Cloudflare’de yaşanan sıkıntı nedeniyle birçok siteye erişim durdu.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/cloudflare-stutters-and-the-internet-stumbles/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, Instagram ve Whatsapp da bir süre kullanılmaz hale geldi.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2019/jul/03/instagram-whatsapp-facebook-media-files-outage"
+                    ]
+                },
+                {
+                    "contentText": "Chrome’un reklam engelleme sistemi, 9 Temmuz’da tam olarak devreye giriyor.",
+                    "contentLink": [
+                        "https://marketingland.com/google-extends-chrome-ad-blocking-to-global-markets-on-july-9-263357"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, RTX serisine ‘Super’ kartlar ekliyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/07/nvidia-refreshes-rtx-line-super-gpus-add-performance-at-same-msrp/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’nın gelecekteki grafik işlemcilerini Samsung üretecek.",
+                    "contentLink": [
+                        "https://www.sammobile.com/news/win-samsung-nvidia-7nm-process-next-gen-gpu/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung: “Galaxy Fold çıkışı bizi utandırdı, ama tüm sorunları çözdük”",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/1/20677486/galaxy-fold-launch-embarrassing-ceo-dj-koh-foldable-phone"
+                    ]
+                },
+                {
+                    "contentText": "Bazı uygulamaların Gmail erişimi 15 Temmuz itibariyle sonlanacak.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/06/gmails-api-lockdown-will-kill-some-third-party-app-access-starting-july-15/"
+                    ]
+                },
+                {
+                    "contentText": "Windows 10 2019 Sonbahar güncellemesi, daha önceki güncellemelerden farklı sunulacak.",
+                    "contentLink": [
+                        "https://www.neowin.net/news/microsoft-wont-commit-to-delivering-future-windows-10-updates-in-the-same-way-as-19h2/"
+                    ]
+                },
+                {
+                    "contentText": "Tartışma yaratan Deepnude yazılımı, yapımcısı tarafından kullanımdan kaldırıldı.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2019/06/author-pulls-software-that-used-deep-learning-to-virtually-undress-women/"
+                    ]
+                },
+                {
+                    "contentText": "İngiliz reklam otoritesine göre 30000 takipçisi olan “şöhret” kabul ediliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/4/20682087/instagram-twitter-celebrity-30000-followers-advertising-standards-authority-uk"
+                    ]
+                },
+                {
+                    "contentText": "e-devlet üzerinden BTK’ya ihbar başvurusu yapılabilecek.",
+                    "contentLink": [
+                        "https://www.turkiye.gov.tr/btk-internet-ihbar-basvurusu"
+                    ]
+                },
+                {
+                    "contentText": "Yeni sinema yasası uygulamaya geçti.",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/sinema-salonlarinda-yeni-donem-basladi--etkileri-kisa-vadede-gorulecek-molatik-12344/?Sayfa=7"
+                    ]
+                },
+                {
+                    "contentText": "Walkman, 40 yaşında.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/7/1/20677636/sony-walkman-anniversary-tps-l2-cassette-music-player-portable-mp3-evolution"
+                    ]
+                },
+                {
+                    "contentText": "Elektrikli otomobillere ses eklenecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/1/20676854/electric-cars-artificial-safety-noise-low-speeds-european-union-rules-2019-2021"
+                    ]
+                },
+                {
+                    "contentText": "Alan Wake, Remedy’e geri döndü.",
+                    "contentLink": [
+                        "https://www.vg247.com/2019/07/01/alan-wake-publishing-rights-alan-wake-2/"
+                    ]
+                }
+            ]
         }
     ]
 }
