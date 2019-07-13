@@ -77797,6 +77797,130 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 28,
+            "totalCount": 428,
+            "uploadDate": "12.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/gundem_2019_28_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-28",
+            "rangeFirstDate": "08.07.2019",
+            "rangeLastDate": "13.07.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/28 (8 - 13 Temmuz 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "İthalata yeni kısıtlamalar geliyor. Resmi Gazete.",
+                    "contentLink": [
+                        "https://www.bloomberght.com/ithalata-5-urun-kisitlamasi-2228121",
+                        "http://www.resmigazete.gov.tr/eskiler/2019/06/20190629.pdf"
+                    ]
+                },
+                {
+                    "contentText": "Kopya IMEI işine yeni düzenleme.",
+                    "contentLink": [
+                        "https://www.haberturk.com/imeisi-kopyalanan-cihazlarla-ilgili-bilmeniz-gereken-her-sey-2502596-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Bilgi ve İletişim Güvenliği Tedbirleri genelgesi.",
+                    "contentLink": [
+                        "https://www.aa.com.tr/tr/turkiye/cumhurbaskani-erdogandan-bilgi-ve-iletisim-guvenligi-tedbirleri-genelgesi/1524643"
+                    ]
+                },
+                {
+                    "contentText": "Dropbox da dosya transfer hizmeti vermeye başlıyor.",
+                    "contentLink": [
+                        "https://www.dropbox.com/transfer/about"
+                    ]
+                },
+                {
+                    "contentText": "Google, ABD’de yeni bir sosyal ağ uygulamasını deniyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/12/20691430/shoelace-google-area-120-event-organizing-new-york-beta"
+                    ]
+                },
+                {
+                    "contentText": "Raspberry Pi 4 tasarımındaki hata, bazı şarj cihazlarının kullanımını engelliyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/07/raspberry-pi-4-uses-incorrect-usb-c-design-wont-work-with-some-chargers/"
+                    ]
+                },
+                {
+                    "contentText": "Logitech Unifying alıcılı ürünlerde güvenlik açığı.",
+                    "contentLink": [
+                        "https://www.heise.de/ct/artikel/Logitech-keyboards-and-mice-vulnerable-to-extensive-cyber-attacks-4464533.html"
+                    ]
+                },
+                {
+                    "contentText": "Görüntülü görüşme yazılımı Zoom, Mac kullanıcılarını tehlikeye atıyor.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/07/10/apple-mac-update-removes-zoom-exploit/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, 2020 yılında 5nm üretime geçmeye hazır.",
+                    "contentLink": [
+                        "https://www.guru3d.com/news-story/samsung-closes-in-on-5nm-production-in-2020.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+guru3d%2Fnews+%28Guru3d+Latest+News+%26+Articles%29"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft kendi Android uygulamalarında kendi uygulamalarının reklamını gösteriyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/8/20686538/microsoft-your-phone-companion-onedrive-app-ads-android-sharing-open-menu"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft’un Remix 3D hizmeti kapanıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsofts-remix-3d-planned-shut-down"
+                    ]
+                },
+                {
+                    "contentText": "2 yıldan uzun süre kullanılmayan Microsoft hesapları kapatılacak.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-might-delete-your-account-if-you-dont-use-it-two-years"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, gelecek Windows 10 güncellemesinde şifre kullanımını kaldıracak",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/11/20690359/microsoft-windows-10-passwordless-password-option-update"
+                    ]
+                },
+                {
+                    "contentText": "İngiliz ISP’lerine göre Mozilla “yılın internet haydutu”",
+                    "contentLink": [
+                        "https://nakedsecurity.sophos.com/2019/07/08/isps-call-mozilla-internet-villain-for-promoting-dns-privacy/"
+                    ]
+                },
+                {
+                    "contentText": "20 yıllık şifreleme bulmacası, iki ayrı grup tarafından çözüldü. ",
+                    "contentLink": [
+                        "https://www.wired.com/story/a-programmer-solved-a-20-year-old-forgotten-crypto-puzzle/"
+                    ]
+                },
+                {
+                    "contentText": "Cuphead Netflix’te çizgi dizi olacak.",
+                    "contentLink": [
+                        "https://kotaku.com/hand-drawn-animated-video-game-cuphead-is-getting-a-han-1836210266?rev"
+                    ]
+                },
+                {
+                    "contentText": "Nintendo Swtich Lite geliyor.",
+                    "contentLink": [
+                        "https://www.nintendo.com/switch/lite/"
+                    ]
+                },
+                {
+                    "contentText": "Steam, oyun tavsiye sistemini genişletiyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/11/20690231/valve-steam-labs-interactive-recommender-game-recommendation-machine-learning-tool"
+                    ]
+                }
+            ]
         }
     ]
 }
