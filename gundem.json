@@ -77921,6 +77921,154 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 29,
+            "totalCount": 429,
+            "uploadDate": "19.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/2019_gundem_29_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-29",
+            "rangeFirstDate": "15.07.2019",
+            "rangeLastDate": "20.07.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/29 (15 - 20 Temmuz 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "TÜBİDER, “Bilişim Teknolojileri Meslek Seçimi ve Ücretler” araştırmasını yayınladı.",
+                    "contentLink": [
+                        "https://tubider.org.tr/basin-toplantisi-bilisim-teknolojileri-meslek-secimi-ve-ucretler-arastirmasi/"
+                    ]
+                },
+                {
+                    "contentText": "KVKK’nın verdiği bir karar tartışma yarattı.",
+                    "contentLink": [
+                        "https://twitter.com/MGokhanAhi/status/1151768574333267968"
+                    ]
+                },
+                {
+                    "contentText": "Yurt dışından getirilen telefonların kayıt ücreti 618 TL’den 1500 TL’ye çıktı.",
+                    "contentLink": [
+                        "http://www.resmigazete.gov.tr/eskiler/2019/07/20190719-16.pdf"
+                    ]
+                },
+                {
+                    "contentText": "YouTube Premium Türkiye’de.",
+                    "contentLink": [
+                        "https://www.youtube.com/premium"
+                    ]
+                },
+                {
+                    "contentText": "Instagram, beğeni sayısını gizlemeye daha çok ülkede başladı.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/instagram-is-now-hiding-like-counts-in-australia-canada-and-five-other-countries"
+                    ]
+                },
+                {
+                    "contentText": "Kullanıcı kaybeden Netflix’in değeri bir günde 17 Milyar $ düştü.",
+                    "contentLink": [
+                        "https://comicbook.com/movies/2019/07/19/netflix-loses-17-billion-stock-value-in-24-hours/"
+                    ]
+                },
+                {
+                    "contentText": "Qualcomm Snapdragon 855 Plus’ı duyurdu.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/66618/qualcomm-snapdragon-855-plus-new-beefy-gaming-phones/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, LPDDR5 belleklerin üretimine geçiyor.",
+                    "contentLink": [
+                        "https://news.samsung.com/global/samsung-begins-mass-production-of-industrys-first-12gb-lpddr5-mobile-dram-for-premium-smartphones"
+                    ]
+                },
+                {
+                    "contentText": "Intel: 7nm işlemciler 2021 yılında. Samsung’a 14nm yonga üretimi yaptırılacak.",
+                    "contentLink": [
+                        "https://www.guru3d.com/news-story/intel-ceo-confirms-7nm-cpus-in-2021.html?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+guru3d%2Fnews+%28Guru3d+Latest+News+%26+Articles%29",
+                        "https://techreport.com/news/34638/updated-report-intel-turns-to-samsung-for-14-nm-relief/  "
+                    ]
+                },
+                {
+                    "contentText": "Facebook, fotoğrafların içine takip kodu ekliyor.",
+                    "contentLink": [
+                        "https://twitter.com/oasace/status/1149181539000864769"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, 5 milyar dolarlık yeni cezayla karşı karşıya.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/12/20692524/facebook-five-billion-ftc-fine-embarrassing-joke"
+                    ]
+                },
+                {
+                    "contentText": "Kötü amaçlı tarayıcı eklentileri, milyonlarca kullanıcının verilerini sızdırıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/07/dataspii-inside-the-debacle-that-dished-private-data-from-apple-tesla-blue-origin-and-4m-people/"
+                    ]
+                },
+                {
+                    "contentText": "Huawei: Hongmeng, telefonlarda Android yerine geçmeyecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/19/20700411/huawei-hongmeng-os-android-replacement-not"
+                    ]
+                },
+                {
+                    "contentText": "Sony A7R 4’ü duyurdu.",
+                    "contentLink": [
+                        "https://www.dpreview.com/news/7747501993/sony-introduces-a7r-iv"
+                    ]
+                },
+                {
+                    "contentText": "Elon Musk’ın Neuralink girişimi beyne girecek.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/66639/elon-musks-neuralink-head-drilling-tests-begin-next-year/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Amerika’da kullanıcıları hedefleyen şantajcı hukuk firmasının yolculuğu, hapis ile sonlandı.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2019/07/prenda-law-porn-troll-saga-ends-with-prison-for-founder/"
+                    ]
+                },
+                {
+                    "contentText": "Avrupa’nın yön bulma sistemi Galileo, geçen haftayı sorunlarla geçirdi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/15/20694395/europe-galileo-satellite-navigation-system-offline-outage-technical-incident"
+                    ]
+                },
+                {
+                    "contentText": "50 milyon vatandaşın kimlik bilgisini ele geçiren şebeke yakalandı.",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/gundem/buyuk-operasyon-50-milyon-kisinin-kimlik-bilgilerini-calmislar-2903910"
+                    ]
+                },
+                {
+                    "contentText": "Sosyal medya kullanımı, gençler üzerinde oyunlara kıyasla daha zararlı etkilere sahip.",
+                    "contentLink": [
+                        "https://www.cbc.ca/news/canada/montreal/social-media-mental-health-screen-time-instagram-facebook-video-games-study-1.5211782"
+                    ]
+                },
+                {
+                    "contentText": "Şifrelerin mucidi öldü.",
+                    "contentLink": [
+                        "https://thenextweb.com/dd/2019/07/13/rip-fernando-corby-corbato-inventor-of-the-password-1926-2019/"
+                    ]
+                },
+                {
+                    "contentText": "Fortnite, 1 Milyon dolarlık yeni turnuvaya başlıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/fortnite-announces-1-million-xbox-cup-tournament-starting-july-20"
+                    ]
+                },
+                {
+                    "contentText": "Apex Legends hile sorununa güzel bir çözüm getiriyor.",
+                    "contentLink": [
+                        "https://www.ubergizmo.com/2019/07/apex-legends-cheaters-will-be-matched-with-other-cheaters/"
+                    ]
+                }
+            ]
         }
     ]
 }
