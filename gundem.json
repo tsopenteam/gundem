@@ -78069,6 +78069,112 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 30,
+            "totalCount": 430,
+            "uploadDate": "26.07.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/07/2019_plus_gundem_30.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-30",
+            "rangeFirstDate": "22.07.2019",
+            "rangeLastDate": "27.07.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/30 (22 - 27 Temmuz 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "General Mobile, kendilerine ait olmayan Android Q Beta sürümünü dağıttı.",
+                    "contentLink": [
+                        "https://shiftdelete.net/general-mobile-icin-sasirtan-yazilim-iddiasi",
+                        "https://www.xda-developers.com/general-mobile-android-q-beta/"
+                    ]
+                },
+                {
+                    "contentText": "Gençlik Bakanlığı, Genç Hackathon yarışmasını duyurdu.",
+                    "contentLink": [
+                        "https://www.donanimhaber.com/Genclik-Bakanligi-ndan-25-bin-TL-odullu-Genc-Hackathon-yarismasi--112751"
+                    ]
+                },
+                {
+                    "contentText": "FaceApp uygulaması ve yarattığı tartışmalar.",
+                    "contentLink": [
+                        "https://www.theguardian.com/commentisfree/2019/jul/18/faceapp-privacy-data-russians"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’a ABD’den 5 Milyar Dolar ceza kesinleşti.",
+                    "contentLink": [
+                        "https://edition.cnn.com/2019/07/24/tech/facebook-ftc-settlement/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Macaristan’daki suçlamalar karşısında 26 Milyon $ ödeyerek anlaşma sağladı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-will-pay-26-million-settle-claims-involving-hungarian-kickback-scheme"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, Galaxy Fold’daki sorunları çözüdüğünü duyurdu.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/07/samsung-details-galaxy-fold-fixes-promises-re-launch-in-september/"
+                    ]
+                },
+                {
+                    "contentText": "Github, ABD’nin ticari yasak koyduğu ülkelere engel koydu.",
+                    "contentLink": [
+                        "https://help.github.com/en/articles/github-and-trade-controls"
+                    ]
+                },
+                {
+                    "contentText": "ABD hukukçularından talep: Şifreleme sistemi geliştiren firmalar, devlet için arka kapı bırakmak zorunda.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2019/07/tech-firms-can-and-must-put-backdoors-in-encryption-ag-barr-says/"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Intel’in akıllı telefon modem bölümünü 1 Milyar Dolar’a aldı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/25/8909671/apple-intel-5g-smartphone-modems-acquisition"
+                    ]
+                },
+                {
+                    "contentText": "Corsair, PC firması Origin’i aldı.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3411456/corsair-buys-custom-computer-builder-origin-pc-to-ride-pc-gamings-big-revival.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Windows 10’un güncellenme şeklini değiştirecek.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/07/microsoft-changes-windows-10s-update-model/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, ekonomik işlemci üretimindeki sıkıntının bittiğini açıkladı.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3411957/intel-will-increase-low-end-cpu-production-now-that-its-10nm-ice-lake-transition-is-complete.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Sony, RX100 Mark VII duyuruldu.",
+                    "contentLink": [
+                        "https://www.dpreview.com/news/6780284613/sony-reveals-cyber-shot-dsc-rx100-vii-super-compact-with-90-fps-bursts-and-mic-socket"
+                    ]
+                },
+                {
+                    "contentText": "Nintendo, Switch’lerde görülen Joy Con sorununu ücretsiz çözecek.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/07/report-nintendo-quietly-owns-up-to-joy-con-drift-will-repair-for-free/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Sony cephesinden deneyimli oyun geliştiricileri transfer ediyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/even-more-god-war-and-uncharted-developers-join-microsofts-initiative-studio"
+                    ]
+                }
+            ]
         }
     ]
 }
