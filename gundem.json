@@ -78175,6 +78175,149 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 31,
+            "totalCount": 431,
+            "uploadDate": "02.08.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/08/gundem_31.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-31",
+            "rangeFirstDate": "29.07.2019",
+            "rangeLastDate": "03.08.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/31 (29 Temmuz - 03 Ağustos 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "RTÜK artık internet yayınlarına da karışacak. (Prof. Dr. Yaman Akdeniz’in yorumu)",
+                    "contentLink": [
+                        "http://www.resmigazete.gov.tr/eskiler/2019/08/20190801-5.htm",
+                        "https://journo.com.tr/rtuk-internet-sansur-yonetmenlik"
+                    ]
+                },
+                {
+                    "contentText": "Yolcu beraberinde getirilen cep telefonu adedi ortaya çıktı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/cep-te-yuzde-50-lik-artisa-harc-freni-haberler-2508579-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "ABD yasağına rağmen Huawei yükselişte.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/30/20746693/huawei-earnings-h1-2019-smartphone-sales?fbclid=IwAR2NBOETzbIfKoTibUGOU5t-Vs0h3OD3HwL8dBHubMf6LzTkwuhQKu2YdBI"
+                    ]
+                },
+                {
+                    "contentText": "AMD RX 5800 için daha büyük bir Navi GPU hazırlığında olabilir.",
+                    "contentLink": [
+                        "https://www.techpowerup.com/257761/amd-readies-larger-7nm-navi-12-silicon-to-power-radeon-rx-5800-series"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Windows’a buluttan geri yükleme desteğini getirebilir.",
+                    "contentLink": [
+                        "https://hothardware.com/news/windows-10-cloud-restore-microsoft"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Skype for Business’ı sonlandırıyor",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3428639/microsoft-signals-the-end-for-skype-for-business-online-asking-teams-to-take-over.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Intel, 10. Nesil “Ice Lake” işlemcilerini çıkardı.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3411974/intel-10th-gen-ice-lake-chips-specs-features-pricing-availability.html#tk.rss_all",
+                        "https://www.theverge.com/2019/8/1/20748224/intel-first-10nm-ice-lake-11-cpu-processor-laptop-decoder-ring"
+                    ]
+                },
+                {
+                    "contentText": "Google, yeni Pixel 4’e ‘radar’ koyacak.",
+                    "contentLink": [
+                        "https://www.blog.google/products/pixel/new-features-pixel4/"
+                    ]
+                },
+                {
+                    "contentText": "Google, Android marketi için ‘Play Pass’  ücretli abonelik servisi sunacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/8/1/20750110/google-play-pass-subscription-service-premium-apps-games-apple-arcade-competition"
+                    ]
+                },
+                {
+                    "contentText": "Sony, giyilebilir klima yapacak.",
+                    "contentLink": [
+                        "http://www.allusanewshub.com/2019/07/26/sony-to-launch-wearable-air-conditioner-that-fits-in-your-pocket/"
+                    ]
+                },
+                {
+                    "contentText": "Fransa, uydularını silahlandıracak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/28/8934164/france-military-space-command-satellites-guns-lasers-2030"
+                    ]
+                },
+                {
+                    "contentText": "ABD, web sitesi ve uygulamalarda sonsuz akışı yasaklamayı tartışıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2019/07/proposed-us-law-would-ban-infinite-scroll-autoplaying-video/"
+                    ]
+                },
+                {
+                    "contentText": "“Mucit” yapay zekaların isimleri, patent tescilinde yer alacak.",
+                    "contentLink": [
+                        "https://www.fudzilla.com/news/ai/49157-ais-should-be-allowed-their-names-on-patents"
+                    ]
+                },
+                {
+                    "contentText": "Edward Snowden, anılarını yayınlayacak.",
+                    "contentLink": [
+                        "https://www.fudzilla.com/news/49159-snowden-pens-his-memoires"
+                    ]
+                },
+                {
+                    "contentText": "TaleWorlds, Çinli NetEase Games ile işbirliğini duyurdu.",
+                    "contentLink": [
+                        "https://www.merlininkazani.com/taleworlds-cinli-firma-netease-games-ile-anlastigini-duyurdu-haber-108074"
+                    ]
+                },
+                {
+                    "contentText": "Quakecon yapıldı",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Doom 1,2 ve 3 konsollara çıktı ama DRM tartışma yarattı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/7/26/8932026/doom-library-switch-drm-log-in-online-connection-bethesda-quakecon"
+                    ]
+                },
+                {
+                    "contentText": "Wolfenstein: Youngblood ve Cyberpilot çıktı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Doom Eternal’ın yeni multiplayer modu Battlemode.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=K_PA6VNpejQ"
+                    ]
+                },
+                {
+                    "contentText": "Playstation 5’in fiyatı belli olmadı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "AMD, Ryzen 3 Destiny 2 uyuşmazlığı için sürücü çıkartıyor.",
+                    "contentLink": [
+                        "https://www.overclock3d.net/news/software/amd_launches_a_beta_chipset_driver_to_solve_ryzen_3rd_gen_s_destiny_2_woes/1"
+                    ]
+                },
+                {
+                    "contentText": "Bir sonraki NFS oyununun adı Need For Speed Heat olabilir.",
+                    "contentLink": [
+                        "https://www.dsogaming.com/news/need-for-speed-2019-game-to-be-called-need-for-speed-heat-according-to-a-leak/"
+                    ]
+                }
+            ]
         }
     ]
 }
