@@ -78318,6 +78318,151 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 32,
+            "totalCount": 432,
+            "uploadDate": "09.08.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/08/2019_32_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-32",
+            "rangeFirstDate": "05.08.2019",
+            "rangeLastDate": "10.08.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/32 (5 - 10 Ağustos 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Samsung Note 10 Lansmanı yapıldı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Galaxy Note 10 Serisi",
+                    "contentLink": [
+                        "https://www.samsung.com/tr/smartphones/galaxy-note10/"
+                    ]
+                },
+                {
+                    "contentText": "Galaxy Watch Active 2",
+                    "contentLink": [
+                        "https://www.samsung.com/global/galaxy/galaxy-watch-active2/"
+                    ]
+                },
+                {
+                    "contentText": "Galaxy Tab S6",
+                    "contentLink": [
+                        "https://www.samsung.com/global/galaxy/galaxy-tab-s6/"
+                    ]
+                },
+                {
+                    "contentText": "Galaxy Book S",
+                    "contentLink": [
+                        "https://www.windowscentral.com/samsung-announces-galaxy-book-s-snapdragon-8cx-999"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, işletim sisteminin adını HarmonyOS olarak duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/8/9/20798251/huawei-harmonyos-hongmengos-smartphones-internet-of-things-operating-system-android?fbclid=IwAR0iV8DGZV2oDA5E8BOKFIH3ZCOLfuctJe-qq3Uaomk_0u19Qy7JLNxW0BE"
+                    ]
+                },
+                {
+                    "contentText": "E3 fuarına katılan 2000 gazetecinin bilgisi sızdı.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/08/03/e3s-organizer-apologizes-after-revealing-information-for-thousands-of-journalists/"
+                    ]
+                },
+                {
+                    "contentText": "Twitter’dan bankaları taklit eden dolandırıcılar yakalandı.",
+                    "contentLink": [
+                        "https://www.sozcu.com.tr/2019/ekonomi/sosyal-medyadaki-banka-karti-dolandiricilarina-operasyon-5272744/"
+                    ]
+                },
+                {
+                    "contentText": "Kredi kartı numarasını gizleme sistemi gelecek.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/ekonomi/kredi-kartlarini-artik-yalanci-numara-koruyacak,dA83r59N7EmA34ZAmOWKOA"
+                    ]
+                },
+                {
+                    "contentText": "Sabit internet hızında Türkiye, 100. Sırada.",
+                    "contentLink": [
+                        "https://www.donanimhaber.com/Dunya-genelinde-ortalama-indirme-hizi-59-45Mbps-Turkiye-de-durum-ne--112999"
+                    ]
+                },
+                {
+                    "contentText": "Broadcom, Symantec’in kurumsal güvenlik bölümünü satın aldı.",
+                    "contentLink": [
+                        "https://www.prnewswire.com/news-releases/broadcom-to-acquire-symantec-enterprise-security-business-for-10-7-billion-in-cash-300899102.html"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’nın Ray Tracing odaklı 3D tasarım yarışmasını Oğuz Ormancı kazandı.",
+                    "contentLink": [
+                        "https://blogs.nvidia.com/blog/2019/08/05/dxr-spotlight-contest/"
+                    ]
+                },
+                {
+                    "contentText": "Binance kullanıcılarının bilgileri, rehin alındı.",
+                    "contentLink": [
+                        "https://www.siberguvenlik.web.tr/index.php/2019/08/08/iddia-binance-kullanicilarinin-verileri-sizdirildi/"
+                    ]
+                },
+                {
+                    "contentText": "İşlemci temelli yeni bir güvenlik açığı duyuruldu. Windows yaması Temmuz ayında yayınlanmış.",
+                    "contentLink": [
+                        "https://www.forbes.com/sites/daveywinder/2019/08/06/microsoft-confirms-new-windows-cpu-attack-vulnerability--advises-all-users-to-update-now/#5ba7c0ef73f8"
+                    ]
+                },
+                {
+                    "contentText": "Rus hackerler, IoT cihazları üzerinden ağlara sızarken yakalandı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/08/microsoft-catches-russian-state-hackers-using-iot-devices-to-breach-networks/?fbclid=IwAR1QeYebGM9-xAJrTxhQD-fCeD3X4eqa3Vj54jxOljq6yefRim9-AOFEF0s"
+                    ]
+                },
+                {
+                    "contentText": "Toshiba, çok ufak boyutlu NVMe SSD formatını duyurdu: XFMEXPRESS",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14711/toshiba-introduces-new-tiny-nvme-ssd-form-factor"
+                    ]
+                },
+                {
+                    "contentText": "Western Digital: Flash bellek üretimi normale döndü.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14702/western-digital-nearly-all-nand-capacities-resumed-normal-operations"
+                    ]
+                },
+                {
+                    "contentText": "Google, 2020’den itibaren Avrupa’da arama motoru seçeneği sunacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/8/2/20751353/google-auction-android-search-choice-screen"
+                    ]
+                },
+                {
+                    "contentText": "1994’ten beri yayınlanan Linux Journal yayın hayatına son verdi.",
+                    "contentLink": [
+                        "https://www.linuxjournal.com/content/linux-journal-ceases-publication-awkward-goodbye"
+                    ]
+                },
+                {
+                    "contentText": "Linux, disket desteğini bırakıyor.",
+                    "contentLink": [
+                        "https://techreport.com/news/3464145/linux-dropping-floppy-drive-support/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Sony ve Nintendo, oyun firmalarından loot box sistemlerinin detaylarını talep edecek.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-nintendo-and-sony-will-require-loot-box-rarity-disclosures-soon"
+                    ]
+                },
+                {
+                    "contentText": "Destiny 2 oyuncuları platformlardan bağımsız hale geliyor. Steam geçişi için tarih 20 Ağustos.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/destiny-2-cross-save-coming"
+                    ]
+                }
+            ]
         }
     ]
 }
