@@ -78532,6 +78532,141 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 34,
+            "totalCount": 434,
+            "uploadDate": "23.08.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/08/gundem_plus_2019_34.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=BlHGbD7iTFE",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-34",
+            "rangeFirstDate": "19.08.2019",
+            "rangeLastDate": "24.08.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/34 (19 - 24 Ağustos 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Android sürümlerinin adı artık tatlı ismi olmayacak. Yeni sürüm Android 10.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/8/22/20827231/android-10-q-google-name-officially-announced-new-logo-wordmark-desserts"
+                    ]
+                },
+                {
+                    "contentText": "YouTube’un doğrudan mesajlaşma özelliği kaldırılıyor.",
+                    "contentLink": [
+                        "https://www.google.com/search?safe=off&ei=tqpeXeSzHsqWkwXKgKjQDQ&q=google+youtube+cancels+direct+mesage&oq=google+youtube+cancels+direct+mesage&gs_l=psy-ab.3..33i21j33i160.6272.12248..12514...0.2..0.187.2083.0j13......0....1..gws-wiz.......0i71j33i22i29i30.zEtNQcYldI4&ved=0ahUKEwjk5vyC3JbkAhVKy6QKHUoACtoQ4dUDCAo&uact=5"
+                    ]
+                },
+                {
+                    "contentText": "Intel’den yeni işlemci serisi Comet Lake.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/08/intels-line-of-notebook-cpus-gets-more-confusing-with-14nm-comet-lake/"
+                    ]
+                },
+                {
+                    "contentText": "AMD, yeni nesil Threadripper’ı ‘yakında’ dedi. Crossfire geri gelmeyecek.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3432795/amd-next-gen-threadripper-is-coming-next-gen-crossfire-probably-isnt.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Radeon VII ‘end of life’ oldu haberi.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/amd-radeon-vii-end-of-life-status,39861.html"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, GeForce Now’a RTX desteği kazandırmaya başladı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/08/minecraft-is-getting-an-official-visual-upgrade-after-all-only-on-nvidia-rtx/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA sürücülerine düşük gecikme modu ekleniyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/new-nvidia-driver-introduces-ultra-low-latency-mode-sharper-scaling-retro-games"
+                    ]
+                },
+                {
+                    "contentText": "Qualcomm, LG ile 5 yıllık anlaşma imzaladı.",
+                    "contentLink": [
+                        "https://www.fudzilla.com/news/mobile/49257-qualcomm-signs-five-year-deal-with-lg"
+                    ]
+                },
+                {
+                    "contentText": "Kaspersky AV, internet sayfalarına, kişiyi belli eden kod yerleştirmiş.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/08/kaspersky-av-injected-unique-id-into-webpages-even-in-incognito-mode/"
+                    ]
+                },
+                {
+                    "contentText": "AİHM, Wikipedia yasağı konusunda Türkiye’den bilgi istedi.",
+                    "contentLink": [
+                        "https://odatv.com/turkiyeye-2-ay-vikipedi-suresi-21081930.html"
+                    ]
+                },
+                {
+                    "contentText": "Chromium tabanlı Microsoft Edge, Beta aşamasına geldi.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3433198/microsoft-edge-in-chromium-goes-beta-and-microsoft-says-its-ready-for-everyday-use.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "ABD, Huawei’nin lisansını 3 ay daha uzattı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/08/report-us-expected-to-give-huawei-another-90-day-export-license/"
+                    ]
+                },
+                {
+                    "contentText": "Matrix 4 geliyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Gamescom yapıldı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Mount and Blade 2 Bannerlord Mart 2020’de erken erişimde. Multiplayer Beta için kayıtlar başladı.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/uk/heres-why-mount-and-blade-ii-bannerlord-is-going-into-early-access-after-eight-years-of-development/",
+                        "https://beta.taleworlds.com/"
+                    ]
+                },
+                {
+                    "contentText": "Xbox Live",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Xbox Game Pass’in aylık ücreti 59 TL’den 29,99 TL’ye inerken. Bilgisayar için Game Pass aylık üyelik ücreti 28,99 TL yerine 14,99 TL’ye. Xbox Live Gold platformunun aylık ücreti ise 59 TL’den 29,99 TL’ye indiriliyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Minecraft’a NVIDIA RTX desteği geliyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/08/minecraft-is-getting-an-official-visual-upgrade-after-all-only-on-nvidia-rtx/"
+                    ]
+                },
+                {
+                    "contentText": "Battlefield V için 5 vs 5 modu iptal edildi.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/battlefield-5s-5v5-mode-has-been-canceled/"
+                    ]
+                },
+                {
+                    "contentText": "Grid 2, Steam’den çekildi. Forza Motorsports 6’da Microsoft mağazalarından kalkıyor.",
+                    "contentLink": [
+                        "https://www.vg247.com/2019/08/12/grid-2-removed-steam/"
+                    ]
+                },
+                {
+                    "contentText": "Death Stranding’ten oyun içi video geldi. Sony Exclusive olmayacak söylentileri.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=wyAnYp4GbWM",
+                        "https://www.eurogamer.net/articles/2019-08-08-death-stranding-fans-are-worried-over-its-removal-from-a-list-of-playstation-exclusives"
+                    ]
+                }
+            ]
         }
     ]
 }
