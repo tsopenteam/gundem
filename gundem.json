@@ -78792,6 +78792,182 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 36,
+            "totalCount": 436,
+            "uploadDate": "06.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/2019_36_gundem_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-36",
+            "rangeFirstDate": "02.09.2019",
+            "rangeLastDate": "07.09.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/36 (2 - 7 Eylül 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın teknoloji gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "IFA 2019 başladı",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Samsung Exynos 980’in içinde 5G modem gömülü.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/9/4/20849629/samsung-exynos-980-processor-5g-modem-built-in-default-ifa-2019"
+                    ]
+                },
+                {
+                    "contentText": "Netflix’in RTÜK’ten izin alıp almadığı bütün hafta gündem oldu.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-rtuk-ten-lisans-aciklamasi-2518772-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Trump, fikir değiştirerek Huawei konusunun pazarlığa açık olmadığını açıkladı.",
+                    "contentLink": [
+                        "https://www.mobileworldlive.com/featured-content/top-three/trump-takes-huawei-talks-off-the-table/?ID=a6g1r000000zUyKAAU&JobID=280848&HE=21180f3a9736c4522ddc6d6e1ae24a82570e97d7cd8edbd3a8e7f6f38d0956da&utm_source=sfmc&utm_medium=email&utm_campaign=MWL_20190905&utm_content=https%3a%2f%2fwww.mobileworldlive.com%2ffeatured-content%2ftop-three%2ftrump-takes-huawei-talks-off-the-table%2f"
+                    ]
+                },
+                {
+                    "contentText": "Huawei Mate 30, 19 Eylül’de çıkıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/9/1/20844127/huawei-mate-30-pro-launch-date-announcement"
+                    ]
+                },
+                {
+                    "contentText": "USB 4.0 standartı duyuruldu.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/usb-4-faq,38766.html"
+                    ]
+                },
+                {
+                    "contentText": "Toshiba, Lite-On’un SSD bölümünü aldı.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/toshiba-memory-picks-up-lite-on-ssd-business-in-165-million-deal/"
+                    ]
+                },
+                {
+                    "contentText": "ASUS, ekranında 300Hz tazeleme hızı olan dizüstü modellerini sergiledi.",
+                    "contentLink": [
+                        "https://www.blurbusters.com/asus-launches-300-hz-laptops-breaking-240-hz-barrier/"
+                    ]
+                },
+                {
+                    "contentText": "Google, ilk Chromecast için artık güncelleme yayınlamayacak.",
+                    "contentLink": [
+                        "http://www.hurriyet.com.tr/teknoloji/google-chromecast-platformu-icin-guncelleme-artik-sunmayacak-41318028"
+                    ]
+                },
+                {
+                    "contentText": "Nokia 2720 de geri dönüyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/9/5/20850793/nokia-2720-flip-phone-hmd-800-rugged-110-feature-phones-ifa-2019"
+                    ]
+                },
+                {
+                    "contentText": "Youtube, 170 milyon Dolar ceza yedi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/4/20848949/google-ftc-youtube-child-privacy-violations-fine-170-milliion-coppa-ads"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, milyonlarca insanın telefon numarasını kaptırmış.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook da beğenileri gizlemeyi düşünüyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/09/02/facebook-hidden-likes/"
+                    ]
+                },
+                {
+                    "contentText": "Casusluk yazılımı Türkiye’ye satıldı iddiası.",
+                    "contentLink": [
+                        "https://www.bbc.com/turkce/haberler-dunya-49591174"
+                    ]
+                },
+                {
+                    "contentText": "Deepfake ile kandırılan yönetici, 243.000 Dolar kaptırdı.",
+                    "contentLink": [
+                        "https://thenextweb.com/security/2019/09/02/fraudsters-deepfake-ceos-voice-to-trick-manager-into-transferring-243000/"
+                    ]
+                },
+                {
+                    "contentText": "iPhone’lar çok ciddi bir açık nedeniyle 2.5 yıl boyunca hacklenmiş.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2019/aug/30/hackers-monitoring-implants-iphones-google-says"
+                    ]
+                },
+                {
+                    "contentText": "Apple, kendisi dışındaki teknik servislere de parça tedariği yapacak.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/08/29/apple-to-provide-independent-repair-shops-with-iphone-parts.html"
+                    ]
+                },
+                {
+                    "contentText": "Android 10, Pixel telefonlara geldi. Ama sorunlar da ortaya çıkmaya başladı.",
+                    "contentLink": [
+                        "https://bgr.com/2019/09/05/android-10-update-for-pixel-phones-sensors-bug-explained/"
+                    ]
+                },
+                {
+                    "contentText": "Yöneticisi hacklenen Twitter, SMS ile tweet atma özelliğini geçici olarak kapadı.",
+                    "contentLink": [
+                        "https://www.digitaltrends.com/social-media/hackers-sim-swapping-twitter-jack-dorsey/",
+                        "https://www.cnet.com/news/twitter-temporarily-shuts-down-ability-to-tweet-via-sms/"
+                    ]
+                },
+                {
+                    "contentText": "Offline mesajlaşma uygulaması Bridgefy, sansür uygulayan ülkelerde çözüm oldu.",
+                    "contentLink": [
+                        "https://www.forbes.com/sites/johnkoetsier/2019/09/02/hong-kong-protestors-using-mesh-messaging-app-china-cant-block-usage-up-3685/#399b71d1135a"
+                    ]
+                },
+                {
+                    "contentText": "Spotify’ın listelerinin arkasında dönen işleri anlatan yazı.",
+                    "contentLink": [
+                        "https://www.birgun.net/haber/spotify-in-satilik-muzik-listelerini-kesfetmeye-hazir-misin-266854"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, exFAT patentlerini de Linux ve açık kaynak projelerine açtı.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/microsoft-readies-exfat-patents-for-linux-and-open-source/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, 2020 yılında Edge tarayıcıdan Flash’ı tamamen kaldıracak.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/flash-be-retired-both-versions-microsoft-edge-end-2020"
+                    ]
+                },
+                {
+                    "contentText": "Trump’ın paylaştığı fotoğrafın nasıl çekildiği merak konusu oldu.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/trump-tweet-may-have-revealed-us-military-secrets-taunting-iran-2019-8"
+                    ]
+                },
+                {
+                    "contentText": "2019 NASA Space Apps Challenge, 19 Ekimde Harran Üniversitesi’nde gerçekleşecek.",
+                    "contentLink": [
+                        "https://2019.spaceappschallenge.org/locations/sanliurfa"
+                    ]
+                },
+                {
+                    "contentText": "Star Citizen, yeni para toplama organizasyonu ile yine gündeme geldi.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/this-new-mine-laying-star-citizen-spaceship-announced/"
+                    ]
+                },
+                {
+                    "contentText": "Steam, yazılımını 17 Eylül’de güncelleyecek. Yeni arayüz beta aşamasında olacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/4/20849747/valve-steam-library-redesign-epic-games-store-discord-collections-events-labs"
+                    ]
+                }
+            ]
         }
     ]
 }
