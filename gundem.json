@@ -78968,6 +78968,159 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 37,
+            "totalCount": 437,
+            "uploadDate": "14.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/2019_gundem_37_sulp.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-37",
+            "rangeFirstDate": "09.09.2019",
+            "rangeLastDate": "14.09.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/37 (9 - 14 Eylül 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Apple iPhone 11 etkinliği gerçekleşti.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Yeni iPad.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/09/surprise-apple-unveils-its-7th-gen-ipad-with-a-10-2-inch-display/"
+                    ]
+                },
+                {
+                    "contentText": "Apple Watch 5",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/09/the-399-apple-watch-series-5-is-coming-on-september-20-and-ceramic-is-back/"
+                    ]
+                },
+                {
+                    "contentText": "Apple Arcade fiyatı 35 TL.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/09/apple-arcade-gaming-subscription-coming-919-for-4-99month/"
+                    ]
+                },
+                {
+                    "contentText": "Apple TV Plus fiyatı",
+                    "contentLink": [
+                        "https://www.cnet.com/news/apple-tv-plus-price-release-launch-date-free-trial-shows-movies/"
+                    ]
+                },
+                {
+                    "contentText": "iPhone 11, Pro ve Pro Max Apple sayfası.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/09/apples-iphone-11-pro-is-official-with-three-cameras-and-super-retina-xdr-display/",
+                        "https://www.apple.com/iphone-11/specs/",
+                        "https://www.apple.com/tr/iphone-11-pro/specs/"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, Kirin 990 yongasını tanıttı.",
+                    "contentLink": [
+                        "https://www.androidauthority.com/huawei-kirin-990-1022026/"
+                    ]
+                },
+                {
+                    "contentText": "Google’a ABD’de 50 eyalet başsavcısı anti tekel davası açıyor.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2019/09/09/texas-attorney-general-leads-google-antitrust-probe.html"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’a da anti tekel davası açılıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/6/20852566/facebook-antitrust-investigation-states-attorneys-general-letitia-james-big-tech"
+                    ]
+                },
+                {
+                    "contentText": "Anayasa Mahkemesi, Wikipedia yasağını Genel Kurul kapsamında görüşecek.",
+                    "contentLink": [
+                        "https://www.sozcu.com.tr/2019/gundem/aym-wikipedia-yasagini-genel-kurula-sevk-etti-5328743/"
+                    ]
+                },
+                {
+                    "contentText": "Spotify, aile kullanıcılarının yerlerini yoklamaya başlayacak.",
+                    "contentLink": [
+                        "https://9to5mac.com/2019/09/12/spottily-family-plan-location/"
+                    ]
+                },
+                {
+                    "contentText": "Plak satışları CD satışlarını geçecek!",
+                    "contentLink": [
+                        "https://www.nme.com/news/music/vinyl-set-outsell-cds-first-time-since-1986-2545781"
+                    ]
+                },
+                {
+                    "contentText": "VESA’dan HDR standartı güncellemesi, HDR 1400.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/vesa-added-a-new-hdr-certification-tier-for-extremely-bright-monitors/?utm_content=buffer794a4&utm_medium=social&utm_source=twitter&utm_campaign=buffer-pcgamertw"
+                    ]
+                },
+                {
+                    "contentText": "LG’nin 2019 model OLED TV’lerine G-SYNC güncellemesi geliyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/lgs-2019-oled-tvs-will-support-nvidia-g-sync"
+                    ]
+                },
+                {
+                    "contentText": "WD, 18 ve 20TB kapasiteli sabit disklerini duyurdu.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14861/western-digital-reveals-20-tb-hdd-a-halo-product-for-datacenters"
+                    ]
+                },
+                {
+                    "contentText": "Wunderlist’in eski sahibi, haklarını Microsoft’tan geri almak istiyor.",
+                    "contentLink": [
+                        "https://venturebeat.com/2019/09/06/wunderlist-founder-wants-to-buy-his-app-back-from-microsoft/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft OneDrive uygulaması, Google Play mağazasından 1 milyar kere indirildi.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/onedrive-hits-one-billion-installs-google-play-store"
+                    ]
+                },
+                {
+                    "contentText": "AMD, Ryzen 3000’ler için firmware yayınlıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/09/amd-improves-real-world-boost-and-idle-on-ryzen-3000/"
+                    ]
+                },
+                {
+                    "contentText": "AMD, grafik işlemcisi satışında NVIDIA’nın önünde.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/amd-is-ahead-of-nvidia-in-overall-gpu-shipments-for-the-first-time-since-2013/"
+                    ]
+                },
+                {
+                    "contentText": "Intel’in sunucularında kullandığı bir teknoloji, saldırganların yeni hedefi.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/09/weakness-in-intel-chips-lets-researchers-steal-encrypted-ssh-keystrokes/"
+                    ]
+                },
+                {
+                    "contentText": "Hacker’lar bu defa SIM kartlardaki açıktan telefonlara giriyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/09/hackers-are-exploiting-a-platform-agnostic-flaw-to-track-mobile-phone-locations/"
+                    ]
+                },
+                {
+                    "contentText": "Apple’ın 2 sene boyunca hacklendiği olayla ilgili yeni bilgiler.",
+                    "contentLink": [
+                        "https://www.forbes.com/sites/zakdoffman/2019/09/01/ahead-of-iphone-11-new-apple-hack-revelation-will-shock-1-billion-users/#10ddf9f34feb"
+                    ]
+                },
+                {
+                    "contentText": "EA, kendi bulut oyun hizmetini hazırlıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/ea-announces-cloud-game-streaming-test-titanfall-2-and-more-playable"
+                    ]
+                }
+            ]
         }
     ]
 }
