@@ -79121,6 +79121,112 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 38,
+            "totalCount": 438,
+            "uploadDate": "20.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/2019_plus_38.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-38",
+            "rangeFirstDate": "16.09.2019",
+            "rangeLastDate": "21.09.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/38 (16 - 21 Eylül 2019)",
+            "explanationPodcast": "TeknoSeyir editörü Murat Gamsız geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "Huawei Mate 30 ve Pro çıktı anket eski anket %68 google drive, %13 onedrive, +4dropbox 7 yandex 5 icloud telefon hoparlörü önemli mi %70 önemli",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3440102/the-huawei-mate-30-and-mate-30-pro-specs-features-android-google-apps.html#tk.rss_all",
+                        "https://consumer.huawei.com/en/phones/mate30-pro-5g/specs/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Huawei Mate laptop Linux ile çıktı.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/huawei-matebook-laptops-now-come-with-linux"
+                    ]
+                },
+                {
+                    "contentText": "Amazon’dan yeni kayıpsız formatlı müzik servisi Amazon Music HD.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/17/20869526/amazon-music-hd-lossless-flac-tier-spotify-apple"
+                    ]
+                },
+                {
+                    "contentText": "iOS 13 çıktı, Arcade hizmeti de devreye girdi, Apple, tabletlerine iOS 13.1’i ve iPadOS’u erken verecek.",
+                    "contentLink": [
+                        "https://www.macrumors.com/2019/09/19/ios-13-1-ipados-september-24/"
+                    ]
+                },
+                {
+                    "contentText": "Türk Telekom’un hisselerini alan üç banka, hisselerin satışı için harekete geçti.",
+                    "contentLink": [
+                        "https://www.reuters.com/article/us-turktelekom-sale/turkish-banks-tap-morgan-stanley-for-turk-telekom-stake-sale-idUSKBN1W428B"
+                    ]
+                },
+                {
+                    "contentText": "İnci Sözlük ve Uludağ Sözlük satıldı.",
+                    "contentLink": [
+                        "https://webrazzi.com/2019/09/18/inci-sozluk-ve-uludag-sozluk-satildi/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook İstasyon Maslak’ta açıldı.",
+                    "contentLink": [
+                        "https://istasyon.fb.com/tr/sss/"
+                    ]
+                },
+                {
+                    "contentText": "Richard Stallman, MIT’deki görevinden ve Free Software Foundation başkanlığından istifa etti.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/09/16/computer-scientist-richard-stallman-who-defended-jeffrey-epstein-resigns-from-mit-csail-and-the-free-software-foundation/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung kadına ve çocuğa şiddet içeren dizi ve filmlere reklam vermeyecek.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/teknoloji/samsung-kadina-ve-cocuga-siddet-iceren-dizilere-reklam-vermeyecek,GWZW2O5_LU6UAPfUq5c2eg"
+                    ]
+                },
+                {
+                    "contentText": "Samsung’tan ölmeyen ‘SSD’.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3439821/samsungs-ultra-fast-new-pcie-40-ssds-never-die.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Last Pass’te önemli bir açık kapatıldı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/09/lastpass-fixes-bug-that-leaked-the-password-of-last-logged-in-account/?utm_social-type=owned&utm_source=twitter&utm_brand=ars&utm_medium=social"
+                    ]
+                },
+                {
+                    "contentText": "IPTV satan bir İtalyan, yapılan baskınla hem kendini hem tüm ağı ele verdi.",
+                    "contentLink": [
+                        "https://www.reddit.com/r/IPTV/comments/d64e4p/summary_of_information_regarding_eurojust_raiding/"
+                    ]
+                },
+                {
+                    "contentText": "Whatsapp’ın herkesten sil özelliğinin iPhone’da çalışmadığı ortaya çıktı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/09/whatsapp-delete-for-everyone-privacy.html"
+                    ]
+                },
+                {
+                    "contentText": "Emotet spam ağı ile ilgili bir yazı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/09/worlds-most-destructive-botnet-returns-with-stolen-passwords-and-email-in-tow/"
+                    ]
+                },
+                {
+                    "contentText": "Epic Store, Batman koleksiyonunu bedava veriyor.",
+                    "contentLink": [
+                        "https://www.epicgames.com/store/en-US/bundles/batman-arkham-collection"
+                    ]
+                }
+            ]
         }
     ]
 }
