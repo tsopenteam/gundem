@@ -79136,7 +79136,7 @@
             "explanationPodcast": "TeknoSeyir editörü Murat Gamsız geçtiğimiz haftanın gündemini değerlendiriyor.",
             "content": [
                 {
-                    "contentText": "Huawei Mate 30 ve Pro çıktı anket eski anket %68 google drive, %13 onedrive, +4dropbox 7 yandex 5 icloud telefon hoparlörü önemli mi %70 önemli",
+                    "contentText": "Huawei Mate 30 ve Pro çıktı.",
                     "contentLink": [
                         "https://www.pcworld.com/article/3440102/the-huawei-mate-30-and-mate-30-pro-specs-features-android-google-apps.html#tk.rss_all",
                         "https://consumer.huawei.com/en/phones/mate30-pro-5g/specs/"
@@ -79147,6 +79147,14 @@
                     "contentLink": [
                         "https://www.techradar.com/news/huawei-matebook-laptops-now-come-with-linux"
                     ]
+                },
+                {
+                    "contentText": "Anket sonucu bulut sistemi kullanım oranı %68 google drive, %13 onedrive, %4 dropbox, %7 yandex, %5 icloud.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Anket sonucu telefon hoparlörü önemli mi %70 önemli",
+                    "contentLink": []
                 },
                 {
                     "contentText": "Amazon’dan yeni kayıpsız formatlı müzik servisi Amazon Music HD.",
