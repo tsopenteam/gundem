@@ -79235,6 +79235,112 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 39,
+            "totalCount": 439,
+            "uploadDate": "27.09.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/09/gundem_39_lp_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-39",
+            "rangeFirstDate": "23.09.2019",
+            "rangeLastDate": "28.09.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/39 (23 - 28 Eylül 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "5.9 şiddetindeki deprem telekom firmalarını saatlerce devre dışı bıraktı. Türk Telekom özür diledi.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-turk-telekom-dan-10-gb-lik-ozur-2525937-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Anadolu Sigorta Hackathon, 23-24 Kasım tarihlerinde.",
+                    "contentLink": [
+                        "https://www.techinside.com/anadolu-sigorta-hackathon-icin-basvurular-basladi/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung ucuz bir Note modeli yapıyor olabilir. Katlanabilir Galaxy Fold ise tekrar satışa sunuldu.",
+                    "contentLink": [
+                        "https://www.sammobile.com/news/exclusive-is-samsung-working-on-a-mid-range-galaxy-note-smartphone/",
+                        "https://www.theverge.com/2019/9/23/20878785/samsung-galaxy-fold-us-price-release-date-new-fixed-att-best-buy"
+                    ]
+                },
+                {
+                    "contentText": "Samsung S10’a DeX desteği ve Note 10 kamera özellikleri geldi.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/9/23/20881081/galaxy-s10-dex-live-focus-video-update-roll-out"
+                    ]
+                },
+                {
+                    "contentText": "Samsung en küçük pikselli kamera sensörünü yaptığını duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2019/9/23/20881141/samsung-isocell-slim-gh1-sensor-smallest-pixels"
+                    ]
+                },
+                {
+                    "contentText": "Fitbit, firmanın satışı için yol bakıyor.",
+                    "contentLink": [
+                        "https://www.usatoday.com/story/tech/2019/09/22/fitbit-reportedly-speaking-bank-possibly-pursuing-sale/2411961001/"
+                    ]
+                },
+                {
+                    "contentText": "Last of Us 2 Türkçe dublajla geliyor. Ön siparişte. 21 Şubat 2020",
+                    "contentLink": [
+                        "https://store.playstation.com/tr-tr/product/EP9000-CUSA10249_00-0TLOUIIPREORDPSN?smcid=pdc%3Atr-tr%3Apdc-games-the-last-of-us-part-ii-ps4%3Agametile-ps-store%27da-sat%C4%B1n-al%C4%B1n%0A%3Aunchartedthelostlegacyps4%3AEP9000-CUSA09564_00-UNCHD4LOSTLEGACY"
+                    ]
+                },
+                {
+                    "contentText": "Google Play Pass başlıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/23/20878843/google-play-pass-bundles-350-android-games-and-apps-for-4-99-per-month"
+                    ]
+                },
+                {
+                    "contentText": "Google, bazı Çin firmalarının uygulamalarını Play Store’dan temizliyor.",
+                    "contentLink": [
+                        "https://www.buzzfeednews.com/article/craigsilverman/sweet-camera-play-store-removed-ihandy"
+                    ]
+                },
+                {
+                    "contentText": "Google, video içindeki bilgileri de indeksleyip gösterebilecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/18/20871933/google-search-video-description-timestamp-markup"
+                    ]
+                },
+                {
+                    "contentText": "YouTube, kullanıcıların onaylarını kaldırıp hemen geri koydu, aksaklık için özür dilendi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/20/20876153/youtube-ceo-apology-verification-removal-missed-the-mark"
+                    ]
+                },
+                {
+                    "contentText": "Xbox One’a Google Asistanı geliyor. Beta süreci başladı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/26/20885072/microsoft-xbox-one-google-assistant-integration-features"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’nın RTX sistemi yayıncılara ek özellikler sunacak.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3441080/nvidias-rtx-broadcast-engine-taps-geforce-ai-cores-to-spruce-up-your-game-streams.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Logitech, Streamlabs’ı satın aldı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/9/26/20886060/logitech-streamlabs-obs-acquisition-twitch"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Batman oyununun ilk sinyalleri geliyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/wb-games-montreal-teases-new-batman-game-twitter"
+                    ]
+                }
+            ]
         }
     ]
 }
