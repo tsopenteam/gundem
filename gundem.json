@@ -79341,6 +79341,153 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 40,
+            "totalCount": 440,
+            "uploadDate": "05.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/2019_gundem_plus_40.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-40",
+            "rangeFirstDate": "30.09.2019",
+            "rangeLastDate": "05.10.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/40 (30 Eylül - 5 Ekim 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Anket sonucu: Sesli komut: %86 kullanmıyor, %14 kullanıyor",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Microsoft, yeni Surface cihazlarını duyurdu.  Katlanır telefon sürprizi.",
+                    "contentLink": [
+                        "https://www.cnet.com/news/new-microsoft-products-everything-announced-surface-duo-pro-laptop/",
+                        "https://www.theverge.com/2019/10/2/20895128/microsoft-surface-duo-phone-foldable-screen-features-specs-price-release-date"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Windows 10’daki Mixer’e doğrudan yayın özelliğini kaldırdı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-has-removed-native-mixer-streaming-windows-10"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Posta Servisi, dünyanın ilk drone havayolu oldu.",
+                    "contentLink": [
+                        "https://www.wired.com/story/ups-drone-airline-faa-certification-delivery/"
+                    ]
+                },
+                {
+                    "contentText": "Fidye tuzağının Danimarkalı firmaya maliyeti 95 Milyon dolar.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/ransomware-incident-to-cost-danish-company-a-whopping-95-million/"
+                    ]
+                },
+                {
+                    "contentText": "Google’ın yeni hizmeti, şifrelerinizin güvenliğini araştıracak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/2/20892854/google-password-checkup-hack-detection-now-available"
+                    ]
+                },
+                {
+                    "contentText": "Google, Fransız medyasına ödeyeceği tazminat için ayak diriyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2019/09/despite-new-law-google-refuses-to-pay-to-link-to-french-news-sites/"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’a Türkiye’den bir ceza daha.",
+                    "contentLink": [
+                        "http://www.hurriyet.com.tr/ekonomi/facebooka-ceza-kesildi-41342864"
+                    ]
+                },
+                {
+                    "contentText": "AB ülkelerinde satılan cihazlar için üreticiler 10 yıl yedek parça desteği sağlayacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/1/20893132/european-union-eu-rules-right-to-repair-ecodesign-directive-environmental-spare-parts"
+                    ]
+                },
+                {
+                    "contentText": "AMD Ryzen 3000 serisi satış rakamları ile Intel’i geride bıraktı.",
+                    "contentLink": [
+                        "https://wccftech.com/amd-ryzen-3000-cpu-sales-all-time-high-versus-intel-9th-gen-core/"
+                    ]
+                },
+                {
+                    "contentText": "AMD, yeni sürücüsü ile Radeon Image Sharpening özelliğini Vega kartlara da verdi.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3441785/amd-adds-radeon-image-sharpening-to-vega-gpus-and-radeon-vii-after-backlash.html"
+                    ]
+                },
+                {
+                    "contentText": "Intel’den Cascade Lake-X kodlu yeni işlemciler.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/14925/intel-cascade-lakex-for-hedt-18-cores-for-under-1000?utm_source=twitter&utm_medium=social"
+                    ]
+                },
+                {
+                    "contentText": "Intel, SSD’lerde 5 hücreli yapıya geçileceğini açıkladı.",
+                    "contentLink": [
+                        "https://www.cnet.com/news/intel-promises-bigger-cheaper-ssd-for-your-computer/"
+                    ]
+                },
+                {
+                    "contentText": "USB kabloları hackleyen hacker, bu kabloyu satışa çıkarıyor.",
+                    "contentLink": [
+                        "https://nakedsecurity.sophos.com/2019/10/02/omg-evil-lightning-cable-hits-prime-time/"
+                    ]
+                },
+                {
+                    "contentText": "Kurye servisi DoorDash, yaklaşık 5 milyon kullanıcının bilgisini çaldırdı.",
+                    "contentLink": [
+                        "https://blog.doordash.com/important-security-notice-about-your-doordash-account-ddd90ddf5996#46h35gr24e"
+                    ]
+                },
+                {
+                    "contentText": "Android telefonların bazılarında güvenlik açığı tespit edildi.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/10/attackers-exploit-0day-vulnerability-that-gives-full-control-of-android-phones/"
+                    ]
+                },
+                {
+                    "contentText": "Amerika, şifreli iletişim yazılımlarına arka kapı isteklerini açıkça dile getirmeye başladı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/10/ag-barr-is-pushing-facebook-to-backdoor-whatsapp-and-halt-encryption-plans/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon Türkiye, lojistik hizmetine başladı.",
+                    "contentLink": [
+                        "https://www.birgun.net/haber/amazon-turkiye-lojistik-hizmetine-basladi-270914"
+                    ]
+                },
+                {
+                    "contentText": "Samsung hem pazar payı ile hem de üretimde Çin pazarını terk etti.",
+                    "contentLink": [
+                        "https://www.reuters.com/article/us-samsung-elec-china/samsung-ends-mobile-phone-production-in-china-idUSKBN1WH0LR"
+                    ]
+                },
+                {
+                    "contentText": "İngiltere’de yapılan araştırmaya göre, stream servislerinin artışı korsan izlemeyi yükseltiyor.",
+                    "contentLink": [
+                        "https://www.techradar.com/uk/news/fragmented-streaming-market-could-lead-to-more-illegal-downloads"
+                    ]
+                },
+                {
+                    "contentText": "Doom’ın yapım öyküsü TV dizisi olacak.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/the-masters-of-doom-television-series-casts-carmack-and-romero/"
+                    ]
+                },
+                {
+                    "contentText": "Sony, PS4’de başka platformlarla oynama özelliğine ısınıyor. PUBG özgürleşen ilk oyunlardan biri.",
+                    "contentLink": [
+                        "https://gamasutra.com/view/news/351556/PlayStation_quietly_brings_PS4_crossplay_out_of_beta.php",
+                        "https://www.windowscentral.com/playerunknowns-battlegrounds-gets-cross-play-between-xbox-one-and-ps4"
+                    ]
+                }
+            ]
         }
     ]
 }
