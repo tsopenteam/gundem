@@ -79488,6 +79488,177 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 41,
+            "totalCount": 441,
+            "uploadDate": "12.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/2019_gundem_plus_41.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-41",
+            "rangeFirstDate": "07.10.2019",
+            "rangeLastDate": "12.10.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/41 (7 - 12 Ekim 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "Mobil uygulama fuarı Mobilefest, 21-24 Kasım 2019 tarihlerinde İstanbul’da gerçekleşecek.",
+                    "contentLink": [
+                        "https://www.mobilefest.net/"
+                    ]
+                },
+                {
+                    "contentText": "Google, yeni cihazlara Android 10 yoksa onay vermeyecek. USB-C PD ve Digital Sağlık özellikleri de yeni şartlar arasında.",
+                    "contentLink": [
+                        "https://www.androidauthority.com/google-android-10-approval-1037646/",
+                        "https://www.theverge.com/2019/10/7/20902889/google-android-digital-wellbeing-parental-controls-usb-c-pd-charging-requirements"
+                    ]
+                },
+                {
+                    "contentText": "Huawei - ABD meselesinde Huawei lehine gelişmeler.",
+                    "contentLink": [
+                        "https://www.huaweicentral.com/breaking-u-s-reportedly-approving-licenses-for-companies-to-sell-to-huawei/"
+                    ]
+                },
+                {
+                    "contentText": "iPhone 11’in Türkiye fiyatları belli oldu.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/galeri/teknoloji/iphone11in-turkiye-fiyatlari-belli-oldu-iphone11in-ozellikleri,jGvk_t_MUkWWeuJz_xK3Zw/ID7xZ4nc4E-egFHlR3jHjA"
+                    ]
+                },
+                {
+                    "contentText": "Galaxy S11, teleskop kamera ile gelecek.",
+                    "contentLink": [
+                        "https://www.dpreview.com/news/4260145442/samsung-is-getting-ready-to-test-the-galaxy-s11-periscope-tele-camera"
+                    ]
+                },
+                {
+                    "contentText": "Intel, bazı işlemcilerindeki AMD işbirliğini sonlandırıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/intel-kills-collaboration-amd-core-processors-radeon-graphics"
+                    ]
+                },
+                {
+                    "contentText": "Twitter, iki aşamalı güvenlik için eklenen telefon numaralarını reklam için kullandı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/8/20905383/twitter-phone-numbers-email-addresses-targeted-advertising"
+                    ]
+                },
+                {
+                    "contentText": "Instagram’da takip sekmesi kalktı.",
+                    "contentLink": [
+                        "https://www.harpersbazaar.com/culture/art-books-music/a29400352/instagram-removes-following-tab/"
+                    ]
+                },
+                {
+                    "contentText": "Adobe, Venezüela’ya paralı üyeler dahil hizmeti kesti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/7/20904030/adobe-venezuela-photoshop-behance-us-sanctions"
+                    ]
+                },
+                {
+                    "contentText": "Blizzard’ın Çinli oyuncuyu cezalandırması büyük tepki topladı.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/10/09/blizzard-hong-kong-ban-blitzchung-china-mei-protest-2019/"
+                    ]
+                },
+                {
+                    "contentText": "Apple ve Google’da Çin yanlısı adımlar atıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/10/20908536/apple-hong-kong-china-tim-cook-hkmaplive-josh-hawley-ron-wyden-senate",
+                        "https://www.theverge.com/2019/10/10/20908034/google-hong-kong-protest-game-play-store-removed-rules"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Windows 10’un Kasım 2019 sürümünü hazırladı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/windows-10-19h2-update-has-official-name-and-being-prepped-release"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, klavyelere emoji tuşu ekliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/11/20909475/microsoft-office-key-emoji-key-keyboards"
+                    ]
+                },
+                {
+                    "contentText": "Dyson, elektrikli araba yapmaktan vazgeçti.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2019/oct/10/james-dyson-scraps-plans-to-build-electric-car"
+                    ]
+                },
+                {
+                    "contentText": "Bose, Sleepbuds kulaklıkları geri topluyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/4/20899371/bose-sleepbuds-faulty-battery-issues-problem-refunds-price"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA GeForce 256, 20 yaşında.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Sony Playstation 5 resmen duyuruldu. (Ray tracing, 100GB kapasiteli Blu-ray, Seçmeli install, Kontrolcüdeki iyileştirmeler, 2020 sonu)",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/9/20905744/sony-playstation-vs-microsoft-xbox-nintendo-switch-google-stadia-apple-arcade"
+                    ]
+                },
+                {
+                    "contentText": "Xbox’ın en önemli isimlerinden Mike Ybarra, Microsoft’dan ayrılıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/xboxs-mike-ybarra-leaving-microsoft-after-20-years"
+                    ]
+                },
+                {
+                    "contentText": "Red Dead Redemption 2, PC’ye geliyor.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/67924/red-dead-redemption-2-pc-coming-steam-epic-store-launcher/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Call of Duty Modern Warfare, 175 GB yer gereksinimi konusunda Activision açıklama yaptı.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/modern-warfare-system-requirements/"
+                    ]
+                },
+                {
+                    "contentText": "Call of Duty Mobile, 100 Milyon indirmeyle en büyük mobil oyun çıkışı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/9/20906035/call-of-duty-download-number-biggest-launch-ever"
+                    ]
+                },
+                {
+                    "contentText": "Doom Eternal ertelendi.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/doom-eternal-has-been-delayed-until-2020/"
+                    ]
+                },
+                {
+                    "contentText": "Valve soyuldu.",
+                    "contentLink": [
+                        "https://www.vg247.com/2019/10/08/valve-theft-40000-games-equipment/?fbclid=IwAR1JgiN2f7B13aa4R-1zmMbB0KVe5_AZSGrTfanVCTtVC-tTcUeHXOSHvwk"
+                    ]
+                },
+                {
+                    "contentText": "Atari’nin “retro” konsolunun kaderi belirsiz.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/10/20907755/atari-vcs-troubled-development-architect-operating-system-crowdfunding-campaign"
+                    ]
+                },
+                {
+                    "contentText": "Google Stadia, gecikme sorununu yapay zeka ile çözmeyi deneyecek.",
+                    "contentLink": [
+                        "https://www.gamasutra.com/view/news/351864/Google_Stadia_could_sidestep_latency_issues_by_predicting_button_presses.php"
+                    ]
+                },
+                {
+                    "contentText": "Steam’e yerel multiplayer desteği gelecek.",
+                    "contentLink": [
+                        "https://www.eurogamer.net/articles/2019-10-10-steam-is-getting-a-new-feature-to-make-local-multiplayer-games-playable-online"
+                    ]
+                }
+            ]
         }
     ]
 }
