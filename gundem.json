@@ -79659,6 +79659,131 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 42,
+            "totalCount": 442,
+            "uploadDate": "19.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/2019_gundem_42.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-42",
+            "rangeFirstDate": "14.10.2019",
+            "rangeLastDate": "19.10.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/42 (14 - 19 Ekim 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Booking.com’a haksız rekabet kararı.",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/ekonomi/son-dakika-mahkemeden-flas-booking-com-karari-6059947"
+                    ]
+                },
+                {
+                    "contentText": "Uber uygulamasına engel kararı.",
+                    "contentLink": [
+                        "https://www.cnnturk.com/ekonomi/son-dakika-mahkemeden-ubere-bir-sok-daha"
+                    ]
+                },
+                {
+                    "contentText": "Samsung İnterneti Tadında kullan kampanyası",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/pembenar/interneti-tadinda-kullan-6060083"
+                    ]
+                },
+                {
+                    "contentText": "Turkcell yenilenmiş telefon işine giriyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/10/kaspersky-finds-uzbekistan-hacking-opbecause-they-used-kaspersky-av/"
+                    ]
+                },
+                {
+                    "contentText": "Google Pixel 4 telefonları çıktı.",
+                    "contentLink": [
+                        "https://www.androidcentral.com/google-pixel-4"
+                    ]
+                },
+                {
+                    "contentText": "Oppo Reno 2 ve Redmi Note 8",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Samsung S10’larda parmak izi sorunu.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/10/17/samsung-confirms-glaring-s10-fingerprint-reader-flaw-promises-fix/"
+                    ]
+                },
+                {
+                    "contentText": "Telefondan VR dönemi bitiyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/16/20915791/google-daydream-samsung-oculus-gear-vr-mobile-vr-platforms-dead"
+                    ]
+                },
+                {
+                    "contentText": "Intel sunucu tarafında DDR5 ve PCIe 5.0 geçiş planını açıkladı.",
+                    "contentLink": [
+                        "https://www.notebookcheck.net/Intel-s-upcoming-LGA-4667-platform-to-support-PCIe-5-0-and-DDR5-for-10-nm-and-7-nm-CPUs-launching-2021.439012.0.html"
+                    ]
+                },
+                {
+                    "contentText": "Yahoo grupları siliniyor.",
+                    "contentLink": [
+                        "https://help.yahoo.com/kb/groups/SLN31010.html"
+                    ]
+                },
+                {
+                    "contentText": "Blizzard, tepkiler üzerine Heartstone oyuncusunun cezasını indirdi.",
+                    "contentLink": [
+                        "https://kotaku.com/blizzard-reduces-suspension-of-hearthstone-player-who-m-1838984893"
+                    ]
+                },
+                {
+                    "contentText": "iOS 13’te Safari tarayıcısının Tencent sunucularına bilgi gönderdiği ortaya çıktı.",
+                    "contentLink": [
+                        "https://threatpost.com/apple-shares-some-browsing-history-with-chinese-company/149149/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Defender’a dış müdahale engeli getirdi.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/microsoft-defender-tamper-protection-reaches-general-availability/"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Apple TV hizmetlerine program yapacaklara Çin’i kötü göstermeyin demiş.",
+                    "contentLink": [
+                        "https://www.fudzilla.com/news/49583-apple-ordered-tv-content-creators-to-be-nice-to-china"
+                    ]
+                },
+                {
+                    "contentText": "Riot Games de yayıncılarına hassas konulara girmeyin dedi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/11/20908325/league-of-legends-riot-games-epic-games-blizzard-hearthstone-hong-kong-protests"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’un cripto para girişimi Libra’da ciddi kan kaybı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/11/20910453/libra-association-facebook-visa-mastercard-stripe-leaving"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, yanlış gösterdiği reklam gösterim sayıları için anlaşma yoluna gitti.",
+                    "contentLink": [
+                        "https://www.hollywoodreporter.com/thr-esq/facebook-pay-40-million-under-proposed-settlement-video-metrics-suit-1245807"
+                    ]
+                },
+                {
+                    "contentText": "Xbox Live’a yeni ‘küfür filtresi’ geliyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Kaspersky AV kullanan Hacker grubu kendini yakalattı.",
+                    "contentLink": [
+                        "https://arstechnica.com/information-technology/2019/10/kaspersky-finds-uzbekistan-hacking-opbecause-they-used-kaspersky-av/"
+                    ]
+                }
+            ]
         }
     ]
 }
