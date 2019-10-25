@@ -79784,6 +79784,160 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 43,
+            "totalCount": 443,
+            "uploadDate": "25.10.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/10/2019_gundem_43_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-43",
+            "rangeFirstDate": "21.10.2019",
+            "rangeLastDate": "26.10.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/43 (21 - 26 Ekim 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın teknoloji gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "Yeni vergimiz: Dijital Hizmet Vergisi",
+                    "contentLink": [
+                        "https://www.teknolojioku.com/guncel/teknoloji-devlerine-dijital-hizmet-vergisi-geliyor-5daeb809c0d1c53caa6acf62"
+                    ]
+                },
+                {
+                    "contentText": "300 kişinin kart bilgilerini kopyalayan çete yakalandı.",
+                    "contentLink": [
+                        "https://t24.com.tr/haber/300-bin-kisinin-kart-bilgilerini-kopyalayan-cete-yakalandi,845197"
+                    ]
+                },
+                {
+                    "contentText": "PremierDC Veri Merkezi (eski SadeceHosting) hacklendi.",
+                    "contentLink": [
+                        "https://turk-internet.com/premierdc-eski-sadece-hosting-hacklenmis/",
+                        "https://www.kvkk.gov.tr/Icerik/5551/Kamuoyu-Duyurusu-Veri-Ihlali-Bildirimi-Premierdc-Veri-Merkezi-A-S-"
+                    ]
+                },
+                {
+                    "contentText": "NordVPN, geçen yıl hacklendiğini açıkladı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/nordvpn-fesses-data-center-breach-insists-network-still-safe"
+                    ]
+                },
+                {
+                    "contentText": "Intel, 10nm üretim teknolojili Tremont serisi Atom işlemcileri tanıttı.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15009/intels-new-atom-microarchitecture-the-tremont-core"
+                    ]
+                },
+                {
+                    "contentText": "Intel’de işler iyi ama işlemci üretimindeki sorunlar bir süre daha devam edecek.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3448396/intels-unexpected-prolonged-processor-shortage-dampens-its-record-quarter.html#tk.rss_all"
+                    ]
+                },
+                {
+                    "contentText": "Qualcomm Snapdragon 865’in detayları ortaya çıktı.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/68287/qualcomm-snapdragon-865-details-100mp-camera-5g-support/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Katlanabilir Huawei Mate X, Çin pazarında 15 Kasım’da çıkıyor.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15019/the-foldable-huawei-mate-x-launch-date-price-set-mate-xs-in-the-works"
+                    ]
+                },
+                {
+                    "contentText": "Google Pixel 4’ün 90 Hz ekranı her zaman 90 Hz çalışmıyormuş.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/23/20928281/google-pixel-4-90hz-display-refresh-rate-drop-60hz-brightness-levels"
+                    ]
+                },
+                {
+                    "contentText": "Google, kendi çalışanlarını gizlice gözetliyor olabilir.",
+                    "contentLink": [
+                        "https://www.log.com.tr/google-a-yonelik-buyuk-ses-getiren-gizli-gozetleme-iddiasi/"
+                    ]
+                },
+                {
+                    "contentText": "Google ve IBM arasındaki kuantum bilgisayar rekabeti kızışıyor",
+                    "contentLink": [
+                        "https://duzensiz.org/kuantum-ustunluk-yarisi-ve-rekabet-eden-teknolojiler-c7a9f2d6a0fc"
+                    ]
+                },
+                {
+                    "contentText": "Google, drone ile sipariş dağıtımına başlayan ilk firma oldu.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/68286/google-becomes-1st-company-deliver-packages-drone/"
+                    ]
+                },
+                {
+                    "contentText": "Oxford Üniversitesi: Oyunlar psikolojik sorun değil, başka sorunların yansıması.",
+                    "contentLink": [
+                        "http://www.nintendolife.com/news/2019/10/new_study_says_external_issues_are_more_likely_to_blame_for_gaming_addiction_not_gaming_itself"
+                    ]
+                },
+                {
+                    "contentText": "Komisyon, “Türkiye’de bilgisayar oyunları bağımlılığına karşı yasal tedbir alınmalı” dedi.",
+                    "contentLink": [
+                        "https://www.memurlar.net/haber/863164/bilgisayar-oyunu-bagimliligina-karsi-yasal-duzenleme-sart.html"
+                    ]
+                },
+                {
+                    "contentText": "BBC, Tor ağından yayına başladı.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/technology-50150981"
+                    ]
+                },
+                {
+                    "contentText": "Unix, 50 yaşında.",
+                    "contentLink": [
+                        "https://www.bell-labs.com/unix50/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni akıllı tahtalar Arçelik olacak.",
+                    "contentLink": [
+                        "http://www.kamudanhaber.net/haber/amp/411792"
+                    ]
+                },
+                {
+                    "contentText": "Yeni sinema kanunu yürürlüğe girdi.",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/gundem/turk-sinemasinda-yeni-donem-6062017"
+                    ]
+                },
+                {
+                    "contentText": "Ghost Recon Breakpoint ve The Division 2 bekleneni veremeyince, Ubisoft sıradaki oyunlarını geciktirmeye karar verdi.",
+                    "contentLink": [
+                        "https://www.eurogamer.net/articles/2019-10-24-ubisoft-delays-watch-dogs-legion-gods-and-monsters-rainbow-6-quarantine"
+                    ]
+                },
+                {
+                    "contentText": "Ubisoft, Rainbow 6 Siege için hile yazılımı satan firmanın peşine düştü.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/10/rainbow-six-cheat-maker-faces-ubisoft-lawsuit-after-bbc-appearance/"
+                    ]
+                },
+                {
+                    "contentText": "Stellaris: Galaxy Command oyunu, Halo 4’den aşırılmış grafikleri nedeniyle satıştan kaldırıldı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/stellaris-galaxy-command-pulled-down-time-remove-stolen-halo-4-artwork"
+                    ]
+                },
+                {
+                    "contentText": "Last of Us 2 ertelendi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/24/20930526/last-of-us-2-delayed-release-date-may-2020-polish-naughty-dog-sony-playstation"
+                    ]
+                },
+                {
+                    "contentText": "Internet Archive, arşivine 2500 adet DOS oyununu daha ekledi.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/10/thousands-of-dos-games-have-been-added-to-the-internet-archive/"
+                    ]
+                }
+            ]
         }
     ]
 }
