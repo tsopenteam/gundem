@@ -79938,6 +79938,141 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 44,
+            "totalCount": 444,
+            "uploadDate": "01.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/2019_44_gundem_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-44",
+            "rangeFirstDate": "28.10.2019",
+            "rangeLastDate": "02.11.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/44 (28 Ekim - 2 Kasım 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "DDOS saldırısı hem servis sağlayıcılarını hem de Garanti Bankasını etkiledi.",
+                    "contentLink": [
+                        "https://www.tarafsizhaberajansi.com/2019/10/28/turkiyede-sistemleri-cokerten-siber-saldirida-son-durum-saldiriyi-bitirmek-hackerlarin-vicdanina-kalmis/"
+                    ]
+                },
+                {
+                    "contentText": "Spotify’a zam geldi.",
+                    "contentLink": [
+                        "http://www.cumhuriyet.com.tr/haber/yasam/1572906/spotify-uyeligine-zam-geldi.html"
+                    ]
+                },
+                {
+                    "contentText": "Twitter, siyasi reklamları yasaklıyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/world-us-canada-50243306?"
+                    ]
+                },
+                {
+                    "contentText": "Rusya, interneti Rusya dışına kapatmayı test edecek.",
+                    "contentLink": [
+                        "https://www.defenseone.com/technology/2019/10/russia-will-test-its-ability-disconnect-internet/160861/"
+                    ]
+                },
+                {
+                    "contentText": "Çin, 5G’ye geçiyor.",
+                    "contentLink": [
+                        "https://www.washingtonpost.com/world/asia_pacific/showing-that-the-us-wont-hold-it-back-china-launches-commercial-5g-service/2019/10/31/4f2e64da-fb16-11e9-9e02-1d45cb3dfa8f_story.html"
+                    ]
+                },
+                {
+                    "contentText": "Google, Fitbit’i satın aldı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/1/20943318/google-fitbit-acquisition-fitness-tracker-announcement"
+                    ]
+                },
+                {
+                    "contentText": "Apple iPhone’ları abonelikle verebilir.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/tim-cook-hints-apple-could-sell-iphones-as-subscription-service-2019-10"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA GeForce GTX 1660 Super ve 1650 Super duyuruldu.",
+                    "contentLink": [
+                        "https://videocardz.com/82438/nvidia-geforce-gtx-1660-super-launches-at-229-usd"
+                    ]
+                },
+                {
+                    "contentText": "Intel, CPU’dan sonrasına hazırlanıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/10/intels-10nm-process-is-on-track-so-is-shift-in-business-model/"
+                    ]
+                },
+                {
+                    "contentText": "Hindistan’ın nükleer santrali hacklendi.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/confirmed-north-korean-malware-found-on-indian-nuclear-plants-network/"
+                    ]
+                },
+                {
+                    "contentText": "QNAP marka NAS cihazları saldırı altında.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/thousands-of-qnap-nas-devices-have-been-infected-with-the-qsnatch-malware/"
+                    ]
+                },
+                {
+                    "contentText": "Android cihazlar yeni bir tehditle karşı karşıya.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/new-unremovable-xhelper-malware-has-infected-45000-android-devices/"
+                    ]
+                },
+                {
+                    "contentText": "Mozilla, eklentilerin diskteki xpi dosyalarından yüklenmesini engelleyecek.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/mozilla-to-stop-supporting-sideloaded-extensions-in-firefox/"
+                    ]
+                },
+                {
+                    "contentText": "Adobe 7.5 milyon kullanıcısının bilgisini açık etmiş.",
+                    "contentLink": [
+                        "https://www.dpreview.com/news/5825311091/adobe-exposed-the-account-information-of-more-than-7-5m-creative-cloud-users"
+                    ]
+                },
+                {
+                    "contentText": "Internetin ilk tohumu atılalı 50 yıl oldu.",
+                    "contentLink": [
+                        "https://www.fastcompany.com/90423457/50-years-ago-today-the-internet-was-born-in-room-3420"
+                    ]
+                },
+                {
+                    "contentText": "Python programlama dilinin mucidi, emekliye ayrılıyor.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/python-programming-language-creator-retires-saying-its-been-an-amazing-ride/"
+                    ]
+                },
+                {
+                    "contentText": "Verimlilik ve Teknoloji Fuarı başladı.",
+                    "contentLink": [
+                        "http://www.verimlilikveteknoloji.com/tr/egitimler"
+                    ]
+                },
+                {
+                    "contentText": "PlayStation Vue, 2020 yılında kapanıyor.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/playstation-vue-shutting-down"
+                    ]
+                },
+                {
+                    "contentText": "Electronic Arts, Steam’e dönüyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/29/20937055/ea-games-steam-access-subscription-service-pc-storefront-jedi-fallen-order-sales"
+                    ]
+                },
+                {
+                    "contentText": "Blizzard, Hong Kong banı sonrası önemli bir sponsorunu kaybetti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/10/31/20940711/blizzard-hong-kong-controversy-gaming-protest-news-updates"
+                    ]
+                }
+            ]
         }
     ]
 }
