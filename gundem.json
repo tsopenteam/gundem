@@ -80073,6 +80073,153 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 45,
+            "totalCount": 445,
+            "uploadDate": "08.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/2019_gundem_plus_45.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-45",
+            "rangeFirstDate": "04.11.2019",
+            "rangeLastDate": "09.11.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/45 (4 - 9 Kasım 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Hepsiburada, online satış için tek Apple yetkili satıcısı oldu.",
+                    "contentLink": [
+                        "https://www.haberturk.com/hepsiburada-apple-yetkili-saticisi-oldu-haberler-2538246-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Xerox, HP’yi komple satın almak için görüşmelere başladı.",
+                    "contentLink": [
+                        "https://techcrunch.com/2019/11/06/hp-confirms-it-is-having-discussions-with-xerox-about-being-acquired/"
+                    ]
+                },
+                {
+                    "contentText": "AT&T, sınırsız diye sattığı internet paketlerine sınır uygulayınca, ceza aldı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/5/20949850/att-fine-unlimited-data-plan-fake-throttling"
+                    ]
+                },
+                {
+                    "contentText": "ABD’de 14 Şubat’ta yollanan bazı SMS mesajları bu hafta alıcılarına ulaştı",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/7/20953422/text-messages-delayed-received-overnight-valentines-day-delay"
+                    ]
+                },
+                {
+                    "contentText": "Telpa, General Mobile, konkordato talep etti.",
+                    "contentLink": [
+                        "https://www.haberturk.com/telpa-dan-konkordato-basvurusu-2537350-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "İç turizm takip sistemi geliyor.",
+                    "contentLink": [
+                        "http://www.cumhuriyet.com.tr/haber/turkiye/1700150/operatorler-hangi-otele-gittigimizi-devlete-bildirecek.html"
+                    ]
+                },
+                {
+                    "contentText": "YouTube anasayfasını değiştiriyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/7/20952253/youtube-homepage-design-thumbnails-videos-titles-queue-recommendation-hide"
+                    ]
+                },
+                {
+                    "contentText": "Google, Cardboard yazılımını açık kaynak haline getirdi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/6/20952495/google-cardboard-open-source-phone-based-vr-daydream"
+                    ]
+                },
+                {
+                    "contentText": "Bill Gates: Davalarla boğuşmasak Android yerine Windows Mobile kullanırdınız.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/6/20952370/bill-gates-windows-mobile-android-competition-comments-microsoft-antitrust"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Japonya’da 4 günlük çalışma sistemini test etti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/5/20949366/microsoft-japan-four-day-working-week-trial-pilot-program-productivity-improvement-cost-decrease"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, GeForce NOW’u yaymaya başladı.",
+                    "contentLink": [
+                        "https://blogs.nvidia.com/blog/2019/10/03/geforce-now-alliance-expands-globally/"
+                    ]
+                },
+                {
+                    "contentText": "İki Twitter çalışanı, casusluk iddiası ile tutuklandı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/6/20952335/twitter-employees-saudi-arabia-spying-arrests"
+                    ]
+                },
+                {
+                    "contentText": "Twitter, önümüzdeki yıl yeni özellikler sunacak.",
+                    "contentLink": [
+                        "https://www.bundlehaber.com/detay/db6577fd-6017-444b-ae0d-ec0906960362?l=1"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, şimdi de gruplardan bilgi sızdırdı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/11/facebook-groups-data-leak.html"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’un gizli dökümanları sızdırıldı.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/facebook-internal-documents-executive-emails-published-six4three-court-leak-2019-11"
+                    ]
+                },
+                {
+                    "contentText": "Telefon kayıt ücreti 2020 yılında 1800 TL’yi geçebilir.",
+                    "contentLink": [
+                        "https://twitter.com/Darkwebhaber/status/1191393754571259905"
+                    ]
+                },
+                {
+                    "contentText": "“Şüpheli” ülkelerin vatandaşları, IT sektöründe kritik görevlere getirilmeyebilir.",
+                    "contentLink": [
+                        "https://twitter.com/Valzevul/status/1191302556498235392"
+                    ]
+                },
+                {
+                    "contentText": "Samsung kendi işlemcisini üretmekten vazgeçti.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15061/samsung-to-cease-custom-cpu-development"
+                    ]
+                },
+                {
+                    "contentText": "Seagate, 2020’de 20TB disklerini piyasaya sürecek.",
+                    "contentLink": [
+                        "https://www.techradar.com/uk/news/seagate-could-win-the-storage-wars-by-releasing-the-worlds-largest-hard-drive-before-wd"
+                    ]
+                },
+                {
+                    "contentText": "BEST İstanbul Hackaton, 7-8 Aralık tarihlerinde İstanbul’da gerçekleşecek.",
+                    "contentLink": [
+                        "http://twitter.com/BEST_Istanbul"
+                    ]
+                },
+                {
+                    "contentText": "“Aim bot” kullanan usta oyuncu, Fortnite turnuvalarından atıldı.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/11/fortnite-pro-faces-lifetime-ban-for-using-aimbots-in-video/"
+                    ]
+                },
+                {
+                    "contentText": "Sony, PSVR’dan vazgeçmeyecek.",
+                    "contentLink": [
+                        "https://uploadvr.com/playstation-committed-vr/"
+                    ]
+                }
+            ]
         }
     ]
 }
