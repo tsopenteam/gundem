@@ -80220,6 +80220,148 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 46,
+            "totalCount": 446,
+            "uploadDate": "15.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/2019_gundem_plus_46.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-46",
+            "rangeFirstDate": "11.11.2019",
+            "rangeLastDate": "16.11.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/46 (11 - 16 Kasım 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "İYTE İnovasyon Topluluğu, SUST’INO etkinliğinin beşincisini 10 Aralık Salı günü gerçekleştiriyor.",
+                    "contentLink": [
+                        "http://iyteinovasyon.com/sustino.html"
+                    ]
+                },
+                {
+                    "contentText": "AçıkHack Hackathon etkinliği 30 Kasım’da başlıyor.",
+                    "contentLink": [
+                        "https://www.acikhack.com/"
+                    ]
+                },
+                {
+                    "contentText": "YouTube’a çocuklara yönelik koruma tedbirleri geldi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/13/20963459/youtube-google-coppa-ftc-fine-settlement-youtubers-new-rules"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, ‘yanlışlıkla’, iPhone kullanıcılarının kameralarını açıyormuş.",
+                    "contentLink": [
+                        "https://thenextweb.com/apps/2019/11/12/facebook-camera-ios-iphone/"
+                    ]
+                },
+                {
+                    "contentText": "Motorola Razr 2019 ile katlanabilir telefona yeni bir bakış açısı getirdi.",
+                    "contentLink": [
+                        "https://www.techradar.com/reviews/motorola-razr-2019"
+                    ]
+                },
+                {
+                    "contentText": "ABD baskısı altındaki Huawei, çalışanlarını ödüllendiriyor.",
+                    "contentLink": [
+                        "https://www.fudzilla.com/news/49773-huawei-gives-286-million-to-staff"
+                    ]
+                },
+                {
+                    "contentText": "AMD’nin üçüncü nesil Threadripper işlemcileri ve yeni Ryzen 9 3950X 25 Kasım’da çıkıyor.",
+                    "contentLink": [
+                        "https://www.extremetech.com/computing/301665-amds-16-core-ryzen-9-3950x-32-core-threadripper-3970x-available-november-25"
+                    ]
+                },
+                {
+                    "contentText": "Intel işlemcilere yönelik yeni bir tehdit: Zombieload v2",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/intels-cascade-lake-cpus-impacted-by-new-zombieload-v2-attack/"
+                    ]
+                },
+                {
+                    "contentText": "TPM yongası içindeki güvenlik anahtarlarını çalabilen bir saldırı geliştirildi.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/11/tpm-encryption-keys-hacking.html"
+                    ]
+                },
+                {
+                    "contentText": "Macbook Pro 2019, 16 inç ekranla çıktı.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/macbook-pro-2019-16-inch",
+                        "https://www.apple.com/tr/shop/buy-mac/macbook-pro/16-in%C3%A7"
+                    ]
+                },
+                {
+                    "contentText": "IBM, iş yerinde Mac sistemlere geçişin araştırma sonuçlarını açıkladı.",
+                    "contentLink": [
+                        "https://www.computerworld.com/article/3452847/ibm-mac-users-are-happier-and-more-productive.html"
+                    ]
+                },
+                {
+                    "contentText": "Samsung’un DRAM fabrikasında yaşanan olay milyonlarca dolarlık kayba sebep oldu.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/samsung-memory-production-impacted-by-equipment-issue-predicts-millions-of-dollars-in-damage"
+                    ]
+                },
+                {
+                    "contentText": "John Carmack, Oculus’da “danışmanlık” görevine geçiyor, yeni projesi yapay zeka üzerine.",
+                    "contentLink": [
+                        "https://www.bizjournals.com/dallas/news/2019/11/14/john-carmack-facebook-oculus.html"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft X019 etkinliği yapıldı",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/14/20965398/microsoft-xbox-event-x019-news-xcloud-game-pass-updates"
+                    ]
+                },
+                {
+                    "contentText": "Age of Empires 4 gösterildi",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Age of Empires 2 Definitive Edition çıktı",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Halo Reach yenilenmiş hali ile PC’ye geliyor (3 Aralık)",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/14/20965179/halo-reach-pc-launch-date-price-master-chief-collection-details"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft xCloud 2020’de geliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/14/20964434/microsoft-xcloud-preview-ps4-controller-windows-10-support-2020"
+                    ]
+                },
+                {
+                    "contentText": "Sony SSD’leri kartuş şeklinde satabilir.",
+                    "contentLink": [
+                        "https://www.tomsguide.com/news/sony-ps5-may-bring-cartridges-back-to-consoles-but-its-not-what-you-think?fbclid=IwAR2z-6ERY_c1VzkqMEMZbtYs18jdF1ZOvep1DtwZ5DDzqUTGhlH6PQ3qq8c"
+                    ]
+                },
+                {
+                    "contentText": "Oyun geliştiricileri, Google’ın Stadia desteği konusunda çekimser.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2019/11/stadia-launch-dev-the-biggest-concern-with-stadia-is-that-it-might-not-exist/"
+                    ]
+                },
+                {
+                    "contentText": "Star Wars Jedi: Fallen Order çıktı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Rage 2 yeni genişletme paketi Terrormania çıktı.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=5qQJ0-lwYXo"
+                    ]
+                }
+            ]
         }
     ]
 }
