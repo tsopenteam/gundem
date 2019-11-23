@@ -80362,6 +80362,115 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 47,
+            "totalCount": 447,
+            "uploadDate": "23.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/2019_code_name_47_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-47",
+            "rangeFirstDate": "18.11.2019",
+            "rangeLastDate": "23.11.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/47 (18 - 23 Kasım 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "‘Kara Cuma’ başka her türlü isimle başladı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Vergi paketi mecliste kabul edildi Dijital Hizmet Vergisi artık geçerli.",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/gundem/son-dakika-vergilerle-ilgili-flas-karar-mecliste-kabul-edildi-6084699"
+                    ]
+                },
+                {
+                    "contentText": "e-devlet sisteminde Turkcell kullanıcısı olmayan vatandaşlar kullanıcı gibi gözükmüş.",
+                    "contentLink": [
+                        "https://www.sozcu.com.tr/2019/ekonomi/binlerce-kisi-sehven-turkcell-abonesi-yapildi-5459518/"
+                    ]
+                },
+                {
+                    "contentText": "TürkNet, bazı üyelerinin kredi kartı bilgisini açık etti.",
+                    "contentLink": [
+                        "https://mucahitkambur.wordpress.com/2019/11/18/turknet-yanlislikla-musteri-kredi-karti-bilgilerini-sizdirmasi/"
+                    ]
+                },
+                {
+                    "contentText": "YouTube’a paralı abonelik sistemi geldi.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Huawei’nin ABD lisansı üç ay daha uzatıldı.",
+                    "contentLink": [
+                        "https://www.neowin.net/news/huawei-granted-3-month-license-to-conduct-business-in-the-us/"
+                    ]
+                },
+                {
+                    "contentText": "Amazon, müzik hizmetini ücretsiz şekilde daha çok platforma yayıyor",
+                    "contentLink": [
+                        "https://blog.aboutamazon.com/entertainment/free-streaming-now-available-on-amazon-music"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Huawei’e yazılım satabilecek.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft-receives-license-export-mass-market-software-huawei"
+                    ]
+                },
+                {
+                    "contentText": "Centaur Technology, dahili AI yardımcı işlemcisi içeren yeni işlemcilerini duyurdu.",
+                    "contentLink": [
+                        "https://centtech.com/ai-technology/"
+                    ]
+                },
+                {
+                    "contentText": "WhatsApp’ta kritik bir güvenlik açığı bulundu ve kapatıldı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/11/whatsapp-hacking-vulnerability.html"
+                    ]
+                },
+                {
+                    "contentText": "Disney+ yayına başlar başlamaz birçok kişinin hesabı hacklendi ve satışa kondu.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/thousands-of-hacked-disney-accounts-are-already-for-sale-on-hacking-forums/"
+                    ]
+                },
+                {
+                    "contentText": "Twitter kullanıcıları, telefon numarası olmadan da ikili güvenlik sistemi kullanabilecek.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/twitter-now-supports-two-factor-authentication-without-phone-number"
+                    ]
+                },
+                {
+                    "contentText": "Google Stadia hayata geçti. İlk izlenimler çok olumsuz.",
+                    "contentLink": [
+                        "https://youtu.be/Ry72b_fIKAk",
+                        "https://www.theverge.com/2019/11/18/20970297/google-stadia-review-gaming-streaming-cloud-price-specs-features-chrome-pixel",
+                        "https://www.forbes.com/sites/paultassi/2019/11/18/google-stadia-launch-review-a-technical-conceptual-disaster/#4a261c9a5ec7"
+                    ]
+                },
+                {
+                    "contentText": "Amazon da kendi oyun servisini açabilir.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/20/20974324/amazon-cloud-gaming-service-streaming-2020-twitch-google-stadia-microsoft-xcloud"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Half Life oyunu VR olarak geliyor. Half Life Alyx (Mart 2020)",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/21/20976066/half-life-alyx-trailer-release-date-news-steam-vr"
+                    ]
+                },
+                {
+                    "contentText": "Fortnite, DirectX 12 desteğine kavuştu.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/fortnite-officially-receives-microsoft-directx-12-support"
+                    ]
+                }
+            ]
         }
     ]
 }
