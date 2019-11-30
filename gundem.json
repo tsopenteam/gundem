@@ -80471,6 +80471,137 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 48,
+            "totalCount": 448,
+            "uploadDate": "29.11.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/11/2019_muhtesem_cuma_48.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-48",
+            "rangeFirstDate": "25.11.2019",
+            "rangeLastDate": "30.11.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/48 (25 - 30 Kasım 2019)",
+            "explanationPodcast": "TeknoSeyir editörleri geçtiğimiz haftanın gündemini değerlendiriyor.",
+            "content": [
+                {
+                    "contentText": "BTK bazı ürünleri güvensiz ilan etti.",
+                    "contentLink": [
+                        "https://www.btk.gov.tr/duyurular/kamuoyuna-duyurulur-guvensiz-oldugu-tespit-edilen-cihazlar"
+                    ]
+                },
+                {
+                    "contentText": "BTK, eSIM geçişi için gerekli şartları açıkladı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/btk-esim-icin-kararini-verdi-2421136-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Twitter, 6 aydır aktif olmayan hesapları silecekti ama şimdilik vazgeçti",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/26/20984328/twitter-removing-inactive-accounts-usernames-available-date",
+                        "https://www.bbc.com/news/technology-50567751"
+                    ]
+                },
+                {
+                    "contentText": "Rusya’da satılacak akıllı cihazlara Rus yazılımları yüklü olacak.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/russia-passes-law-requiring-all-devices-have-pre-loaded-russian-made-apps-july-2020"
+                    ]
+                },
+                {
+                    "contentText": "RIPE NCC: IPv4 numaraları bitti.",
+                    "contentLink": [
+                        "https://www.ripe.net/publications/news/about-ripe-ncc-and-ripe/the-ripe-ncc-has-run-out-of-ipv4-addresses",
+                        "https://arstechnica.com/gadgets/2019/11/europe-is-fresh-out-of-ipv4-addresses/"
+                    ]
+                },
+                {
+                    "contentText": "Apple tasarımcısı Jony Ive, firmadan ayrıldı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/28/20986838/jony-ive-last-day-apple"
+                    ]
+                },
+                {
+                    "contentText": "Özgür Yazılım Derneği kuruldu",
+                    "contentLink": [
+                        "https://oyd.org.tr/"
+                    ]
+                },
+                {
+                    "contentText": "Google, Cloud Print hizmetini sonlandırıyor.",
+                    "contentLink": [
+                        "https://www.thurrott.com/mobile/chrome-os/chromebook/222542/google-quietly-kills-cloud-print"
+                    ]
+                },
+                {
+                    "contentText": "Windows güncellemesi görünümlü tehditlere dikkat!",
+                    "contentLink": [
+                        "https://techreport.com/news/3467067/hackers-use-fake-windows-update-to-install-ransomware/"
+                    ]
+                },
+                {
+                    "contentText": "Gelecekteki Windows 10 güncellemeleri, 2019 Sonbahar güncellemesi yapısında olmayacak.",
+                    "contentLink": [
+                        "https://www.ghacks.net/2019/11/24/microsoft-has-no-plans-to-make-future-windows-10-updates-like-windows-10-1909/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, gelecekteki CUDA sürümlerinde Apple ürünlerini desteklemeyecek.",
+                    "contentLink": [
+                        "https://gizmodo.com/apple-and-nvidia-are-over-1840015246"
+                    ]
+                },
+                {
+                    "contentText": "5G konusunda Intel’e sürpriz partner: MediaTek",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/11/mediatek-and-intel-team-up-to-bring-5g-networking-to-laptops-and-pcs/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung telefonların Android 10 tarihleri çıktı.",
+                    "contentLink": [
+                        "https://www.gsmarena.com/samsung_android_10_update_roadmap_philippines-news-40329.php"
+                    ]
+                },
+                {
+                    "contentText": "Project Cars yapımcısı Slightly Mad Studios, Codemasters firmasına satıldı.",
+                    "contentLink": [
+                        "http://www.codemasters.com/codemasters-acquires-slightly-mad-studios/"
+                    ]
+                },
+                {
+                    "contentText": "Oculus, Beat Saber oyununun yapımcısını satın aldı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/oculus-just-bought-beat-saber-developer-beat-games"
+                    ]
+                },
+                {
+                    "contentText": "Valve, 1000’den fazla oyunu sisteminden çıkardı.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/1000-games-were-just-removed-from-steam-and-we-dont-know-why/"
+                    ]
+                },
+                {
+                    "contentText": "Steam Controller, satıştan kalkıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/good-deals/2019/11/26/20984123/valve-steam-controller-discontinued-sale-price"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, yeni Xbox’ta da VR yoluna sapmayacak.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/11/28/20987089/xbox-phil-spencer-microsoft-vr-project-scarlet-half-life-alyx"
+                    ]
+                },
+                {
+                    "contentText": "Battleborn satıştan kalktı, 2021’de tamamen kapanacak.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/battleborn-will-be-shutting-down-january-2021-gearbox-confirms-it-will-be-unplayable-after-shutdown"
+                    ]
+                }
+            ]
         }
     ]
 }
