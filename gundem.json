@@ -80602,6 +80602,142 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 49,
+            "totalCount": 449,
+            "uploadDate": "06.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/2019_49_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-49",
+            "rangeFirstDate": "02.12.2019",
+            "rangeLastDate": "07.12.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/49 (2 - 7 Aralık 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Mozilla ve Opera, Avast uzantısını Spyware olduğu gerekçesi ile kaldırdı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/12/avast-and-avg-browser-plugins.html"
+                    ]
+                },
+                {
+                    "contentText": "ABD, şirketlerine gelen dijital vergilerine karşılık başka vergilerle karşılık verebilir.",
+                    "contentLink": [
+                        "https://www.bloomberght.com/abd-turkiye-ye-dijital-hizmet-vergisi-sorusturmasi-acabilir-2239350"
+                    ]
+                },
+                {
+                    "contentText": "Sundhar Pichai, Alphabet’in başına geçti.",
+                    "contentLink": [
+                        "https://www.getrevue.co/profile/caseynewton/issues/larry-and-sergey-say-goodbye-213936"
+                    ]
+                },
+                {
+                    "contentText": "Facebook’un sunucuları Türkiye’de kurulmaya başlanmış.",
+                    "contentLink": [
+                        "https://www.haberturk.com/facebook-turkiye-ye-geldi-google-da-yolda-haberler-2544234-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Çok kullanılan ‘sosyal ağ terimlerine’ Türkçe karşılıklar geldi.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/turkiye/sanal-dunyadaki-kelimeler-turkcelesti-rt-sektirme-oldu,RURZb0w8CEmVTmZCJTbpYg"
+                    ]
+                },
+                {
+                    "contentText": "Çin’de yeni telefon hattı almak için devlete yüz taraması gönderilecek.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/smartphone-owners-china-now-need-send-facial-scans-government"
+                    ]
+                },
+                {
+                    "contentText": "Yıl sonunun yaklaşmasıyla yılın özetleri çıkmaya başladı. Spotify listeleri meydanda. Uyumak için kullanılan müzikler, yıllık istatistikleri etkiledi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/5/20997218/spotify-wrapped-year-end-decade-review-apple-music-streaming-audio-service",
+                        "https://twitter.com/TwitterMoments/status/1202724836562178049"
+                    ]
+                },
+                {
+                    "contentText": "Qualcomm Snapdragon 865 duyuruldu.",
+                    "contentLink": [
+                        "https://www.gsmarena.com/qualcomm_snapdragon_865_gets_detailed_25_faster_cpu_20_faster_graphics_inside-news-40414.php"
+                    ]
+                },
+                {
+                    "contentText": "Razer’in tepe yöneticisi, çalışanların suçlamalarıyla karşı karşıya.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/69122/razer-ceo-threatened-abused-staff-wanted-asian-steve-jobs/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Riot Games, cinsel ayrımcılık davasını 10 Milyon $ anlaşma bedeliyle kapatacak.",
+                    "contentLink": [
+                        "https://www.latimes.com/business/technology/story/2019-12-02/riot-games-gender-discrimination-settlement"
+                    ]
+                },
+                {
+                    "contentText": "iPhone 11’lerin kapandığı halde yer bilgisini göndermesine açıklama geldi.",
+                    "contentLink": [
+                        "https://krebsonsecurity.com/2019/12/apple-explains-mysterious-iphone-11-location-requests/"
+                    ]
+                },
+                {
+                    "contentText": "YouTube ABD’de safsata yayan kanalların izlenmesini %70 oranında kestiği açıkladı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "2019 yılında YouTube’dan izlenen MineCraft içeriği 1 milyar saat.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/69130/youtubers-watched-over-1-billion-hours-minecraft-2019/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Seagate, geliştirdiği Mach.2 teknolojisine Microsoft’dan destek buldu.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/seagates-mach2-technology-doubles-hdd-performance-microsoft-jumps-aboard"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft 365 “Life”, 2020 baharında geliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/5/20997034/microsoft-365-life-consumer-subscription-features-release-date-rumors"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, bir değil iki adet yeni Xbox çıkartacak. İkincisi daha ucuz olmayı hedefliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/4/20995436/microsoft-next-xbox-new-project-scarlett-lockhart-anaconda-launch-details"
+                    ]
+                },
+                {
+                    "contentText": "AMD, Steam kullanıcıları arasındaki kabul oranını da yükseltiyor.",
+                    "contentLink": [
+                        "https://www.reddit.com/r/hardware/comments/e51sfd/steam_hardware_survey_amd_processor_usage_is_over/"
+                    ]
+                },
+                {
+                    "contentText": "Halo Reach, Steam’de büyük ilgi gördü.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/4/20995409/halo-reach-steam-most-played-game-launch"
+                    ]
+                },
+                {
+                    "contentText": "ETS2 için Road to Black Sea eklentisi çıktı. İçeriğinde Türkiye de var.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "X-Com serisinin takipçisi Phoenix Point çıktı.",
+                    "contentLink": [
+                        "https://phoenixpoint.info/"
+                    ]
+                },
+                {
+                    "contentText": "PlayStation, 25 yaşında. Quake III, 20 yaşında.",
+                    "contentLink": []
+                }
+            ]
         }
     ]
 }
