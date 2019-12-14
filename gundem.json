@@ -80738,6 +80738,156 @@
                     "contentLink": []
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 50,
+            "totalCount": 450,
+            "uploadDate": "13.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/2019_50_gundem.wav",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-50",
+            "rangeFirstDate": "09.12.2019",
+            "rangeLastDate": "14.12.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/50 (9 - 14 Aralık 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Türk kredi kartlarının satışa çıkması ile ortaya çıkan çalınma haberi ile ilgili sessizlik sürüyor.",
+                    "contentLink": [
+                        "https://www.zdnet.com/article/455000-turkish-card-details-put-up-for-sale-web-skimmers-suspected/",
+                        "https://www.sozcu.com.tr/2019/ekonomi/son-dakika-455-bin-turkun-kredi-karti-calindi-iddiasi-dogru-cikti-5503447/"
+                    ]
+                },
+                {
+                    "contentText": "BKM, çalınan kartlar hakkında bir açıklama yaptı.",
+                    "contentLink": [
+                        "https://bkm.com.tr/kamuoyu-bilgilendirmesi/"
+                    ]
+                },
+                {
+                    "contentText": "Japonyada vatandaş bilgilerinin yüklü olduğu diskler ikinci el pazarında satılmış.",
+                    "contentLink": [
+                        "https://www3.nhk.or.jp/nhkworld/en/news/20191206_24/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni bir hafta, işlemci temelli yeni bir güvenlik açığı: PlunderVolt",
+                    "contentLink": [
+                        "https://www.techpowerup.com/262024/new-plundervolt-intel-cpu-vulnerability-exploits-vcore-to-fault-sgx-and-steal-protected-data",
+                        "https://thehackernews.com/2019/12/intel-sgx-voltage-attack.html"
+                    ]
+                },
+                {
+                    "contentText": "Nginx geliştiricileri yasal sorunlarla karşı karşıya.",
+                    "contentLink": [
+                        "https://thehackernews.com/2019/12/nginx-copyright-rumbler.html"
+                    ]
+                },
+                {
+                    "contentText": "Intel’in işlemci planları: 2029’da 1.4nm üretime geçilecek.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15217/intels-manufacturing-roadmap-from-2019-to-2029"
+                    ]
+                },
+                {
+                    "contentText": "nic.tr devir süreci başladı.",
+                    "contentLink": [
+                        "https://nic.tr/index.php?USRACTN=STATICHTML&PAGE=migration_step1&PHPSESSID=15761892884619626175856005"
+                    ]
+                },
+                {
+                    "contentText": "Wunderlist, Mayıs 2020’de kapanıyor.",
+                    "contentLink": [
+                        "https://www.xda-developers.com/wunderlist-shuts-down-may-6th-2020-favor-microsoft-to-do/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Office uygulamalarının Linux sürümleri yayınlanmaya başlandı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/10/21004846/microsoft-office-linux-microsoft-teams-app-launch-public-preview"
+                    ]
+                },
+                {
+                    "contentText": "YouTube: Çocuklara yönelik yeni düzenleme, içerik üretenleri belirsizliğe itti.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/11/21011229/youtube-google-coppa-ftc-creators-videos-childrens-privacy-regulations"
+                    ]
+                },
+                {
+                    "contentText": "AMD, Radeon RX 5500 XT ekran kartlarını duyurdu.",
+                    "contentLink": [
+                        "https://videocardz.com/newz/amd-radeon-rx-5500-xt-to-launch-at-169-usd-4gb-and-199-usd-8gb"
+                    ]
+                },
+                {
+                    "contentText": "AMD ekran kartları için Radeon Adrenalin 2020 sürücüleri kullanıma sunuldu.",
+                    "contentLink": [
+                        "https://videocardz.com/newz/amd-announces-radeon-adrenalin-2020-edition-drivers"
+                    ]
+                },
+                {
+                    "contentText": "WD: Sabit disklerde önce 24 ve 30TB, sonra da 50TB düzeyine ulaşacağız.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15229/western-digital-energy-tech-24tb-and-beyond"
+                    ]
+                },
+                {
+                    "contentText": "Windows 10 Mobile için destek süresi bitti. Windows 7 kullanıcılarına da tam ekran uyarı mesajları çıkacak.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15222/microsoft-ends-support-of-windows-10-mobile",
+                        "https://www.techspot.com/news/83120-microsoft-roll-out-full-screen-windows-10-upgrade.html"
+                    ]
+                },
+                {
+                    "contentText": "Çin, devletin tüm birimlerinden yabancı bilgisayar donanım ve yazılımlarının 3 yıl içinde kalkmasına karar verdi.",
+                    "contentLink": [
+                        "https://www.theguardian.com/world/2019/dec/09/china-tells-government-offices-to-remove-all-foreign-computer-equipment"
+                    ]
+                },
+                {
+                    "contentText": "Sony: Başka taşınabilir PlayStation olmayacak.",
+                    "contentLink": [
+                        "http://www.pushsquare.com/news/2019/12/sony_appears_to_officially_confirm_it_wont_make_another_portable_playstation"
+                    ]
+                },
+                {
+                    "contentText": "Steam 2020’de çıkacak bazı oyunların demolarını iki günlüğüne oynama şansı verdi.",
+                    "contentLink": [
+                        "https://store.steampowered.com/sale/thesteamgamefestival?fbclid=IwAR0U9GBbBgsWW1Vu4PO4Yne95j-V3dgU1GE8mLpr5bDRhid07ybzU-vahNA"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Xbox’ın adı Xbox X Serisi olarak duyuruldu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/12/21016575/microsoft-xbox-series-x-next-xbox-console"
+                    ]
+                },
+                {
+                    "contentText": "Hellblade 2, Xbox X Serisi için duyurulan ilk oyun oldu.",
+                    "contentLink": [
+                        "https://www.vg247.com/2019/12/13/senuas-saga-hellblade-2-will-first-game-upcoming-xbox-series-x/"
+                    ]
+                },
+                {
+                    "contentText": "Resident Evil 3 yeniden yapımı duyuruldu.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=HJWWu8h7xZU"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Commandos oyunu geliyor.",
+                    "contentLink": [
+                        "https://gematsu.com/2019/12/kalypso-media-opens-new-studio-to-develop-next-generation-commandos-title"
+                    ]
+                },
+                {
+                    "contentText": "Yeni BioShock oyununu geliştirecek stüdyo Cloud Chamber kuruldu.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/2k-games-establishes-cloud-chamber-developing-next-bioshock"
+                    ]
+                }
+            ]
         }
     ]
 }
