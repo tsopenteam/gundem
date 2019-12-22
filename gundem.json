@@ -80888,6 +80888,170 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 51,
+            "totalCount": 451,
+            "uploadDate": "20.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/2019_gundem_51_plus.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-51",
+            "rangeFirstDate": "16.12.2019",
+            "rangeLastDate": "21.12.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/50 (16 - 21 Aralık 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Google, Rekabet Kurumu kararı karşısında geri adım atmadı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Google açıklaması",
+                    "contentLink": [
+                        "https://www.haberturk.com/google-turkiye-den-cikacagiz-demedik-2549886-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Rekabet Kurumu açıklaması",
+                    "contentLink": [
+                        "https://www.rekabet.gov.tr/tr/Guncel/basin-aciklamasi-379f2f76cc20ea11810b00505694b4c6?AspxAutoDetectCookieSupport=1"
+                    ]
+                },
+                {
+                    "contentText": "Sözlü savunma 5 Şubat’ta.",
+                    "contentLink": [
+                        "https://www.rekabet.gov.tr/tr/Sayfa/Duyurular/sorusturma-acma/sozlu-savunma-toplantisi/sozlu-savunma-toplantisi-duyurulari",
+                        "http://www.cumhuriyet.com.tr/haber/bilim_teknoloji/1709750/rekabet-kurumu-acikladi-google-sorusturmasinda-yeni-gelisme.html"
+                    ]
+                },
+                {
+                    "contentText": "Samsung Açıklaması",
+                    "contentLink": [
+                        "https://www.haberturk.com/samsung-dan-google-aciklamasi-karari-izliyoruz-2550424-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Google hizmetlerine bir süre erişilemedi.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/technology-50851420"
+                    ]
+                },
+                {
+                    "contentText": "Google, Türkiye’de sunucu kurmaya başladı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/google-turkiye-ye-geliyor-haberler-2550166-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "Çin’den Almanyaya Huawei tehdidi.",
+                    "contentLink": [
+                        "https://www.straitstimes.com/world/europe/china-threatens-germany-with-retaliation-if-huawei-5g-is-banned"
+                    ]
+                },
+                {
+                    "contentText": "Fransız operatör: Huawei konusundaki bazı endişeler çok yersiz.",
+                    "contentLink": [
+                        "https://www.reuters.com/article/us-orange-5g/some-fears-about-huawei-are-complete-nonsense-oranges-boss-says-idUSKBN1YM1LT"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, bazı modellerinde ABD üretimi parça sayısını sıfıra indirdi.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2019/12/huawei-is-now-shipping-smartphones-with-zero-us-components/"
+                    ]
+                },
+                {
+                    "contentText": "Intel: 10nm üretimi atlayıp 7nm üretime geçme planımız yok.",
+                    "contentLink": [
+                        "https://wccftech.com/intel-we-will-not-skip-10nm/"
+                    ]
+                },
+                {
+                    "contentText": "AMD: Üretim teknolojisinde Intel’i geçeceğimizi hiç düşünmezdik.",
+                    "contentLink": [
+                        "https://wccftech.com/amd-we-never-dreamed-we-would-be-ahead-of-intel/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, kendi giden araçlar için Orin yongasını duyurdu.",
+                    "contentLink": [
+                        "https://videocardz.com/press-release/nvidia-announces-drive-agx-orin-featuring-next-generation-gpu-architecture"
+                    ]
+                },
+                {
+                    "contentText": "Sektörün büyükleri, ortak akıllı ev standartı için çalışıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/18/21027890/apple-google-amazon-smart-home-standard-zigbee-connected-ip-project"
+                    ]
+                },
+                {
+                    "contentText": "Putin’in Windows XP kullanıyor olması tartışma yarattı.",
+                    "contentLink": [
+                        "https://www.theguardian.com/world/2019/dec/17/vladimir-putin-still-uses-obsolete-windows-xp-despite-hacking-risk"
+                    ]
+                },
+                {
+                    "contentText": "ABD, Edward Snowden’in kitabının gelirlerine el koydu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2019/12/18/21028600/edward-snowden-book-profits-government-judge-ruling-memoir-sales"
+                    ]
+                },
+                {
+                    "contentText": "Windows Phone uygulama mağazası kapandı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/window-phone-store-shuts-down-today-windows-10-mobile-supported-extended-january?utm_source=wc_fb&utm_medium=fb_link&utm_content=73058&utm_campaign=social&fbclid=IwAR3dmKeBZgDwWNMaIkMjXGIzYTP7Pyh4A6h_FizWvpjacDGiQ7Zpw_jTDjE"
+                    ]
+                },
+                {
+                    "contentText": "8K sertifikalı ilk TV, LG’den geldi.",
+                    "contentLink": [
+                        "https://www.techradar.com/news/lg-beats-out-samsung-with-first-industry-certified-8k-ultra-hd-tv"
+                    ]
+                },
+                {
+                    "contentText": "Efsanevi Nintendo-Sony PlayStation prototipi, 1 Milyon £ fiyatla müşteri arıyor.",
+                    "contentLink": [
+                        "https://metro.co.uk/2019/12/18/nintendo-playstation-prototype-goes-auction-starting-offer-1-million-11925366/"
+                    ]
+                },
+                {
+                    "contentText": "Zynga, 170 milyon hesabı çaldırmış.",
+                    "contentLink": [
+                        "https://www.theguardian.com/games/2019/dec/19/170m-passwords-stolen-in-zynga-words-with-friends-hack-monitor-says"
+                    ]
+                },
+                {
+                    "contentText": "267 Milyon Facebook kullanıcısının bilgileri, internette bulundu.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/massive-data-breach-leaves-267-million-facebook-users-data-exposed"
+                    ]
+                },
+                {
+                    "contentText": "Facebook, son 10 yılın en çok indirilen uygulaması.",
+                    "contentLink": [
+                        "https://www.imore.com/facebook-was-most-downloaded-app-decade"
+                    ]
+                },
+                {
+                    "contentText": "Küçükçekmece Belediyesi’nin SMS sistemi hacklendi.",
+                    "contentLink": [
+                        "https://www.donanimhaber.com/belediye-hacklendi-280-bin-kisinin-verisi-sizdi--116989"
+                    ]
+                },
+                {
+                    "contentText": "Bloody ve A4-Tech marka fareler, Rust oyunundan yasaklandı.",
+                    "contentLink": [
+                        "https://support.facepunchstudios.com/hc/en-us/articles/360004256798-EAC-Blacklisted-device-Bloody-Mouse"
+                    ]
+                },
+                {
+                    "contentText": "Sony, DualShock 4 kontrolcüsüne iki tane düğme ilave eden aparat duyurdu.",
+                    "contentLink": [
+                        "https://www.businessinsider.com/sony-back-button-attachment-for-ps4-controller-allows-customization-2019-12"
+                    ]
+                }
+            ]
         }
     ]
 }
