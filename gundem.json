@@ -81052,6 +81052,117 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2019",
+            "count": 52,
+            "totalCount": 452,
+            "uploadDate": "28.12.2019",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2019/12/2019_son_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2019-52",
+            "rangeFirstDate": "23.12.2019",
+            "rangeLastDate": "28.12.2019",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2019/52 (23 - 28 Aralık 2019)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Yerli otomobil tanıtıldı, videosu OtoSeyir’de.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Wikipedia Anayasa Mahkemesi kararı sonrası açılabilir.",
+                    "contentLink": [
+                        "https://www.haberturk.com/son-dakika-wikipedia-hakkinda-flas-karar-wikipedia-aciliyor-mu-haberler-2553228-teknoloji"
+                    ]
+                },
+                {
+                    "contentText": "2020’de Cep telefonu kayıt ücreti 1838 TL, ek olarak 20 Euro bandrol geldi.",
+                    "contentLink": [
+                        "https://www.ntv.com.tr/ekonomi/bandrol-ucretleri-yeniden-belirlendi-yurtdisindan-getirilen-telefondan-20-euro-a,ZX2y0HNo1EahtubsYPGruw"
+                    ]
+                },
+                {
+                    "contentText": "Türk Telekom fiber hatlarla ilgili açıklamalar yaptı. Fiber hat uzunluğu kağıt üzerinde 30 kat arttı.",
+                    "contentLink": [
+                        "https://www.haberturk.com/turk-telekom-fiber-icin-1-hafta-sozu-verdi-haberler-2552861-teknoloji",
+                        "https://turk-internet.com/75-milyon-km-fiber-mi-30-milyon-diyelim-daha-guzel-olur/"
+                    ]
+                },
+                {
+                    "contentText": "Turkcell, Yaani eposta hizmetini sunmaya başladı.",
+                    "contentLink": [
+                        "https://yaanimail.com/"
+                    ]
+                },
+                {
+                    "contentText": "Birleşik Arap Emirlikleri, Totok uygulaması ile vatandaşlarını takip etmiş.",
+                    "contentLink": [
+                        "https://www.nytimes.com/2019/12/22/us/politics/totok-app-uae.html"
+                    ]
+                },
+                {
+                    "contentText": "Telefonun bizi takip etmesi ve yerimizi bildirmesi üzerine yapılmış bir araştırma.",
+                    "contentLink": [
+                        "https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html"
+                    ]
+                },
+                {
+                    "contentText": "ABD’de Honda sahiplerinin bilgileri çalındı. Honda daha önce de (2010) aynı durumu yaşamıştı.",
+                    "contentLink": [
+                        "https://www.securitynewspaper.com/2019/12/20/honda-is-hacked-personal-details-of-more-than-976-million-customers-leaked/",
+                        "http://www.nbcnews.com/id/40841273/ns/technology_and_science-security/t/honda-online-database-hacked/"
+                    ]
+                },
+                {
+                    "contentText": "N11 müşterilerinin email adresleri çalındı.",
+                    "contentLink": [
+                        "https://www.internethaber.com/unlu-alisveris-sitesi-n11comda-veri-ihlali-kvkk-duyurdu-2072623h.htm"
+                    ]
+                },
+                {
+                    "contentText": "ADATA oyun ekipmanları ürünlerini genişletiyor.",
+                    "contentLink": [
+                        "https://www.techpowerup.com/262361/adata-to-expand-its-product-offerings-to-monitors-laptops-and-gaming-pcs"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA: RTX 2080, yeni nesil konsollardan daha güçlü",
+                    "contentLink": [
+                        "https://www.dsogaming.com/news/nvidia-claims-that-the-geforce-rtx2080-is-more-powerful-than-next-gen-console-gpu/"
+                    ]
+                },
+                {
+                    "contentText": "Mavi ışık filtreleri yarardan çok zarar veriyor olabilir.",
+                    "contentLink": [
+                        "https://ww.9to5google.com/2019/12/18/blue-light-filter-smartphone-awake/"
+                    ]
+                },
+                {
+                    "contentText": "Witcher oyunlarının yapımcısıyla, kitapların yazarı arasındaki anlaşmazlık çözüldü.",
+                    "contentLink": [
+                        "https://www.cdprojekt.com/en/media/news/cd-projekt-s-a-solidifies-relationship-with-witcher-books-author-andrzej-sapkowski/"
+                    ]
+                },
+                {
+                    "contentText": "IEEE ODTÜ Pixery Mobil Teknolojiler Hackathonu, Ocak ayında Ankara’da.",
+                    "contentLink": [
+                        "http://ieee.metu.edu.tr/hackathon/"
+                    ]
+                },
+                {
+                    "contentText": "Whatsapp, 1 Ocak itibariyle Windows Phone’da çalışmayabilir.",
+                    "contentLink": [
+                        "https://arynews.tv/en/whatsapp-popular-smartphones-jan/"
+                    ]
+                },
+                {
+                    "contentText": "6502 işlemcinin babası Chuck Peddle vefat etti.",
+                    "contentLink": [
+                        "https://www.engadget.com/2019/12/25/chuck-peddle-cpu-pioneer-dies/"
+                    ]
+                }
+            ]
         }
     ]
 }
