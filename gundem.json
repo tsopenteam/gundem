@@ -81163,6 +81163,97 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 1,
+            "totalCount": 453,
+            "uploadDate": "03.01.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/01/2020_01_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2020-01",
+            "rangeFirstDate": "30.12.2019",
+            "rangeLastDate": "04.01.2020",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2020/1 (30 Aralık 2019 - 4 Ocak 2020)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "CES 2020 başlıyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Samsung Note 10 Lite ve S10 Lite duyuruldu.",
+                    "contentLink": [
+                        "https://news.samsung.com/global/samsung-brings-galaxy-to-more-people-introducing-galaxy-s10-lite-and-note10-lite"
+                    ]
+                },
+                {
+                    "contentText": "Yeni Intel işlemciler sızdı.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/specs-for-nearly-a-dozen-intel-comet-lake-cpus-may-have-leaked/"
+                    ]
+                },
+                {
+                    "contentText": "AMD’nin piyasa değeri rekor kırdı",
+                    "contentLink": [
+                        "https://www.tomshardware.com/news/amd-breaks-its-all-time-stock-price-record"
+                    ]
+                },
+                {
+                    "contentText": "Apple ve Imagination Technologies anlaşmaya vardı.",
+                    "contentLink": [
+                        "https://www.anandtech.com/show/15272/imagination-and-apple-sign-new-agreement"
+                    ]
+                },
+                {
+                    "contentText": "Google’ın yapay zekası kanser teşhisi raporlamalarını uzmanlar kadar iyi yapıyor.",
+                    "contentLink": [
+                        "https://www.reuters.com/article/us-health-mammograms-ai-idUSKBN1Z0206?taid=5e0e5c5148fe970001449453"
+                    ]
+                },
+                {
+                    "contentText": "Witcher 3, dizisinden sonra tekrar oynanmaya başladı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/witcher-3-wild-hunt-100000-concurrent-players-steam"
+                    ]
+                },
+                {
+                    "contentText": "BMW, motosikletler için kablosuz şarj hazırlığında.",
+                    "contentLink": [
+                        "https://www.bennetts.co.uk/bikesocial/news-and-views/news/2019/december/bmw-electric-bike-wireless-charging"
+                    ]
+                },
+                {
+                    "contentText": "OnePlus, kameraları gizleyen bir tasarım gösterdi.",
+                    "contentLink": [
+                        "https://www.gsmarena.com/oneplus_concept_one_feature_teaser_invisible_camera-news-40844.php"
+                    ]
+                },
+                {
+                    "contentText": "Google, Xiaomi’nin Nest’e erişimini kaldırdı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/2/21047094/google-xiaomi-access-nest-hub-sleeping-baby"
+                    ]
+                },
+                {
+                    "contentText": "Realme de arayüzde reklam göstermeye başlayacak.",
+                    "contentLink": [
+                        "https://www.gsmarena.com/realme_will_show_ads_on_its_phones_but_you_can_disable_them-news-40800.php"
+                    ]
+                },
+                {
+                    "contentText": "Lexar, 7 GB/sn okuma hızı olan SSD duyurdu.",
+                    "contentLink": [
+                        "https://www.dpreview.com/news/6011629919/lexar-is-showing-off-a-pcie-4-0-ssd-with-7gb-s-read-sequential-speeds"
+                    ]
+                },
+                {
+                    "contentText": "GTA 5, Xbox Gamepass sistemine eklendi.",
+                    "contentLink": [
+                        "https://www.eurogamer.net/articles/2020-01-03-grand-theft-auto-5-joins-xbox-game-pass-today"
+                    ]
+                }
+            ]
         }
     ]
 }
