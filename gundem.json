@@ -81254,6 +81254,161 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2020",
+            "count": 2,
+            "totalCount": 454,
+            "uploadDate": "11.01.2020",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2020/01/2020_02_gundem.mp3",
+            "videoLink": "#",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-2020-02",
+            "rangeFirstDate": "06.01.2020",
+            "rangeLastDate": "11.01.2020",
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2020/2 (6 - 11 Ocak 2020)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "CES 2020",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "AMD 4000 serisi mobil işlemcilerini gösterdi.  Threadripper 3990X geliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/6/21054007/amd-7nm-ryzen-4000-cpu-ces-2020-intel-competition-laptop-processors-zen-2",
+                        "https://www.windowscentral.com/amd-ces-2020-announcements"
+                    ]
+                },
+                {
+                    "contentText": "AMD’nin CES’te gösterdiği Xbox Series X tasarımı sahte çıktı.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/6/21053989/microsoft-xbox-series-x-rear-ports-connectivity-amd-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Intel harici ekran kartı DG1’i gösterdi. Thunderbolt 4 2020 içinde geliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/9/21058422/intel-dg1-discrete-gpu-graphics-card-announcement-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Sony elektrikli araba tanıttı. PS5’in logosunu gösterdi.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/8/21056404/sony-vision-s-electric-concept-prototype-first-look-ces-2020",
+                        "https://www.theverge.com/2020/1/6/21019829/sony-playstation-5-ps5-logo-reveal-ps4-users-numbers-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Lenovo katlanabilir OLED ekranlı X Fold’u duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2020/1/6/21051334/lenovo-thinkpad-x1-folding-pc-tablet-oled-price-specs-features-date-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Razer’ın NUC Compute Element tabanlı PC’si Tomahawk.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/6/21051276/intel-ghost-canyon-nuc-9-extreme-confirmed-ces-2020-modular-gaming-desktop",
+                        "https://www.theverge.com/2020/1/7/21054602/razer-tomahawk-desktop-gaming-pc-intel-nuc-element-design-specs-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Asus ve NVIDIA 360 Hz G-Sync monitör duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/5/21050309/asus-nvidia-360hz-gaming-monitor-rog-swift-360-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Elgato 4K 60 fps ve HDR kayıt yapabilen harici cihaz duyurdu.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/6/21048282/elgato-4k-60-s-external-capture-card-ps4-xbox-pc-live-streaming-price"
+                    ]
+                },
+                {
+                    "contentText": "Televizyonlara Filmmaker modu geliyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/7/21055753/filmmaker-mode-tv-samsung-philips-tp-vision-kaleidescape-uhd-alliance-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "SanDisk 8 TB harici SSD gösterdi.",
+                    "contentLink": [
+                        "https://www.theverge.com/circuitbreaker/2020/1/6/21048368/sandisk-8tb-external-ssd-biggest-1tb-flash-drive-storage-ces-2020"
+                    ]
+                },
+                {
+                    "contentText": "Google asistanı, read it, metinleri 42 dilde okuyabilecek.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/7/21054788/google-assistant-screen-reader-translation-android-languages"
+                    ]
+                },
+                {
+                    "contentText": "OnePlus Concept One’ın kameraları gizleme özelliği 1 işe yarıyor.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/7/21054391/oneplus-concept-one-mclaren-disappearing-phone-camera-hands-on"
+                    ]
+                },
+                {
+                    "contentText": "Hem 360 derece hem 4K aksiyon kamerası Insta360.",
+                    "contentLink": [
+                        "https://www.theverge.com/2020/1/7/21048536/insta360-one-r-360-4k-action-camera-modular-price-specs-features-photos-hands-on"
+                    ]
+                },
+                {
+                    "contentText": "Firmaların elektronik tacizlerine karşı yeni sistem geliyor",
+                    "contentLink": [
+                        "http://www.hurriyet.com.tr/ekonomi/mesaj-tacizi-bitiyor-41412654"
+                    ]
+                },
+                {
+                    "contentText": "E-ticarette güven damgası dönemi başlıyor.",
+                    "contentLink": [
+                        "https://www.guvendamgasi.org.tr/"
+                    ]
+                },
+                {
+                    "contentText": "Totok, Google PlayStore’a geri döndü.",
+                    "contentLink": [
+                        "https://twitter.com/KimZetter/status/1214209558496731140?s=20"
+                    ]
+                },
+                {
+                    "contentText": "Samsung’un telefonlarında kullandığı temizlik uygulaması, casuslukla suçlanıyor. Samsung’un suçlamalara yanıtı.",
+                    "contentLink": [
+                        "https://www.reddit.com/r/Android/comments/ektg8u/chinese_spyware_preinstalled_on_all_samsung/",
+                        "https://www.reddit.com/r/Android/comments/el99r0/samsung_members_koreas_official_reply_has_arrived/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, 2019 için karlılıkta büyük düşüş bekliyor.",
+                    "contentLink": [
+                        "https://www.sammobile.com/news/samsung-estimates-massive-53-percent-drop-profit-2019/"
+                    ]
+                },
+                {
+                    "contentText": "İTÜ Robot Olimpiyatları 2020, Nisan ayında gerçekleşecek.",
+                    "contentLink": [
+                        "http://ituro.org/tr/"
+                    ]
+                },
+                {
+                    "contentText": "WiFi şifresini paylaşan, işlenen siber suça ortak sayılıyor.",
+                    "contentLink": [
+                        "http://www.milliyet.com.tr/gundem/yargitaydan-milyonlari-ilgilendiren-karar-wi-fi-sifresi-6115313"
+                    ]
+                },
+                {
+                    "contentText": "Sonos, Google ve Amazon’u suçluyor ve Google’ı dava ediyor.",
+                    "contentLink": [
+                        "https://www.androidauthority.com/sonos-v-google-looks-bruising-and-more-tech-you-need-to-know-today-1072969/"
+                    ]
+                },
+                {
+                    "contentText": "Micron, ilk DDR5 bellek örneklerini sergiliyor. 2023",
+                    "contentLink": [
+                        "https://www.pcgamesn.com/micron/ddr5-memory-release-date"
+                    ]
+                }
+            ]
         }
     ]
 }
