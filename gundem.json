@@ -132925,6 +132925,140 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 33,
+            "totalCount": 798,
+            "uploadDate": "22.08.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/08/hgd_798_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=61P07_07Iuk",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-798",
+            "rangeFirstDate": "17.08.2026",
+            "rangeLastDate": "22.08.2026",
+            "podcastTime": 2250,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/33 (17 - 22 Ağustos 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Bellek hızları davasında, G.Skill 2.4 Milyon $ karşılığı uzlaşma yolunu seçti.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/ram/g-skill-starts-usd2-4m-class-action-payout-over-misleading-ram-speeds-usd20-to-usd25-cash-payments-heading-to-claimants"
+                    ]
+                },
+                {
+                    "contentText": "ARM, kendi yongalarını satmaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.forbes.com/sites/johnwerner/2026/08/19/arm-sells-its-own-silicon/"
+                    ]
+                },
+                {
+                    "contentText": "Intel’in Nova Lake-S işlemcileri üzerine dedikodular yoğunlaşıyor.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113166/intel-core-ultra-9-4950k-leaked-as-nova-lake-s-flagship-with-28-cores/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Intel, Razor Lake işlemciler için TSMC’nin 2nm üretim kapasitesini kullanacak.",
+                    "contentLink": [
+                        "https://wccftech.com/intels-razor-lake-will-reportedly-tap-tsmcs-2nm-n2x-process-squeezing-amd-out-of-already-constrained-fab-capacity/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, 13 ve 14. Nesil işlemcileri daha uzun süre satacak.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113125/intel-will-continue-supplying-raptor-lake-cpus-for-years-to-come-thanks-to-the-memory-crisis/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Firefox’a GeForce Now desteği eklendi.",
+                    "contentLink": [
+                        "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/"
+                    ]
+                },
+                {
+                    "contentText": "Mozilla, Firefox ve Thunderbird’ün dijital imzalarını yeniledi.",
+                    "contentLink": [
+                        "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html?m=1"
+                    ]
+                },
+                {
+                    "contentText": "Türkiye’de 2G ve 3G telefon şebekeleri kapanıyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Turkcell’in Yaani Mail hizmeti kapanıyor.",
+                    "contentLink": [
+                        "https://www.uptrink.com/teknoloji/google%27a-alternatif-olarak-cikmisti:-turkcell%27in-yerli-e-posta-servisi-yaanimail-kapaniyor-11807"
+                    ]
+                },
+                {
+                    "contentText": "Monitör fiyatlarına zam yolda!",
+                    "contentLink": [
+                        "https://respawnfirst.com/we-can-no-longer-absorb-this-ktc-warns-gaming-monitor-prices-are-about-to-rise/"
+                    ]
+                },
+                {
+                    "contentText": "Phison yöneticisi: NAND krizi daha 4 yıl sürer.",
+                    "contentLink": [
+                        "https://wccftech.com/phison-ceo-warns-nand-supply-wont-meet-demand-for-four-years/"
+                    ]
+                },
+                {
+                    "contentText": "RAM krizinin görünmeyen sonucu: Stokları karaborsacılar bitiriyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/ddr5/scalper-bots-now-outnumber-human-shoppers-10-to-1-on-one-retailers-ddr5-pages"
+                    ]
+                },
+                {
+                    "contentText": "YZ, sürücüsü olmayan eski yazıcıya macOS sürücüsü yazdı.",
+                    "contentLink": [
+                        "https://xab.info/en/posts/ai-claude-driver-hp-laser-1008a-macos"
+                    ]
+                },
+                {
+                    "contentText": "Google, QuickShare’e “Tap to Share” özelliğini ekliyor.",
+                    "contentLink": [
+                        "https://www.extremetech.com/mobile/google-launches-tap-to-share-feature-within-quick-share"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacılar 14000’in üzerinde Dahua kameraya sızmayı başardı.",
+                    "contentLink": [
+                        "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html"
+                    ]
+                },
+                {
+                    "contentText": "Kişi arama hizmeti ClarityCheck, milyonlarca kişinin görüntüsünü internete açtı.",
+                    "contentLink": [
+                        "https://finance.biggo.com/news/4af971bd-d70a-4de2-ada9-c353669d2bbb"
+                    ]
+                },
+                {
+                    "contentText": "Öfkeli güvenlik araştırmacısı, Windows Defender’ı aşan güvenlik açığını yayınladı.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/113477-disgruntled-security-researcher-dropped-another-windows-zero-day.html"
+                    ]
+                },
+                {
+                    "contentText": "GTA 6 sızıntısında ibre Hindistan ofisini işaret ediyor.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113181/gta-6-appears-to-have-leaked-from-rockstar-india-also-suspected-to-be-a-pc-version/index.html"
+                    ]
+                },
+                {
+                    "contentText": "No Rest for the Wicked yapımcısı Thomas Mahler, Xbox Series S’e isyan etti.",
+                    "contentLink": [
+                        "https://respawnfirst.com/incredibly-difficult-to-support-these-potato-machines-no-rest-for-the-wicked-director-blasts-xbox-series-s-after-fans-demand-60-fps/"
+                    ]
+                },
+                {
+                    "contentText": "id Software, Unreal Engine 5’e geçişi reddediyor.",
+                    "contentLink": [
+                        "https://wccftech.com/id-software-rejects-unreal-engine-5-switch-xbox-layoffs-tech-powerhouse/"
+                    ]
+                }
+            ]
         }
     ]
 }
