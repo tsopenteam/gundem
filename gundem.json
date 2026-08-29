@@ -133059,6 +133059,183 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 34,
+            "totalCount": 799,
+            "uploadDate": "29.08.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/08/hgd_799_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=-pcs69hM174",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-799",
+            "rangeFirstDate": "24.08.2026",
+            "rangeLastDate": "29.08.2026",
+            "podcastTime": 2903,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/34 (24 - 29 Ağustos 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Intel Monsters Reloaded 2026 oyun turnuvası başlıyor.",
+                    "contentLink": [
+                        "https://www.monsternotebook.com.tr/monster-reloaded/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, ATX 12VO standartından vazgeçmiyor.",
+                    "contentLink": [
+                        "https://www.xda-developers.com/the-24-pin-atx-connector-is-finally-getting-replaced-but-what-comes-next-looks-nothing-like-modern-pc-boards/?link_source=ta_first_comment&taid=6a8fa1352a675c0001e37f3e&utm_campaign=trueanthem&utm_medium=social&utm_source=facebook&fbclid=Iwb21leAT9Xa5jbGNrBP1djnBkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEejVFk1GXCG9-2mS2wZTgj5z2OEGpI8KgkO9tMGTCFXbOqp0d6QrCNXuGZ3hQ_aem_2zoZOD7jYbtzfXAglvB5cQ"
+                    ]
+                },
+                {
+                    "contentText": "AMD, Zen 6 işlemciler hakkındaki bilgileri netleştiriyor.",
+                    "contentLink": [
+                        "https://wccftech.com/amd-confirms-zen-6-ryzen-desktop-mobile-cpus-olympic-ridge-medusa-am5-fp10/"
+                    ]
+                },
+                {
+                    "contentText": "Apple, M6 işlemcisini ilk olarak Mac Mini'de kullandı.",
+                    "contentLink": [
+                        "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/"
+                    ]
+                },
+                {
+                    "contentText": "d-Matrix firmasından yeni bellek mimarisi: Raptor",
+                    "contentLink": [
+                        "https://videocardz.com/newz/raptor-3d-dram-combines-32gb-capacity-with-over-100-tb-s-bandwidth"
+                    ]
+                },
+                {
+                    "contentText": "CXMT teknolojilerinde teknoloji hırsızlığı şüphesi.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/dram/cxmt-planned-to-use-stolen-samsung-ip-to-develop-its-dram-court-hears-former-samsung-engineer-who-jumped-to-chinese-memory-maker-now-behind-bars"
+                    ]
+                },
+                {
+                    "contentText": "Çin'in YouTube'u olarak bilinen Bilibili, dünyaya açılıyor.",
+                    "contentLink": [
+                        "https://www.ggmania.com/?smsid=bilibili-drops-id-checks-and-goes-global-66788"
+                    ]
+                },
+                {
+                    "contentText": "Mobil işlemcilerde yeni hız rekoru: 5GHz",
+                    "contentLink": [
+                        "https://gadgetsnow.indiatimes.com/tech-news/qualcomms-next-flagship-chip-oryon-cpu-hits-5ghz-a-mobile-industry-first/articleshow/133566704.cms?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, ARM işlemcili bilgisayarların gelişiminden çok memnun.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/microsoft/windows-11/microsoft-celebrates-major-progress-with-windows-11-on-arm-pcs-confirms-windows-on-arm-is-now-a-first-class-platform-for-any-workload-and-that-customer-demand-is-growing?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA'nın kazancı, beklentileri aşacak.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/media-telecom/nvidia-forecasts-quarterly-revenue-above-estimates-2026-08-26/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, DLSS 4.5 Ray Reconstruction sistemini kullanıma sundu.",
+                    "contentLink": [
+                        "https://www.nvidia.com/en-us/geforce/news/gamescom-2026-dlss-4-5-ray-reconstruction-release-announcements-trailers/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, Windows 10 sürücülerini sonlandırıyor.",
+                    "contentLink": [
+                        "https://videocardz.com/newz/nvidia-ends-windows-10-game-ready-support-in-october"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, Hugging Face'i satın almaya hazırlanıyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/"
+                    ]
+                },
+                {
+                    "contentText": "Hugging Face'den MicroDuck robot duyuruldu",
+                    "contentLink": [
+                        "https://pollen-robotics.com/microduck/"
+                    ]
+                },
+                {
+                    "contentText": "Windows 11 Ağustos güncellemesi, yazıcıları ve PDF dosyalarını bozdu.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3219968/augusts-windows-update-breaks-printers-and-pdfs-microsoft-explains-why.html"
+                    ]
+                },
+                {
+                    "contentText": "Windows 11 26H2 sürümü, kurtarma özelliklerini geliştirecek.",
+                    "contentLink": [
+                        "https://www.windowslatest.com/2026/08/21/windows-11-26h2-will-auto-enable-point-in-time-restore-by-default-how-to-check-yours/"
+                    ]
+                },
+                {
+                    "contentText": "Commodore, Commodore 77 modelini duyurdu.",
+                    "contentLink": [
+                        "https://commodore.net/commodore-jacks-into-night-city-with-the-commodore-77-an-all-new-cyberpunk-2077-collaboration/"
+                    ]
+                },
+                {
+                    "contentText": "Bir haftada bir çok doğum günü.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Gamescom 2026 açıldı.",
+                    "contentLink": [
+                        "https://www.gamescom.global/en"
+                    ]
+                },
+                {
+                    "contentText": "Netflix'in merakla beklenen GTA VI videosu yayınlandı.",
+                    "contentLink": [
+                        "https://variety.com/2026/tv/news/gta-6-netflix-trailer-extended-look-release-1236845475/"
+                    ]
+                },
+                {
+                    "contentText": "Squadron 42 bu sene de çıkmıyor, nedeni de GTA VI.",
+                    "contentLink": [
+                        "https://www.bluesnews.com/s/302371/squadron-42-delayed-to-q2-2027"
+                    ]
+                },
+                {
+                    "contentText": "Witcher III Remastered sürümü ve yeni genişleme paketi duyuruldu. Witcher 4 ise 2028'de gelecek.",
+                    "contentLink": [
+                        "https://www.ggmania.com/?smsid=the-witcher-iii-wild-hunt-remastered-reveal-trailer-66799",
+                        "https://www.pcgamer.com/games/the-witcher/the-witcher-4-is-targeting-a-2028-release/"
+                    ]
+                },
+                {
+                    "contentText": "Sanitarium Enhanced duyuruldu.",
+                    "contentLink": [
+                        "https://www.gematsu.com/2026/08/sanitarium-enhanced-announced-for-ps5-xbox-series-ps4-switch-and-pc"
+                    ]
+                },
+                {
+                    "contentText": "Rock Band ve Guitar Hero oyunlarını özleyenlere: Stage Tour geliyor.",
+                    "contentLink": [
+                        "https://www.videogameschronicle.com/news/new-rock-band-style-game-from-original-guitar-hero-developers-release-alongside-plastic-instruments-december-10/"
+                    ]
+                },
+                {
+                    "contentText": "Call of Duty MW4, oyun çalışmazken shaderleri oluşturabilecek.",
+                    "contentLink": [
+                        "https://www.callofduty.com/blog/2026/08/call-of-duty-modern-warfare-4-next-early-intel-pc-specs"
+                    ]
+                },
+                {
+                    "contentText": "Ubisoft, HoMM3 Complete Edition sürümünü yayınlarken dosyaları eklemeyi unuttu.",
+                    "contentLink": [
+                        "https://www.videogameschronicle.com/news/heroes-of-might-and-magic-3-remake-announced-as-the-complete-edition-releases-on-steam-with-no-game-files/"
+                    ]
+                },
+                {
+                    "contentText": "Alien Breed 35. Yıl Paketi duyuruldu.",
+                    "contentLink": [
+                        "https://www.flickeringmyth.com/an-amiga-classic-heading-back-to-gamers-with-alien-breed-35th-anniversary-collection/"
+                    ]
+                }
+            ]
         }
     ]
 }
