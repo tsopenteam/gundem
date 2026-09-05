@@ -133236,6 +133236,136 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 35,
+            "totalCount": 800,
+            "uploadDate": "05.09.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/09/hgd_800_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=_lZ1tkiaS-4",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-800",
+            "rangeFirstDate": "31.08.2026",
+            "rangeLastDate": "05.09.2026",
+            "podcastTime": 2495,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/35 (31 Ağustos - 5 Eylül 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Sponsor mesajı: Onimusha hediyeli MSI QD-OLED kampanyası",
+                    "contentLink": [
+                        "https://tr.msi.com/Promotion/onimusha-way-of-the-sword?utm_campaign=Teknoseyir"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA'nın DLSS 5 sızıntısı, PC dünyasında heyecan yarattı.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/gpus/modders-get-leaked-dlss-5-running-in-control-early-blackwell-test-drops-rtx-5070-ti-from-71-to-35-fps-at-4k"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, Tayvanlı Mediatek'e 3.5 Milyar $ yatırım yapıyor.",
+                    "contentLink": [
+                        "https://www.bloomberg.com/news/articles/2026-08-31/nvidia-to-invest-3-5-billion-in-chipmaker-mediatek"
+                    ]
+                },
+                {
+                    "contentText": "OpenAI ajanları, Alman Wiki sitesini kendileri için iletişim alanına çevirmiş.",
+                    "contentLink": [
+                        "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/?utm_source=braze&utm_medium=notifications&utm_campaign=2025_engagement"
+                    ]
+                },
+                {
+                    "contentText": "New York'da başkan, çocuklara YZ kullanımını yasakladı.",
+                    "contentLink": [
+                        "https://www.bbc.co.uk/newsround/articles/crm932vwdg1o"
+                    ]
+                },
+                {
+                    "contentText": "Sony Music ve Warner, Antropic'i dava etti.",
+                    "contentLink": [
+                        "https://mashable.com/tech/anthropic-sued-by-sony-music-warner-ai-copyright-infringement"
+                    ]
+                },
+                {
+                    "contentText": "ABD'de California eyaleti, Linux ve türevlerini yaş kontrolü zorunluluğu dışında bıraktı.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
+                    ]
+                },
+                {
+                    "contentText": "Meta, hakkında açılan davada 18 Milyar $ karşılığı uzlaşma yoluna gitti.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/articles/cd68q3wynnqo"
+                    ]
+                },
+                {
+                    "contentText": "IBM, iki işlemci mimarisini tek çekirdekte birleştirmeyi başardı.",
+                    "contentLink": [
+                        "https://www.igorslab.de/en/ibm-combines-arm-z-architecture-single-cpu-core-2-nm-processor-exceeds-57-ghz/?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4"
+                    ]
+                },
+                {
+                    "contentText": "TCL, Mini LED TV'ler konusunda Samsung'a dava açtı.",
+                    "contentLink": [
+                        "https://www.reuters.com/legal/litigation/tcl-sues-samsung-false-advertising-over-mini-led-televisions-2026-09-01/"
+                    ]
+                },
+                {
+                    "contentText": "Apple'da Tim Cook dönemi kapandı.",
+                    "contentLink": [
+                        "https://financialpost.com/technology/tech-news/tim-cook-leaves-apple-ceo-role"
+                    ]
+                },
+                {
+                    "contentText": "HP, Huawei ile Wi-Fi teknolojisi üzerine anlaşma imzaladı.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2026/08/25/hp-partners-huawei-wifi-tech-us-entity-list.html"
+                    ]
+                },
+                {
+                    "contentText": "Supermicro, GB300 DGX Station bilgisayarını satışa sundu.",
+                    "contentLink": [
+                        "https://www.techradar.com/pro/nvidia-gb300-dgx-station-desktop-pc-goes-on-sale-for-almost-usd91-100-7x-costlier-than-a-256gb-ram-mac-studio-m5-ultra-but-with-748gb-ram"
+                    ]
+                },
+                {
+                    "contentText": "Anker Innovations, tek marka altında birleşiyor.",
+                    "contentLink": [
+                        "https://www.chip.com.tr/haber/ankerden-onemli-aciklama-5-markasini-tek-cati-altinda-toplayacak_183429.html"
+                    ]
+                },
+                {
+                    "contentText": "Çinli bellek üreticisi CXMT, ABD devletini dava ediyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/dram/chinas-top-dram-maker-cxmt-sues-pentagon-over-its-blacklisting-argues-chips-are-standard-civilian-jedec-spec-not-defense-hardware"
+                    ]
+                },
+                {
+                    "contentText": "CXMT, LPDDR6 üretimine hazır.",
+                    "contentLink": [
+                        "https://wccftech.com/chinas-cxmt-lpddr6-ram-mass-production-september-output-limit-hint/?fbclid=Iwb21leAUBTXtjbGNrBQFNeHBkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeJc0YvyNl3b06st2bu2HPCmoiw920kq_MPr6WoxhHTDjzhHB0E5WqD1iID7I_aem_y4nBm2hJV8TwYAHy1pkfzQ"
+                    ]
+                },
+                {
+                    "contentText": "Angry Birds'ün yaratıcısı Rovio, Danimarka'daki stüdyosunu kapatıyor.",
+                    "contentLink": [
+                        "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio"
+                    ]
+                },
+                {
+                    "contentText": "Boltgun II, 14 Ekimde çıkıyor.",
+                    "contentLink": [
+                        "https://www.techtimes.com/articles/326335/20260902/boltgun-2-sets-october-14-launch-date-doom-composer-mick-gordon-scores-final-boss.htm"
+                    ]
+                },
+                {
+                    "contentText": "Xbox Cloud Gaming de oyun oynama süresine kısıtlama getirdi.",
+                    "contentLink": [
+                        "https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/"
+                    ]
+                }
+            ]
         }
     ]
 }
