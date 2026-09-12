@@ -133366,6 +133366,112 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 36,
+            "totalCount": 801,
+            "uploadDate": "12.09.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/09/hgd_801_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=1sGoysOED5A",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-801",
+            "rangeFirstDate": "07.09.2026",
+            "rangeLastDate": "12.09.2026",
+            "podcastTime": 2449,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/36 (7 - 12 Eylül 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Apple, ilk katlanabilir iPhone modelini tanıttı: iPhone Duo",
+                    "contentLink": [
+                        "https://www.apple.com/tr/iphone-duo/"
+                    ]
+                },
+                {
+                    "contentText": "Eski PC markalarından Packard Bell, yeniden piyasaya giriyor.",
+                    "contentLink": [
+                        "https://news.acer.com/acer-relaunches-packard-bell-with-full-new-lifestyle-collection-to-tech-it-easy"
+                    ]
+                },
+                {
+                    "contentText": "LG akıllı TV’lere yönelik ciddi suçlamalar.",
+                    "contentLink": [
+                        "https://www.pcmag.com/news/lg-denies-tvs-eavesdrop-on-users-even-when-screen-is-off"
+                    ]
+                },
+                {
+                    "contentText": "ABD, Huawei’nin yakasını bırakmıyor. Şimdi de “mafya” suçlamasıyla karşı karşıyalar.",
+                    "contentLink": [
+                        "https://btdunyasi.net/huawei-abdde-cin-mafyasi-olarak-yargilanacak/"
+                    ]
+                },
+                {
+                    "contentText": "TSMC ve Sony, görüntü algılayıcı konusunda işbirliğine gidiyor.",
+                    "contentLink": [
+                        "https://www.reuters.com/world/asia-pacific/tsmc-sony-invest-47-billion-joint-venture-image-sensors-2026-08-11/"
+                    ]
+                },
+                {
+                    "contentText": "TSMC’nin 1.4nm yongaları Nisan 2027’de üretimde olacak.",
+                    "contentLink": [
+                        "https://wccftech.com/tsmc-reportedly-accelerates-1-4nm-production-to-april-2027-pulling-its-most-advanced-chips-a-full-year-ahead-of-schedule/"
+                    ]
+                },
+                {
+                    "contentText": "Intel de 14A teknolojisinde kararlı ilerliyor.",
+                    "contentLink": [
+                        "https://wccftech.com/intels-defect-density-minimization-for-its-14a-node-is-currently-tracking-3-4-quarters-ahead-of-the-18a-node-trajectory-indicating-an-earlier-launch/?fbclid=Iwb21leAULQJdjbGNrBQtAkXBkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSpJGY7NdhSAbynakHc5OSCl1cIzAE0HjUTLg_1LkHkJCR5ZM6HGfdrUKZ-E_aem_C0bg0Hdmdlc3JndF9QALVQ"
+                    ]
+                },
+                {
+                    "contentText": "Çinli SMIC, büyüme atağında.",
+                    "contentLink": [
+                        "https://wccftech.com/smic-outgrows-tsmc-and-samsung-with-20-surge-overtaking-globalfoundries-as-worlds-third-largest-foundry/"
+                    ]
+                },
+                {
+                    "contentText": "Samsung, bazı Android uygulamalarını sonlandırıyor.",
+                    "contentLink": [
+                        "https://www.androidcentral.com/apps-software/samsung-is-shutting-down-a-couple-of-apps-vows-to-return-new-and-improved"
+                    ]
+                },
+                {
+                    "contentText": "Matematik dünyasında YZ krizi: OpenAI, araştırmacıların çalışmalarını kendisi için mi kullandı?",
+                    "contentLink": [
+                        "https://tr.euronews.com/next/2026/09/09/openaida-turk-matematikci-kaosu-yapay-zekaya-yazdiklarimiz-bir-gun-bize-karsi-kullanilabil"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’dan evdeki eskileri değerlendirme teknolojisi: NVIDIA PAIR",
+                    "contentLink": [
+                        "https://wccftech.com/nvidia-pair-turns-your-idle-home-pcs-into-a-local-ai-cluster/"
+                    ]
+                },
+                {
+                    "contentText": "Sony’nin uygulamadığı “dinamik fiyatlandırma” sistemi Xbox’a da gelebilir.",
+                    "contentLink": [
+                        "https://www.techpowerup.com/352455/xbox-game-pass-appears-to-be-testing-dynamic-pricing"
+                    ]
+                },
+                {
+                    "contentText": "Sony, Hideo Kojima’nın yeni oyununu istemeyince, oyun Xbox’ın oldu.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/gaming-industry/playstation-tried-to-cancel-hideo-kojimas-physint-now-xbox-is-publishing-it/"
+                    ]
+                },
+                {
+                    "contentText": "GOG, kutulu PC oyunlarını geri getiriyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/"
+                    ]
+                },
+                {
+                    "contentText": "Suudi Arabistan, EA ile Savvy Games’i birleştirme hazırlığında.",
+                    "contentLink": [
+                        "https://www.bloomberg.com/news/articles/2026-09-10/saudis-weigh-merging-ea-with-savvy-to-create-global-gaming-giant?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTA1NzI2NSwiZXhwIjoxNzg5NjYyMDY1LCJhcnRpY2xlSWQiOiJUTDQwT01LSkg2VjYwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.jgl3w7yTgzP8aQlCq-gr23WtPFEHkCy6NB8fbVuoBCc&leadSource=article-gifting"
+                    ]
+                }
+            ]
         }
     ]
 }
