@@ -133472,6 +133472,137 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 37,
+            "totalCount": 802,
+            "uploadDate": "19.09.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/09/hgd_802_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=TrqyMj3X2Fo",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-802",
+            "rangeFirstDate": "14.09.2026",
+            "rangeLastDate": "19.09.2026",
+            "podcastTime": 2858,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/37 (14 - 19 Eylül 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "YZ dünyasında “frene basalım” çağrıları yükseliyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/articles/c14dpgm0rg4o"
+                    ]
+                },
+                {
+                    "contentText": "Büyük firmalar YZ kullanımı konusunda daha çekimser hale geliyor.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/palantir-nvidia-curb-ai-model-use-over-data-fears-information-reports-2026-09-14/?link_source=ta_first_comment&taid=6aa82d8603988b0001a21657&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=facebook&fbclid=Iwb21leAUVePtjbGNrBRV453Bkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeQCZMQ8kEMzCaanUqRgV2YXPKiifierQDWBvHyh6DlOsTDhZO5icIR9wd6hc_aem_5q21-7qclnar05lLN4F1bw"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Yöneticisi: “Online haberlerin YZ ile toplanması eşi görülmemiş bir emek hırsızlığı”",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113623/internal-microsoft-warning-brands-ai-scraping-the-largest-theft-of-labor-in-human-history/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft’un RTX Spark’lı Surface Laptop Ultra tanıtımı 7 Ekimde.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113614/microsoft-is-bringing-in-nvidias-jensen-huang-for-its-biggest-windows-event-since-2024/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Micron, tek modülde 512GB sağlayan bellek modüllerini duyurdu.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules?hl=tr-TR"
+                    ]
+                },
+                {
+                    "contentText": "Apple, M8 Ultra yongası için NVIDIA ile işbirliğine gidebilir.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push"
+                    ]
+                },
+                {
+                    "contentText": "Apple TV hizmeti Türkiye’de de kullanıma sunuldu.",
+                    "contentLink": [
+                        "https://www.apple.com/tr/newsroom/2026/09/icloud-plus-expands-to-include-apple-tv-and-apple-arcade/"
+                    ]
+                },
+                {
+                    "contentText": "Logitech’in rekortmen Pro X2 Superstrike faresini sipariş eden kullanıcıya, X3 modeli geldi.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113612/pro-x2-superstrike-buyer-gets-unreleased-x3-superstrike-in-the-mail-instead/index.html"
+                    ]
+                },
+                {
+                    "contentText": "İngiliz Revolut firmasının bilgileri, devletten gelmiş gibi gösterilen veri talepleriyle çalınmış.",
+                    "contentLink": [
+                        "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+                    ]
+                },
+                {
+                    "contentText": "Çinli Sugon firmasının rekortmen depolama araçları, IO500 sıralamasından silindi.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/tech-industry/supercomputers/sanctioned-chinese-supercomputer-maker-stripped-of-io500-benchmark-crown-intel-powered-aurora-retakes-the-lead-record-breaking-parastor-f9000-storage-system-doesnt-meet-reproducibility-requirements"
+                    ]
+                },
+                {
+                    "contentText": "Android kullanıcıları, şifre yöneticileri arasında güvenli bilgi aktarımı yapabilecek.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/"
+                    ]
+                },
+                {
+                    "contentText": "TeknoSeyir Takipçilerinden: Abonelik Radarı",
+                    "contentLink": [
+                        "https://radar-subscription-tracker.ozkanaltnors.chatgpt.site/"
+                    ]
+                },
+                {
+                    "contentText": "TeknoSeyir Takipçilerinden: AtlasPVE",
+                    "contentLink": [
+                        "https://atlaspve.com/"
+                    ]
+                },
+                {
+                    "contentText": "Denuvo, koruma sistemini aşan “cracker” Voices38’i dava ediyor.",
+                    "contentLink": [
+                        "https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/"
+                    ]
+                },
+                {
+                    "contentText": "Blizzcon’da Diablo V ve yeni Starcraft oyunu duyuruldu.",
+                    "contentLink": [
+                        "https://www.ign.com/articles/diablo-5-announced-release-date-2029",
+                        "https://www.gamespot.com/articles/the-starcraft-shooter-is-a-third-person-game-and-blizzard-insists-that-you-have-to-feel-powerful/"
+                    ]
+                },
+                {
+                    "contentText": "Steam’den kaybolan oyunlar için Sony’den açıklama geldi.",
+                    "contentLink": [
+                        "https://www.cbr.com/sony-statement-steam-delisting-horizon-forbidden-west-helldivers/"
+                    ]
+                },
+                {
+                    "contentText": "PS5’i tam bir PC’ye çeviren Linux sürümünün geliştirilmesi, durdu.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113593/developer-abandons-ps5-linux-project-after-people-found-a-hypervisor-bug-and-reported-it-to-sony/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Sony PS2’nin koruma yongası, 26 yılın ardından sırlarını açığa döktü.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip"
+                    ]
+                },
+                {
+                    "contentText": "Minecraft oynatılan GPT-6 Astra, Creeper patlayıp eşyalarını yok edince, oyuna küstü.",
+                    "contentLink": [
+                        "https://www.dexerto.com/minecraft/gpt-6-astra-forced-to-play-minecraft-gets-depressed-by-creeper-and-farms-potatoes-for-hours-3409634/"
+                    ]
+                }
+            ]
         }
     ]
 }
