@@ -133603,6 +133603,166 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 38,
+            "totalCount": 803,
+            "uploadDate": "26.09.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/09/hgd_803_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=pof2hgpnkyM",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-803",
+            "rangeFirstDate": "21.09.2026",
+            "rangeLastDate": "26.09.2026",
+            "podcastTime": 2815,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/38 (21 - 26 Eylül 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Logo Yazılım, yeni uygulama çözümlerini tanıttı",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Kioxia, yeni ürünlerinin detaylarını ve Türkiye pazarındaki başarısını basınla paylaştı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Xiaomi, REDMI Note 17 modelinin Türkiye tanıtımını gerçekleştirdi.",
+                    "contentLink": [
+                        "https://www.mi.com/global/discover/article?id=6340"
+                    ]
+                },
+                {
+                    "contentText": "TP-Link, Mova, Logitech vs vs",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Android temelli dizüstü Googlebook duyuruldu.",
+                    "contentLink": [
+                        "https://googlebook.google/"
+                    ]
+                },
+                {
+                    "contentText": "ABD, AI / YZ ismini değiştirmek istiyor.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/articles/cqy4z9pv4w0po"
+                    ]
+                },
+                {
+                    "contentText": "Çinli ByteDance, binlerce NVIDIA B200 yongasına erişebilmiş.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue"
+                    ]
+                },
+                {
+                    "contentText": "Google gururlu: Gemini de artık başka firmaları hackliyor.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/"
+                    ]
+                },
+                {
+                    "contentText": "Avustralya devleti: OpenAI bizim sitelerimize sızdı.",
+                    "contentLink": [
+                        "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/"
+                    ]
+                },
+                {
+                    "contentText": "Antropic, YZ karşıtlarını fişleyip takip edecek.",
+                    "contentLink": [
+                        "https://futurism.com/artificial-intelligence/anthropic-surveillance-predictive-system-spy-ai-activists"
+                    ]
+                },
+                {
+                    "contentText": "Huawei, YZ yongalarını tüm dünyaya satmaktan vazgeçiyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4"
+                    ]
+                },
+                {
+                    "contentText": "AMD, ekran kartlarında GDDR7'ye hazırlanıyor.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/hardware/graphics-cards/amd-starts-the-ball-rolling-for-gddr7-in-next-gen-gpus-with-small-code-adjustment-in-its-linux-drivers/"
+                    ]
+                },
+                {
+                    "contentText": "Yeni AMD teknolojisi, Ray Tracing işlemlerini hızlandırmak iddiasında.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113663/amd-showcases-new-ray-tracing-tech-that-uses-47x-less-memory-with-90x-faster-performance/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Copilot+ PC ifadesinden vazgeçiyor.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/113757/microsoft-is-reportedly-ditching-its-copilot-plus-pc-branding-for-windows-11-devices/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Windows 11'e Eylül güncellemeleriyle eklenen sorunlar, Ekim ayında düzeltilecek.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3241102/windows-11s-audio-bugs-wont-be-fixed-until-october.html"
+                    ]
+                },
+                {
+                    "contentText": "Spotify, mobil cihazlarda geçici depolama alanını sınırlayacak.",
+                    "contentLink": [
+                        "https://www.androidauthority.com/spotify-cache-limit-apk-teardown-3714432/"
+                    ]
+                },
+                {
+                    "contentText": "Meta, Amerika ile Avrupa'yı Petabit hızında bağlayacak.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/networking/metas-new-transoceanic-undersea-cable-boasts-a-whopping-petabit-of-bandwidth-petal-link-between-us-and-france-will-be-twice-as-fast-as-the-last"
+                    ]
+                },
+                {
+                    "contentText": "Meta, Meta VR gözlüklerini duyurdu.",
+                    "contentLink": [
+                        "https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/amp/"
+                    ]
+                },
+                {
+                    "contentText": "Paradox Interactive'in yarattığı kriz, gündemi belirledi.",
+                    "contentLink": [
+                        "https://www.milliyet.com.tr/teknoloji/hearts-of-iron-iv-sunucusunda-skandal-ataturk-karari-turk-oyuncular-paradoxtan-ozur-bekliyor-7666485"
+                    ]
+                },
+                {
+                    "contentText": "Bungie'den büyük dönüş. Destiny yeniden canlandırılıyor, Marathon da değiştirilecek.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=asnrQ1UoBQM"
+                    ]
+                },
+                {
+                    "contentText": "Xbox tarafında çalkantılar sürüyor.",
+                    "contentLink": [
+                        "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Forza Horizon ve Forza Motorsport ekiplerini birleştirdi. Turn 10 artık yok.",
+                    "contentLink": [
+                        "https://traxion.gg/forza-horizon-and-forza-motorsport-development-teams-merged/"
+                    ]
+                },
+                {
+                    "contentText": "Xbox'ın Platinum Trophy karşılığı 'Mythic Achievement' olacak.",
+                    "contentLink": [
+                        "https://www.purexbox.com/news/2026/09/xboxs-platinum-trophy-equivalent-appears-to-be-called-a-mythic-achievement"
+                    ]
+                },
+                {
+                    "contentText": "Activision, Halo, Sea of Thieves ve Age of Empires'ın yeni adresi.",
+                    "contentLink": [
+                        "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZnM0xpc3BlUzkiLCJwIjoiL25ld3MvOTk4NTg2L2FjdGl2aXNpb24taGFsby14Ym94LXJlb3JnYW5pemF0aW9uLWxheW9mZnMiLCJleHAiOjE3OTA1MTc2NDYsImlhdCI6MTc5MDA4NTY0Nn0.2koogeOB6k_6JD7z-tu-d2H_ziPulOcj_t9jDFaSvyM&utm_medium=gift-link"
+                    ]
+                },
+                {
+                    "contentText": "Witcher III Remastered Xbox sürümü, PC sürümünü de oyunculara verecek.",
+                    "contentLink": [
+                        "https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/#google_vignette"
+                    ]
+                }
+            ]
         }
     ]
 }
