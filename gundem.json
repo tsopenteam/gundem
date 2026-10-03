@@ -133763,6 +133763,171 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 39,
+            "totalCount": 804,
+            "uploadDate": "03.10.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/10/hgd_804_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=bzFED91V7G4",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-804",
+            "rangeFirstDate": "28.09.2026",
+            "rangeLastDate": "03.10.2026",
+            "podcastTime": 2328,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/39 (28 Eylül - 3 Ekim 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Intel başkanı: Sunucu sınıfı işlemcilerde talebi karşılayamıyoruz.",
+                    "contentLink": [
+                        "https://www.fool.com/investing/2026/09/27/intel-ceo-lip-bu-tan-has-incredible-news-for-amd-stock-investors/"
+                    ]
+                },
+                {
+                    "contentText": "Intel’in 14A üretim teknolojisi, tüm sektörün ilgi odağı.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/113984-amazon-apple-amd-google-tesla-microsoft-nvidia-qualcomm.html"
+                    ]
+                },
+                {
+                    "contentText": "Intel’in Core Ultra 400 işlemcileri kapıda.",
+                    "contentLink": [
+                        "https://www.techpowerup.com/353240/intel-nova-lake-launch-nears-as-platform-passes-usb4-and-pcie-5-0-compliance-testing"
+                    ]
+                },
+                {
+                    "contentText": "Intel, RGB aydınlatmalı işlemciler için patent aldı.",
+                    "contentLink": [
+                        "https://www.techpowerup.com/353232/intel-patent-describes-micro-leds-built-into-glass-substrate-cpu-packages"
+                    ]
+                },
+                {
+                    "contentText": "Micron: “YZ balonu patlasa da belleklerin ucuzlamasını beklemeyin”",
+                    "contentLink": [
+                        "https://wccftech.com/dont-expect-cheaper-memory-even-if-the-ai-bubble-pops-micron-says-each-humanoid-robot-would-need-over-200-gb-of-dram-and-multiple-terabytes-of-nand/?fbclid=Iwb21leAUq9uBjbGNrBSr23mV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeaKLb0qYnWnfxHkCYwZKYj0prWMN2FN4fHDh-2qjPi1oqh1pG36Y8Ondr5oI_aem_xchERlY80gjDr9geeE1ovA"
+                    ]
+                },
+                {
+                    "contentText": "ASML: Yonga üretiminde YZ etkisi önümüzdeki 10-15 yıl içinde hissedilir.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114023-asml-ai-effect-chipmaking-unfold-over-next-10.html"
+                    ]
+                },
+                {
+                    "contentText": "AMD, YZ firması World Labs’ı satın aldı.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html"
+                    ]
+                },
+                {
+                    "contentText": "Noctua, soğutmada yeni yaklaşımlar deniyor.",
+                    "contentLink": [
+                        "https://wccftech.com/noctua-eyes-forced-physics-third-cooling-path-that-handles-2000w-without-the-complex-liquid-loops-desktops-rely-on/?fbclid=Iwb21leAUlrBdjbGNrBSWsFGV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEerav2mARfDNcCfgT5-8EURkQpVR8bOQppc72-XiO1sqtqu0E18Dima0ULR24_aem_JJDrcl9xTTR_a9Xo46WuVQ"
+                    ]
+                },
+                {
+                    "contentText": "OpenAI ve Anthropic başkanları, Avustralya hack olayı konusunda ifade verecek.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2026/09/27/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe.html?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4"
+                    ]
+                },
+                {
+                    "contentText": "ABD’de başkan Trump, teknoloji firmalarının tepe yöneticileriyle bir araya geldi.",
+                    "contentLink": [
+                        "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html"
+                    ]
+                },
+                {
+                    "contentText": "Google, Gemini 4 Argon modelini kullanıma sundu. OpenAI ise GPT 6.1 Astra modelini yayınlamaktan vazgeçti.",
+                    "contentLink": [
+                        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+                        "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA başkanına göre çocukların matematiği unutması sorun değil.",
+                    "contentLink": [
+                        "https://www.indiatoday.in/technology/news/story/nvidia-ceo-admits-kids-are-forgetting-basic-maths-because-of-ai-says-it-doesnt-matter-3005404-2026-09-29"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, oyun geliştiricilere optimizasyonda yardımcı olacak bir YZ aracı geliştiriyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english"
+                    ]
+                },
+                {
+                    "contentText": "Denuvo’nun karşı atağa geçmesi, DenuvOwO grubunun dağılmasına neden oldu.",
+                    "contentLink": [
+                        "https://www.notebookcheck.net/Piracy-group-that-bypassed-dozens-of-Denuvo-games-quits-after-voices38-lawsuit.1410172.0.html"
+                    ]
+                },
+                {
+                    "contentText": "Windows 11 2026 güncellemesi yayınlandı.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Windows çalıştırabilen Snapdragon 850, bir sonraki Windows 11’de çalışmayacak.",
+                    "contentLink": [
+                        "https://wccftech.com/qualcomm-early-windows-soc-snapdragon-x-family-dropped-next-windows-update/"
+                    ]
+                },
+                {
+                    "contentText": "PS6 ve yeni Xbox’ın yongalarının tasarımı tamamlanmış gözüküyor.",
+                    "contentLink": [
+                        "https://videocardz.com/newz/ps6-and-next-gen-xbox-chips-reportedly-taped-out-kepler-claims-40-tflops-for-ps6-and-56-for-helix"
+                    ]
+                },
+                {
+                    "contentText": "Sony, Japonyada PS5 Pro satışlarını sınırlıyor.",
+                    "contentLink": [
+                        "https://www.pushsquare.com/news/2026/09/sony-fighting-ps5-pro-scalpers-in-japan-with-60-hour-gameplay-requirement"
+                    ]
+                },
+                {
+                    "contentText": "Sony, CES 2027’de yer almayacak.",
+                    "contentLink": [
+                        "https://www.engadget.com/2270734/sony-is-skipping-ces-in-2027-as-it-focuses-more-on-entertainment/"
+                    ]
+                },
+                {
+                    "contentText": "Sony, PSSR teknolojisini PS5’e de taşıyor.",
+                    "contentLink": [
+                        "https://wccftech.com/sony-brings-ps5-pro-style-ai-upscaling-to-base-ps5-qssr/"
+                    ]
+                },
+                {
+                    "contentText": "Xbox Disc-to-Digital özelliği tüm kullanıcılara açıldı.",
+                    "contentLink": [
+                        "https://www.windowscentral.com/gaming/xbox/xbox-disc-to-digital-feature-is-now-available-for-all"
+                    ]
+                },
+                {
+                    "contentText": "Steam’de işler yolunda, 20 Milyar $ üzerinde ciro bekleniyor.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/software/platforms/after-a-record-breaking-september-its-safe-to-say-steams-yearly-revenue-will-blow-past-usd20b-for-the-first-time/"
+                    ]
+                },
+                {
+                    "contentText": "The Witcher III Remastered sürümü çıktı.",
+                    "contentLink": [
+                        "https://www.thewitcher.com/us/en/witcher3"
+                    ]
+                },
+                {
+                    "contentText": "Quake Champions, ücretsiz oyundan ücretli oyuna dönüştü.",
+                    "contentLink": [
+                        "https://store.steampowered.com/news/app/611500/view/692020757910258707"
+                    ]
+                },
+                {
+                    "contentText": "Metro 2033 Redux ve Metro: Last Light Redux, bu ay içinde güncellenecek.",
+                    "contentLink": [
+                        "https://www.engadget.com/2275181/metro-2033-and-metro-last-light-remasters-are-getting-free-next-gen-updates/"
+                    ]
+                }
+            ]
         }
     ]
 }
