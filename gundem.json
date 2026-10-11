@@ -133928,6 +133928,142 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 40,
+            "totalCount": 805,
+            "uploadDate": "10.10.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/10/hgd_805_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=XecMxeWYnX8",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-805",
+            "rangeFirstDate": "05.10.2026",
+            "rangeLastDate": "10.10.2026",
+            "podcastTime": 2021,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/40 (5 - 10 Ekim 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "DJI, yeni ürünlerinin tanıtımını gerçekleştirdi.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Hisense, Türkiye pazarına giriyor.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "NVIDIA RTX Spark etkinliği 16 Ekim Cuma günü Vatan Bilgisayar’da.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Huawei ve Qualcomm arasında sürpriz patent anlaşması",
+                    "contentLink": [
+                        "https://www.tomshardware.com/tech-industry/semiconductors/qualcomm-will-pay-huawei-to-license-its-patents-for-the-first-time-in-historic-turnaround-reversal-in-a-5g-and-ai-cross-licensing-deal-comes-25-years-after-huawei-first-paid-qualcomm"
+                    ]
+                },
+                {
+                    "contentText": "Bilişim dünyasında yeni kriz alanı: RTX 5090",
+                    "contentLink": [
+                        "https://videocardz.com/newz/heres-why-rtx-5090-costs-5000-ai-firms-are-buying-gaming-gpus-by-the-pallet"
+                    ]
+                },
+                {
+                    "contentText": "Bazı ABD’li firmalar RTX 5090 satışlarında kısıtlamalara gidiyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us"
+                    ]
+                },
+                {
+                    "contentText": "Samsung’un HBM4E bellekleri, NVIDIA onayını aldı.",
+                    "contentLink": [
+                        "https://wccftech.com/samsungs-12-hi-hbm4e-reportedly-passes-nvidia-qualification-paving-way-for-next-gen-ai-gpu-supply/amp/"
+                    ]
+                },
+                {
+                    "contentText": "İkinci el pazarında görünmeyen tehlike: Engellenmiş parçalar",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3250222/your-used-cpu-might-come-with-someone-elses-valorant-ban.html"
+                    ]
+                },
+                {
+                    "contentText": "Sam Altman: “Dünya AI için bedel ödemeli”",
+                    "contentLink": [
+                        "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai?fbclid=Iwb21leAUyF5RjbGNrBTIXT2V4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeAhI4Rzj-Ehs9iyB99BvJx3VZthBNaPYs_s2meelQuzdnYdvLKXOmROSZtnQ_aem_91DKRWNMFQPdrrHfnKoz3Q"
+                    ]
+                },
+                {
+                    "contentText": "Google, güvenlik açığı bulma alanındaki ödüllü programlarını durduruyor.",
+                    "contentLink": [
+                        "https://www.independent.co.uk/tech/security/google-ai-bug-bounty-artificial-intelligence-b3061570.html?fbclid=Iwb21leAUzdV1jbGNrBTNROmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEepxdfN0k4_P90OD8jaQJtn-B9n3ZGxK43qulrVGzPMu14D2fo3FlozcgWkeg_aem__jsfjCpchhvwCDXZoGmJTg"
+                    ]
+                },
+                {
+                    "contentText": "Apollo 11 görevinin yazılım mühendisi Margaret Hamilton vefat etti.",
+                    "contentLink": [
+                        "https://www.thesun.ie/news/17737087/margaret-hamilton-nasa-pioneer-apollo-astronauts/"
+                    ]
+                },
+                {
+                    "contentText": "Amerika, TP-Link ile uğraşmayı bırakmıyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/networking/routers/florida-sues-tp-link-for-lying-about-the-safety-of-its-routers-state-claims-that-manufacturer-misrepresented-its-security-and-ties-to-china"
+                    ]
+                },
+                {
+                    "contentText": "Adobe uygulamalarına alternatif oluşturmak için bir girişim: ArtCraft",
+                    "contentLink": [
+                        "https://futurism.com/future-society/adobe-creative-suite-software-open-source-artcraft"
+                    ]
+                },
+                {
+                    "contentText": "TeknoSeyir Takipçilerinden: TechCareer.ai",
+                    "contentLink": [
+                        "http://techcareer.ai/"
+                    ]
+                },
+                {
+                    "contentText": "İstanbulda retro bilişim etkinliği: retroISTANBUL 2026",
+                    "contentLink": [
+                        "https://cpcuserclub.com/"
+                    ]
+                },
+                {
+                    "contentText": "GDG Türkiye Etkinlikleri ve DevFest Sezonu Başlıyor!",
+                    "contentLink": [
+                        "https://kommunity.com/network/gdg"
+                    ]
+                },
+                {
+                    "contentText": "Yerli geliştiricilerden bir oyun: Coal Duty",
+                    "contentLink": [
+                        "https://store.steampowered.com/app/4272370/Coal_Duty/"
+                    ]
+                },
+                {
+                    "contentText": "Sony PS5 emulasyonuna yeni yaklaşım, ilgi çekici sonuçlar üretiyor.",
+                    "contentLink": [
+                        "https://futurism.com/future-society/anyps5-playstation5-games-pc"
+                    ]
+                },
+                {
+                    "contentText": "Forza Horizon 6 PS5 sürümü için tarih açıklandı.",
+                    "contentLink": [
+                        "https://insider-gaming.com/forza-horizon-6-ps5-release-date-revealed/"
+                    ]
+                },
+                {
+                    "contentText": "Machinarium 2 duyuruldu.",
+                    "contentLink": [
+                        "https://store.steampowered.com/app/1619280/Machinarium_2/"
+                    ]
+                },
+                {
+                    "contentText": "Paramount Studios ile WB Games, Skydance altında birleşiyor.",
+                    "contentLink": [
+                        "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition"
+                    ]
+                }
+            ]
         }
     ]
 }
