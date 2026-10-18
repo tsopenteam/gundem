@@ -134064,6 +134064,136 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 41,
+            "totalCount": 806,
+            "uploadDate": "17.10.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/10/hgd_806_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=cmVOfMPGqBs",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-806",
+            "rangeFirstDate": "12.10.2026",
+            "rangeLastDate": "17.10.2026",
+            "podcastTime": 2649,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/41 (12 - 17 Ekim 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Cep telefonlarında taksit sınırı 40bin TL olarak düzenlendi.",
+                    "contentLink": [
+                        "https://www.bloomberght.com/sifir-cep-telefonlarinda-taksit-siniri-40-bin-liraya-yukseltildi-3791486"
+                    ]
+                },
+                {
+                    "contentText": "Sosyal medyada gençlere yasak kanunu yürürlükte.",
+                    "contentLink": [
+                        "https://www.ekonomim.com/gundem/15-yas-altina-sosyal-medyada-yas-dogrulama-zorunlulugu-geldi-sonsuz-kaydirma-donemi-bitti-haberi-923723"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA RTX Spark işlemcili dizüstü bilgisayarlar satışa çıktı.",
+                    "contentLink": [
+                        "https://www.akakce.com/arama/?q=rtx+spark"
+                    ]
+                },
+                {
+                    "contentText": "Söylendiler güçleniyor: NVIDIA RTX 5090 piyasadan kalkıyor olabilir.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA, DLSS 5'i yeni oyunlara uyarlarken, bir yandan da geliştiriyor.",
+                    "contentLink": [
+                        "https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/"
+                    ]
+                },
+                {
+                    "contentText": "Intel eski başkanı Gelsinger: “HBM, korkunç bir bellek mimarisi”",
+                    "contentLink": [
+                        "https://wccftech.com/intels-ex-ceo-pat-gelsinger-says-hbm-is-a-hideous-memory-replete-with-terrible-bit-density-and-thermal-and-shoreline-bandwidth-issues-even-as-nanya-reiterates-dram-shortages-till-2028/?fbclid=Iwb21leAU8COtjbGNrBTwI6GV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEei45VEnLh8ianmowqYYtOTuZuN9A028Sbzji3Ec8BMd0MJDFkncxTnOc-SrI_aem_A_TMeL9L-QZLuODol5Ro2A"
+                    ]
+                },
+                {
+                    "contentText": "Intel, gerek duyduğu kritik anlaşmaların çoğunu yapmış olabilir.",
+                    "contentLink": [
+                        "https://wccftech.com/keybanc-says-intel-has-won-contracts-from-broadcom-google-apple-amd-microsoft-and-nvidia-while-amazon-anthropic-and-spacexs-terafab-continue-to-evaluate-its-14a-and-18a-p-processes/"
+                    ]
+                },
+                {
+                    "contentText": "Intel başkanı da YZ konusunda açık kaynak modellerin başarısına inanıyor.",
+                    "contentLink": [
+                        "https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-may-have-just-agreed-with-nvidia-ceo-jensen-huang-and-metas-former-chief-ai-scientist-yann-lecun-on-open-source-ai-models/amp_articleshow/134894607.cms"
+                    ]
+                },
+                {
+                    "contentText": "IBM, 0.7nm üretim teknolojisini yonga tasarımcılara sunuyor.",
+                    "contentLink": [
+                        "https://wccftech.com/ibm-opens-its-0-7nm-nanostack-process-to-chip-designers-in-q1-2027-shipping-design-kits-for-tech-that-could-be-the-next-breakthrough-for-reducing-ai-chip-size/"
+                    ]
+                },
+                {
+                    "contentText": "YZ “haylazlıklarına” yenisi eklendi. Claude polise yalan cinayet ihbarı göndermiş.",
+                    "contentLink": [
+                        "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
+                    ]
+                },
+                {
+                    "contentText": "Anthropic uyarıyor: “YZ modelleri ev eşyalarına sızabilir”",
+                    "contentLink": [
+                        "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/"
+                    ]
+                },
+                {
+                    "contentText": "Aktör Ben Affleck, kurduğu YZ stüdyosunu Netflix’e sattı.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix#:~:text=%E2%80%9CWe%20also%20built%20in%20restraints%20to%20protect,Film%20industry.%20*%20Mergers%2C%20acquisitions%20and%20funding"
+                    ]
+                },
+                {
+                    "contentText": "Sony, 3 yeni Android Walkman duyurdu.",
+                    "contentLink": [
+                        "https://www.notebookcheck.net/Sony-unveils-gold-plated-5-900-Walkman-that-delivers-only-1-1-mW-of-power-in-some-regions.1425983.0.html"
+                    ]
+                },
+                {
+                    "contentText": "Legacy Games oyun mağazası kapanıyor.",
+                    "contentLink": [
+                        "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
+                    ]
+                },
+                {
+                    "contentText": "Oyun endüstrisi, cracker Voices38'in peşini bırakmıyor.",
+                    "contentLink": [
+                        "https://torrentfreak.com/game-industry-asks-u-s-to-flag-denuvo-cracker-voices38-as-notorious-piracy-threat/"
+                    ]
+                },
+                {
+                    "contentText": "Total War: Shogun 2 – Complete Edition, bu hafta satışa çıktı ve bu hafta satıştan kaldırıldı.",
+                    "contentLink": [
+                        "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft’dan yeni bir girişim: Xbox Labs",
+                    "contentLink": [
+                        "https://www.geekwire.com/2026/microsoft-forms-xbox-labs-to-explore-game-remixes-ports-and-other-new-frontiers/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Flight Sim. için özel tasarlanmış kontrolcü, 20 Kasımda çıkıyor.",
+                    "contentLink": [
+                        "https://www.notebookcheck.net/Special-Xbox-controller-for-Microsoft-Flight-Simulator-arrives-Nov-20-reservations-open.1425717.0.html"
+                    ]
+                },
+                {
+                    "contentText": "Wing Commander III, remastered sürümüyle gelecek.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/"
+                    ]
+                }
+            ]
         }
     ]
 }
