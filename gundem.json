@@ -134194,6 +134194,122 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 42,
+            "totalCount": 807,
+            "uploadDate": "24.10.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/10/hgd_807_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=nQIGfMXCRPY",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-807",
+            "rangeFirstDate": "19.10.2026",
+            "rangeLastDate": "24.10.2026",
+            "podcastTime": 2471,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/42 (19 - 24 Ekim 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Türkiye pazarında yeni bir marka: Aerstone",
+                    "contentLink": [
+                        "https://www.green.net.tr/aerstone"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA RTX Spark yongalı dizüstü bilgisayarlar, Türkiye pazarında da satışa sunuldu.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Gizemli PHP açığı, tüm dünyayı meşgul etti: PHP2Shell",
+                    "contentLink": [
+                        "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+                    ]
+                },
+                {
+                    "contentText": "Araştırmacının iddiası: Türkiye’nin tüm kurumları önemli güvenlik açıklarına sahip.",
+                    "contentLink": [
+                        "https://itsmelsec.substack.com/p/how-i-hacked-an-entire-country-through"
+                    ]
+                },
+                {
+                    "contentText": "Karar verildi, “Artık Saniye” kaldırılıyor.",
+                    "contentLink": [
+                        "https://www.bipm.org/en/cgpm-2026/resolution-5"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, ReFS dosya sistemiyle formatlanmış harici depolama araçlarını engelleyecek.",
+                    "contentLink": [
+                        "https://wccftech.com/microsoft-to-block-refs-formatted-usb-drives-and-external-storage-on-windows-starting-january-2027/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, Windows 11’deki Copilot entegrasyonunu azaltıyor.",
+                    "contentLink": [
+                        "https://www.windowslatest.com/2026/10/21/microsoft-is-now-scaling-back-copilot-in-windows-11-amid-microslop-backlash-pulling-8-ai-actions-from-file-explorer-and-calling-it-simplifying/"
+                    ]
+                },
+                {
+                    "contentText": "AMD, FSR teknolojisinin kapsamını ciddi oranda genişletiyor.",
+                    "contentLink": [
+                        "https://newsroom.amd.com/news/amd-fsr-upscaling-4-1-boosts-frames-image-quality/"
+                    ]
+                },
+                {
+                    "contentText": "Ryzen 7 5800X3D 10. Yıl Sürümü, Lisa Su’dan AM4 kullanıcılarına hediyeymiş",
+                    "contentLink": [
+                        "https://wccftech.com/lisa-su-wanted-ryzen-7-5800x3d-as-the-final-gift-for-am4-owners/"
+                    ]
+                },
+                {
+                    "contentText": "Anthropic için 2026’nın ilk yarısı, 80 Milyar $ zarar.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/?link_source=ta_bluesky_link&taid=6ad7ce22ab53aa0001d9b4e2"
+                    ]
+                },
+                {
+                    "contentText": "Anthropic’in hazırladığı kanun tasarısı: “50den az kişi ölürse sorun yok”",
+                    "contentLink": [
+                        "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+                    ]
+                },
+                {
+                    "contentText": "Linus Torvalds’tan Linux çekirdeğine ilk AI destekli katkı.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself"
+                    ]
+                },
+                {
+                    "contentText": "AMD’nin “PR Rating” sistemini denemesinden bu yana 25 yıl geçti.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/cpus/amd-tried-to-crush-the-megahertz-myth-25-years-ago-today-debuting-its-performance-rating-system-athlon-xp-chips-introduced-the-scheme-which-endured-until-intel-lost-its-clock-speed-advantage-with-pentium-m"
+                    ]
+                },
+                {
+                    "contentText": "Efsane oyunların yapımcısı Bioware, kapandı.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/articles/cq8jzrxlkmwmo"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft Xbox’ı satacak mı? Sektör 150 Milyar $’a kadar fiyat biçmekte.",
+                    "contentLink": [
+                        "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/"
+                    ]
+                },
+                {
+                    "contentText": "Japonya’dan Shigeru Miyamoto’ya kültür ödülü.",
+                    "contentLink": [
+                        "https://www.gamesradar.com/games/zelda-and-mario-creator-shigeru-miyamoto-becomes-first-ever-dev-to-receive-japans-greatest-cultural-award-but-hes-crediting-all-of-nintendo-these-achievements-were-not-the-work-of-one-person/"
+                    ]
+                },
+                {
+                    "contentText": "Epic’den AI oyun geliştirme yarışması: 2026 Epic AI MegaJam",
+                    "contentLink": [
+                        "https://www.unrealengine.com/news/2026-epic-ai-megajam"
+                    ]
+                }
+            ]
         }
     ]
 }
