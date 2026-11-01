@@ -134310,6 +134310,124 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 43,
+            "totalCount": 808,
+            "uploadDate": "31.10.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/10/hgd_808_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=oQYZeaB6qiQ",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-808",
+            "rangeFirstDate": "26.10.2026",
+            "rangeLastDate": "31.10.2026",
+            "podcastTime": 1825,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/43 (26 - 31 Ekim 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Türkiye Yapay Zeka Zirvesi 2026, 11 - 12 Kasım tarihlerinde gerçekleşecek.",
+                    "contentLink": [
+                        "https://zirve.turkiye.ai/"
+                    ]
+                },
+                {
+                    "contentText": "Binance soygunu kripto paraları tekrar gündeme taşıdı.",
+                    "contentLink": [
+                        "https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history"
+                    ]
+                },
+                {
+                    "contentText": "Intel, finansal hedeflerini tutturmakta zorlanıyor.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/intel-signals-slower-growth-pc-market-remains-under-pressure-2026-10-29/"
+                    ]
+                },
+                {
+                    "contentText": "Intel, Advanced Performance Extensions (APX) komutlarıyla uygulamaları hızlandıracak.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus"
+                    ]
+                },
+                {
+                    "contentText": "Pat Gelsinger yeni bellek teknolojisini seçti: Z2RAM",
+                    "contentLink": [
+                        "https://wccftech.com/former-intel-ceo-patrick-gelsinger-backs-breakthrough-new-memory-technology-that-could-resolve-big-ai-chip-bottleneck/"
+                    ]
+                },
+                {
+                    "contentText": "Solidigm, ABD’de üretim tesisi kurmayı planlıyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/tech-industry/manufacturing/sk-hynix-owned-solidigm-is-plotting-a-new-usd45-billion-flash-memory-factory-for-the-us-report-claims-wants-go-ahead-to-export-equipment-for-china-upgrades-in-return"
+                    ]
+                },
+                {
+                    "contentText": "SK Hynix: “Bellek krizi 2030'a kadar sürer.”",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/114347/sk-hynix-warns-the-memory-shortage-will-last-through-2030-as-ai-demand-keeps-growing/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Samsung: “2027 daha kötü olacak, 2028 de sıkıntılı geçecek.”",
+                    "contentLink": [
+                        "https://wccftech.com/samsung-memory-shortages-worse-in-2027-supply-constraints-persist-into-2028/"
+                    ]
+                },
+                {
+                    "contentText": "Sam Altman, kimseye bellek kalmasın istiyor.",
+                    "contentLink": [
+                        "https://cryptobriefing.com/sam-altman-local-ai-inference-dram/"
+                    ]
+                },
+                {
+                    "contentText": "Bellek krizine alışmışken, şimdi de PCB krizi geliyor.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x"
+                    ]
+                },
+                {
+                    "contentText": "ASUS, Intel işlemcili YZ hızlandırıcı kartını duyurdu.",
+                    "contentLink": [
+                        "https://press.asus.com/news/press-releases/asus-ugen-intel-arc-pro-b70-32gb-ai-accelerator/"
+                    ]
+                },
+                {
+                    "contentText": "Sunucular yine tehdit altında, bu sefer açık BIOS cephesinden.",
+                    "contentLink": [
+                        "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, DirectX Raytracing sistemini güncelliyor.",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/114394/microsoft-claims-66x-faster-ray-tracing-builds-with-its-biggest-directx-update-since-2018/index.html"
+                    ]
+                },
+                {
+                    "contentText": "Amerikalı T-Mobile, görüşmeleri tercüme edecek.",
+                    "contentLink": [
+                        "https://www.t-mobile.com/benefits/live-translation"
+                    ]
+                },
+                {
+                    "contentText": "Herkese açık durumdaki Discord sunucularındaki mesajlar, aramalarda çıkacak.",
+                    "contentLink": [
+                        "https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google"
+                    ]
+                },
+                {
+                    "contentText": "Forza serisinin mimarı Dan Greenawalt, Microsoft’tan ayrılıyor.",
+                    "contentLink": [
+                        "https://www.shacknews.com/article/151197/turn-10-studios-dan-greenawalt-retires"
+                    ]
+                },
+                {
+                    "contentText": "GOG, oyun yayınlamaya da girişecek.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/gaming-industry/gogs-getting-into-publishing-in-its-new-post-cd-projekt-life-and-it-already-has-games-on-the-way/"
+                    ]
+                }
+            ]
         }
     ]
 }
