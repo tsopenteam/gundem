@@ -134428,6 +134428,153 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 44,
+            "totalCount": 809,
+            "uploadDate": "07.11.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/11/hgd_809_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=RXceKbKHSaE",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-809",
+            "rangeFirstDate": "02.11.2026",
+            "rangeLastDate": "07.11.2026",
+            "podcastTime": 2795,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/44 (2 - 7 Kasım 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Türkiye pazarında yeni bir yerli marka: ZEED",
+                    "contentLink": [
+                        "https://zeedmobile.com/tr/"
+                    ]
+                },
+                {
+                    "contentText": "Binance saldırısının detayları netleşiyor.",
+                    "contentLink": [
+                        "https://www.bloomberght.com/binance-siber-saldirinin-perde-arkasini-acikladi-3793350"
+                    ]
+                },
+                {
+                    "contentText": "Google, milyonlarca cihazı içeren bir bot ağını çözdü.",
+                    "contentLink": [
+                        "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/"
+                    ]
+                },
+                {
+                    "contentText": "Logitech’ten YZ destekli MX Master 4 fare.",
+                    "contentLink": [
+                        "https://www.notebookcheck.net/Logitech-releases-MX-Master-4-Developer-Edition-with-AI-support-and-new-design.1438689.0.html"
+                    ]
+                },
+                {
+                    "contentText": "ASUS’dan Thunderbolt 5 bağlantılı harici ekran kartı istasyonu: ROG XG Station 3",
+                    "contentLink": [
+                        "https://overclock3d.net/news/gpu-displays/asus-launches-its-rog-xg-station-3-gpu-dock-with-thunderbolt-5/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’dan ekran kartına yeni ayar: Uygulama Önceliği",
+                    "contentLink": [
+                        "https://wccftech.com/nvidia-app-quietly-adds-gpu-prioritization-controls-but-the-new-feature-isnt-available-to-everyone/"
+                    ]
+                },
+                {
+                    "contentText": "64 ve 96GB bellekli RTX 5090 modelleri gerçek olabilir mi?",
+                    "contentLink": [
+                        "https://www.tweaktown.com/news/114444/rtx-5090-with-64gb-and-96gb-vram-confirmed-by-us-gpu-repair-tech/index.html"
+                    ]
+                },
+                {
+                    "contentText": "İddia: NVIDIA, Çin’den gelen 70 Milyar $’lık siparişi karşılayamıyor.",
+                    "contentLink": [
+                        "https://www.eteknix.com/nvidia-reportedly-unable-to-fulfill-99-of-massive-70-billion-ai-gpu-order-from-chinese-tech-giants/?fbclid=Iwb21leAVZ6vNjbGNrBVnq72V4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfkvxlYLjYlh0zR4OZ7LB74Dm6cLOXgjQROXwBZcUDOjBxYJHC7kQIoC0ExaY_aem_LyJfZhmuZEcaEK7i0SdYAQ"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA’ya şimdi de hırsızlık şoku.",
+                    "contentLink": [
+                        "https://www.eteknix.com/nvidia-cargo-theft-oakland-11-4m-hardware/"
+                    ]
+                },
+                {
+                    "contentText": "Borsada büyük yara alan Intel, üretimi sunucu işlemcilerine kaydırıyor.",
+                    "contentLink": [
+                        "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+                        "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history"
+                    ]
+                },
+                {
+                    "contentText": "YouTube, AV2 video formatına hazırlanıyor.",
+                    "contentLink": [
+                        "https://videocardz.com/newz/youtube-to-begin-av2-streaming-as-early-as-2027-google-already-testing-chrome-support"
+                    ]
+                },
+                {
+                    "contentText": "Fujifilm, manyetik bant üretimini arttırıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+                    ]
+                },
+                {
+                    "contentText": "Kredi kartlarındaki manyetik şerit, kalkıyor.",
+                    "contentLink": [
+                        "https://www.thestreet.com/economy/the-magnetic-stripe-obituary-for-your-credit-cards"
+                    ]
+                },
+                {
+                    "contentText": "Rekabet Kurumu, Google’a Yapay Zeka Ön İzlemeleri konusunda tedbir kararı açıkladı.",
+                    "contentLink": [
+                        "https://bigpara.hurriyet.com.tr/haberler/teknoloji-haberleri/rekabet-kurumundan-googlea-tedbir-karari_ID102280241/"
+                    ]
+                },
+                {
+                    "contentText": "Pegasus Havayollarından veri sızıntısı şüphesi.",
+                    "contentLink": [
+                        "https://btdunyasi.net/pegasus-havayollari-yine-veri-sizintisi-ile-gundemde-173-gb-veri-calindigi-one-suruldu/"
+                    ]
+                },
+                {
+                    "contentText": "Canva, küçülmeye gidiyor.",
+                    "contentLink": [
+                        "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/"
+                    ]
+                },
+                {
+                    "contentText": "Windows Vista 20 yaşında.",
+                    "contentLink": []
+                },
+                {
+                    "contentText": "Anthropic, Claude’ın oyun yeteneklerini kısıtlıyor.",
+                    "contentLink": [
+                        "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
+                    ]
+                },
+                {
+                    "contentText": "Itch.io sitesinden ilginç açıklama: YZ ile uygulama yayınları katlandı, satışlar katlanmadı.",
+                    "contentLink": [
+                        "https://bsky.app/profile/itch.io/post/3mz7vzjwhgs23"
+                    ]
+                },
+                {
+                    "contentText": "God of War Laufey, 20 Mayıs’a ertelendi.",
+                    "contentLink": [
+                        "https://www.oyungunlugu.com/en/news/god-of-war-laufey-delayed-new-release-date-is-may-20-2027"
+                    ]
+                },
+                {
+                    "contentText": "EA, tüm Wing Commander serisini ve başka bir çok klasik oyunu Steam’de satışa açtı.",
+                    "contentLink": [
+                        "https://store.steampowered.com/news/app/1996640/view/703284199845528351"
+                    ]
+                },
+                {
+                    "contentText": "Windows’daki Xbox uygulaması, hızlanacak.",
+                    "contentLink": [
+                        "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/"
+                    ]
+                }
+            ]
         }
     ]
 }
