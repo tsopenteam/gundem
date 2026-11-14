@@ -134575,6 +134575,155 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 45,
+            "totalCount": 810,
+            "uploadDate": "14.11.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/11/hgd_810_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=85HQBbHrk_I",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-810",
+            "rangeFirstDate": "09.11.2026",
+            "rangeLastDate": "14.11.2026",
+            "podcastTime": 2499,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/45 (9 - 14 Kasım 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "NVIDIA’da işler karıştı, başkan Jensen Huang istifa etti.",
+                    "contentLink": [
+                        "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline"
+                    ]
+                },
+                {
+                    "contentText": "Apple, Türkiyeye kapsamlı yatırım yapacak.",
+                    "contentLink": [
+                        "https://www.apple.com/tr/newsroom/2026/11/apple-announces-multiyear-investment-in-turkiye/"
+                    ]
+                },
+                {
+                    "contentText": "AMD için de öncelik artık kurumsal pazar.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114475-after-amd-gaming-revenue-crashes-40-ceo-lisa.html"
+                    ]
+                },
+                {
+                    "contentText": "AMD Venice-X işlemciler 5.3GHz’i geçmeyecek.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth"
+                    ]
+                },
+                {
+                    "contentText": "Intel Nova Lake işlemciler 90 derecenin altına kalmadıkça 5.1GHz’i geçmeyecek.",
+                    "contentLink": [
+                        "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips"
+                    ]
+                },
+                {
+                    "contentText": "Charles Kao: CXMT, pazarı belleğe boğacak",
+                    "contentLink": [
+                        "https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/?fbclid=Iwb21leAVjB61jbGNrBWMHqmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfxk-I_HIJ7Zs8AIDcccQRitfL1o_SXowFe6M6TEassXPw0N6g3TgFmSn_ylM_aem_ZmFrZWR1bW15MTZieXRlcw"
+                    ]
+                },
+                {
+                    "contentText": "Seagate, “melez” HDD konseptini tekrar deniyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/"
+                    ]
+                },
+                {
+                    "contentText": "Windows 11, sisteme yüklü diğer uygulamaların da güncellemelerini yönetebilecek.",
+                    "contentLink": [
+                        "https://www.pcworld.com/article/3281221/windows-11-might-be-getting-a-central-hub-for-app-updates.html"
+                    ]
+                },
+                {
+                    "contentText": "Amerikan Havacılık İdaresi (FAA), disket kullanmayı bırakıyor.",
+                    "contentLink": [
+                        "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/"
+                    ]
+                },
+                {
+                    "contentText": "YZ devlerine, geliştirmeyi durdurmaya yönelik yeni dava.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
+                    ]
+                },
+                {
+                    "contentText": "Google, Gemini 4 Hydrogen sürümünü duyurdu.",
+                    "contentLink": [
+                        "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+                    ]
+                },
+                {
+                    "contentText": "YZ üretimi yamalar, deneyimli Linux geliştiricisini pes ettirdi.",
+                    "contentLink": [
+                        "https://www.phoronix.com/news/Lorenzo-Stoakes-AI-Flood"
+                    ]
+                },
+                {
+                    "contentText": "HDMI kablolarından sızan radyasyon, ekrandakileri ele veriyor.",
+                    "contentLink": [
+                        "https://wccftech.com/deep-tempest-ai-intercepts-hdmi-electromagnetic-leak-pc-screen-spying/?fbclid=Iwb21leAVfrCtjbGNrBV-sKGV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfOnM60f4HtyWDrrsTkXwJkLV6REnP3nmMSOEdB_3K9GvcJQK2E-agtHookJA_aem_THO68b5Sds97WcKk8mXT3Q"
+                    ]
+                },
+                {
+                    "contentText": "Anna’s Archive, Library Genesis (LibGen) ve RandomBook siteleri erişime engellendi.",
+                    "contentLink": [
+                        "https://ifade.org.tr/engelliweb/annas-archive-libgen-ve-randombook-erisime-engellendi/"
+                    ]
+                },
+                {
+                    "contentText": "2026 Altın Joystick Ödülleri dağıtıldı.",
+                    "contentLink": [
+                        "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards/"
+                    ]
+                },
+                {
+                    "contentText": "Xbox 25 yaşında, Playstation 3 ise 20 yaşında.",
+                    "contentLink": [
+                        "https://news.xbox.com/en-us/2026/11/12/25-years-of-xbox/",
+                        "https://www.timeextension.com/news/2026/11/anniversary-ps3-sonys-most-controversial-playstation-turns-20-today"
+                    ]
+                },
+                {
+                    "contentText": "Yeni id Software oyunu ve Wolfenstein serisine 3. oyun geliyor.",
+                    "contentLink": [
+                        "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game"
+                    ]
+                },
+                {
+                    "contentText": "DOOM The Dark Ages Revelations, Slaughter moduna kavuşacak.",
+                    "contentLink": [
+                        "https://www.youtube.com/watch?v=GCehmwCXurI"
+                    ]
+                },
+                {
+                    "contentText": "21 orijinal Xbox oyununun daha PC’de çalışması sağlandı.",
+                    "contentLink": [
+                        "https://news.xbox.com/en-us/2026/11/12/25-original-xbox-games-now-available-on-pc/"
+                    ]
+                },
+                {
+                    "contentText": "Xbox oyuncuları, oyun geçmişlerine bakabilecek: XBOX Playback",
+                    "contentLink": [
+                        "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/"
+                    ]
+                },
+                {
+                    "contentText": "Katsuhiro Harada: Keşke Series S gibi konsollar üretilmese.",
+                    "contentLink": [
+                        "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
+                    ]
+                },
+                {
+                    "contentText": "id Software’den ayrılan çalışanlar, kendi stüdyolarını kurdu: Hidden Horses",
+                    "contentLink": [
+                        "https://www.verticalslice.news/former-id-software-developers-establish-worker-owned-independent-studio-hidden-horses/?gift=cIODhVfKBrEKr4pjQQhHfO7ufUXCz1hN"
+                    ]
+                }
+            ]
         }
     ]
 }
