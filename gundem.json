@@ -134724,6 +134724,106 @@
                     ]
                 }
             ]
+        },
+        {
+            "year": "2026",
+            "count": 46,
+            "totalCount": 811,
+            "uploadDate": "21.11.2026",
+            "podcastLink": "https://teknoseyir.com/yuklemeler/podcast/2026/11/hgd_811_ses.mp3",
+            "videoLink": "https://www.youtube.com/watch?v=AICcKXNmKG8",
+            "siteLink": "https://teknoseyir.com/haftalik-gundem-degerlendirmesi-810-2",
+            "rangeFirstDate": "16.11.2026",
+            "rangeLastDate": "21.11.2026",
+            "podcastTime": 1798,
+            "titlePodcast": "Teknoseyir Haftalık Gündem Değerlendirmesi 2026/46 (16 - 21 Kasım 2026)",
+            "explanationPodcast": "",
+            "content": [
+                {
+                    "contentText": "Microsoft bulut hizmetlerindeki aksama, geçen Cuma günü tüm dünyayı etkiledi.",
+                    "contentLink": [
+                        "https://www.reuters.com/technology/microsoft-365-outlook-down-thousands-us-users-downdetector-shows-2026-11-12/"
+                    ]
+                },
+                {
+                    "contentText": "Anthropic, borsaya açıldı.",
+                    "contentLink": [
+                        "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
+                    ]
+                },
+                {
+                    "contentText": "MSI, RTX Spark temelli EdgeMesa Mini PC’leri duyurdu.",
+                    "contentLink": [
+                        "https://tr.msi.com/Edge-AI-PC/EdgeMesa-N-AI-plus/Overview"
+                    ]
+                },
+                {
+                    "contentText": "ASUS’da RTX Spark temelli mini bilgisayarını duyurdu.",
+                    "contentLink": [
+                        "https://wccftech.com/asus-officially-launches-nvidia-rtx-spark-powered-proart-gr1x/"
+                    ]
+                },
+                {
+                    "contentText": "NVIDIA çalkantısında yeni açılımlar sürüyor: GPU fiyatları yapay olarak mı yükseltildi?",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+                    ]
+                },
+                {
+                    "contentText": "Bellek devleri yine dava ediliyor.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114580-samsung-micron-sk-hynix-accused-conspiring-inflate-ram.html"
+                    ]
+                },
+                {
+                    "contentText": "JEDEC, DDR6 belleklerin standartlarını açıkladı.",
+                    "contentLink": [
+                        "https://wccftech.com/jedec-unveils-next-gen-ddr6-memory/"
+                    ]
+                },
+                {
+                    "contentText": "Flash bellek fiyatlarında düşüş gözleniyor.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114630-nand-flash-prices-fell-20-last-two-weeks.html"
+                    ]
+                },
+                {
+                    "contentText": "Google, Android uygulamalarının katlanabilir telefonlara uyumlu olması için bastıracak.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114626-google-force-android-developers-make-their-apps-work.html"
+                    ]
+                },
+                {
+                    "contentText": "Google mühendisleri, Gemma 3'ün 270 Milyon parametreli sürümünü laser printerda çalıştırdı.",
+                    "contentLink": [
+                        "https://wccftech.com/google-engineer-runs-gemma-3-270m-ai-model-directly-on-office-printer-via-postscript/?fbclid=Iwb21leAVsDktjbGNrBWv9x2V4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEfhCbMGeb4tl2uedfkVwQ_rZJJZdl2jbuMKkmPKUrJpI3nGAin5v25WBGO4-o_aem_3E0lXMZ788SiO-IazKhUag"
+                    ]
+                },
+                {
+                    "contentText": "Canva, YZ özelliklerini kapama olanağı ekledi.",
+                    "contentLink": [
+                        "https://mezha.ua/en/news/canva-adds-ai-controls-317389/"
+                    ]
+                },
+                {
+                    "contentText": "TeknoSeyir Takipçilerinden: Engelsiz İşitme",
+                    "contentLink": [
+                        "https://play.google.com/store/apps/details?id=com.isaret.app"
+                    ]
+                },
+                {
+                    "contentText": "GTA VI çıktı.",
+                    "contentLink": [
+                        "https://www.bbc.com/news/articles/c9zr5nyv5dj2o"
+                    ]
+                },
+                {
+                    "contentText": "Microsoft, AMD’nin yazılım hamlelerini Xbox’a performans desteğine çevirecek.",
+                    "contentLink": [
+                        "https://www.techspot.com/news/114617-microsoft-experimenting-open-source-amd-code-give-xbox.html"
+                    ]
+                }
+            ]
         }
     ]
 }
